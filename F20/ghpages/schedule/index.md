@@ -3,56 +3,39 @@ layout: page
 title: "Latin 101, F'20: course schedule"
 ---
 
-## Introduction: describing archaeological data (Roman imperial coins)
+## Latin nouns and adjectives
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Aug. 24-Aug. 28 | What is archaeological data analysis? | [Managing digital data](../assignments/managing)| [The *Roman Imperial Coinage* data set and *Online Coins of the Roman Empire*](../assignments/ric) |     **Bring your laptop to class** on Thursday |
+|Aug. 31-Sep. 4 | NO CLASSES | Introduction to course| Nouns |      |
+|Sep. 7-Sep. 11 | Adjectives | Demonstratives| -ius adjectives |      |
 
 
-## Working with legacy data (Greek painted pottery)
-
-| Week | Mon     |  Wed     |  Fri     | Notes |
-| :------------- | :------------- |:------------- | :-------------| :-------------|
-|Sep. 7-Sep. 11 | [Beazley's *Attic Black-Figure Vase Painters* and *Attic Red-Figure Vase Painters*](../assignments/beazley) | Trip to WAM cancelled| [Introduction to geographic information systems](../assignments/gis) |      |
-
-
-## Textual sources and spatial analysis (Ptolemy's catalog of the world)
+## Verbs
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Sep. 21-Sep. 25 | Ptolemy's *Geography* | [Class field trip to WAM](../assignments/wam)| [Scaling and aligning Ptolemy's data](../assignments/ptolemy1) |      |
+|Sep. 14-Sep. 18 | Composition workshop | Verbs| Imperfect tense |      |
+|Sep. 21-Sep. 25 | Sum, esse, fui | Possum| Reading practice |      |
+|Sep. 28-Oct. 2 | Review | NO CLASS| Composition workshop |      |
+|Oct. 5-Oct. 9 | Review | Competency Quiz| Competency Quiz |     Composition 2 due. 1 2 |
 
 
-### Spring break
-
-| Week | Mon     |  Wed     |  Fri     | Notes |
-| :------------- | :------------- |:------------- | :-------------| :-------------|
-|Oct. 5-Oct. 9 | *Spring break* | *Spring break*| Reviewing distribution of Attic vase painting |      |
-|Oct. 12-Oct. 16 | [Completion of module 2](../assignments/module2/) | Density and precision in Ptolemy's *Geography*| Complete module 3 |      |
-
-
-## Spatial networks (Greek coin hoards)
+## Time, purpose
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
+|Oct. 12-Oct. 16 | Expressions of place and time | Gerunds and gerundives| More gerunds and gerundives |     Competency Quiz 3 |
 
 
-## Clustering data (How did rooms function in Pompeii?)
-
-| Week | Mon     |  Wed     |  Fri     | Notes |
-| :------------- | :------------- |:------------- | :-------------| :-------------|
-
-
-## Exploring other topics
+## More verb tense
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Nov. 2-Nov. 6 | Discussion of project proposals | *Easter break*| Revisiting Roman imperial coinage |      |
-
-
-## Project presentation and course review
-
-| Week | Mon     |  Wed     |  Fri     | Notes |
-| :------------- | :------------- |:------------- | :-------------| :-------------|
-|Nov. 16-Nov. 20 | Presentations, 1 | Presentations, 2| Building a web site for your digital portfolio |      |
+|Oct. 19-Oct. 23 | Interrogative adjectives and pronouns | Present active and passive indicative| Future active and passive indicative |      |
+|Oct. 26-Oct. 30 | Imperfect active and passive subjunctive | Present active and passive subjunctive| Verb review |      |
+|Nov. 2-Nov. 6 | Verb competency quiz 1 | Verb competency quiz 2| Verbal competency quiz 3 |      |
+|Nov. 9-Nov. 13 | Deponent verbs, indirect statement | Personal pronouns and reflexives| Temporal clauses |      |
+|Nov. 16-Nov. 20 | Perfect and pluperfect active and passive subjunctive | Irregular Verbs: ferō, ferre, tulī, lātus; eō, īre, iī/īvī, itūrus| Irregular Verbs: volō, nōlō, and mālō |      |
+|Nov. 23-Nov. 27 | Composition workshop. | Review| Grammatical competency quiz 1 |     Translation 5 due. Composition 5 due |
+|Nov. 30-Dec. 4 | Grammatical competency quiz 2 | Grammatical competency quiz 3| STUDY PERIOD |      |
