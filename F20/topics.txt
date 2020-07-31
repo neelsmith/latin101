@@ -3,7 +3,7 @@
 
 **no classes**#
 [Introduction to course](../assignments/intro/)#
-Nouns#
+[Nouns](../assignments/nouns/)#
 
 Adjectives
 Demonstratives
