@@ -1,17 +1,16 @@
 
-## Latin nouns and adjectives
+### Noun-adjective agreement
 
-NO CLASSES#
-Introduction to course#
+**no classes**#
+[Introduction to course](../assignments/intro/)#
 Nouns#
-
 
 Adjectives
 Demonstratives
 -ius adjectives
 
 
-## Verbs
+### Verbs
 
 Composition workshop
 Verbs
@@ -32,18 +31,17 @@ Review#Composition 2 due.
 Competency Quiz #1
 Competency Quiz #2
 
-## Time, purpose
+## Unit 2: expressing purpose, asking questions
 
 Expressions of place and time#Competency Quiz 3
 Gerunds and gerundives
 More gerunds and gerundives
 
-## More verb tense
+### More verb tenses
 
 Interrogative adjectives and pronouns
 Present active and passive indicative
 Future active and passive indicative
-
 
 
 Imperfect active and passive subjunctive
@@ -55,7 +53,7 @@ Verb competency quiz 1
 Verb competency quiz 2
 Verbal competency quiz 3
 
-
+## Unit 3:
 
 Deponent verbs, indirect statement
 Personal pronouns and reflexives
