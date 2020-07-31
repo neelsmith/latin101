@@ -7,21 +7,22 @@ nav_order: 0
 
 # Latin 101-01, F'20: home page
 
-Announcements
+## Announcements
 
-Basic information
+- Welcome to Latin 101!
 
-Course description
+## Schedule
 
+Daily [schedule](./schedule/) (including links to assignments)
 
-Goals and objectives
+## Resources
 
-Requirements and grading
+[Resources for Latin 101](./resources) (on this site and elsewhere)
 
-Resources
+## Syllabus: all about this course
 
-Diversity and inclusion
-
-CBL
-
-[Schedule](./schedule/)
+- [contact and meeting times](./syllabus/basic/)
+- [course description](./syllabus/description/)
+- [goals and objectives](./syllabus/goals/)
+- [CBL work](./syllabus/cbl/)
+- [requirements and grading](./requirements/)

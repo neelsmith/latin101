@@ -7,9 +7,9 @@ nav_order: 0
 
 # Contact and basic information
 
-Contact
 
+Instructor: Neel Smith.  Email: at `holycross.edu`, user name `nsmith`
 
-Meetings
+Regular meeting times:  MWF at regularly scheduled course time via Zoom
 
-Drop-in hours
+Scheduled drop-in hours: TBA
