@@ -13,7 +13,7 @@ nav_order: 1
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Aug. 31-Sep. 4 | **no classes** | [Introduction to course](../assignments/intro/)| Nouns |      |
+|Aug. 31-Sep. 4 | **no classes** | [Introduction to course](../assignments/intro/)| [Nouns](../assignments/nouns/) |      |
 |Sep. 7-Sep. 11 | Adjectives | Demonstratives| -ius adjectives |      |
 
 
