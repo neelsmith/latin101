@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Introduction to course
-parent: Course schedule
+grand_parent: Course schedule
+parent: "Unit 1: an inflected language"
 ---
 
 
