@@ -6,7 +6,7 @@ nav_order: 4
 ---
 
 
-# Unit 2: expressing purpose, asking questions
+# Unit 2: expressing time and purpose
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
