@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Parallel columns sandbox
+title: Topics for semester
 parent: Graphs
 ---
 
