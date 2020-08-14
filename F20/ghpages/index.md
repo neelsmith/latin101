@@ -11,6 +11,8 @@ nav_order: 0
 
 - Welcome to Latin 101!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rm7NZqHxFNE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Schedule
 
 Daily [schedule](./schedule/) (including links to assignments)
