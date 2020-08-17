@@ -3,8 +3,8 @@
 ## Noun-adjective agreement
 
 **no classes**#
-[Introduction to course](../assignments/intro/)#
-[Nouns](../assignments/nouns/)#
+[Introduction to course](/assignments/intro/)#
+[Nouns](/assignments/nouns/)#
 
 Adjectives
 Demonstratives
@@ -14,7 +14,7 @@ Demonstratives
 ## Verbs
 
 Composition workshop
-Verbs
+[Verbs](/assignments/verbs/)
 Imperfect tense
 
 
