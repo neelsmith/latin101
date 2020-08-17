@@ -6,15 +6,16 @@ parent: "Verbs"
 
 # Verbs: self-correcting exercise
 
-Vocabulary to memorize:
+Verbs to memorize:
 
 - dō, dare, dedī, datus
 - dūcō, dūcere, dūxī, ductus
 - faciō, facere, fēcī, factus  and its compound
     - interficiō, interficere, interfēcī, interfectus
-  
 
-## Two deeds of Hercules
+
+
+## Three stories about Hercules
 
 
 | The mares of Diomedes | Cerberus | Punishment for the theft of the Delphic tripod |
