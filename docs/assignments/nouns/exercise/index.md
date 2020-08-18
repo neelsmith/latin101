@@ -41,7 +41,7 @@ Coins are linked to larger images if you want a closer look.
 
 
 | --- | --- | --- | --- |
-| [![](/imgs/ric1_2_aug.164a.png)](/imgs/ric1_2_aug.164a.png) <br/> **AVGVSTVS DIVI F(ILIVS)** | [![](/imgs/ric-1_2-gai-7.png)](/imgs/ric-1_2-gai-7.png) <br/> **AGRIPPINA MAT(ER) G(AII) CAES(ARIS) AVG(VSTI) GERM(ANICI)** | [![](/imgs/ric2_1_2_tit-388.png)](/imgs/ric2_1_2_tit-388.png) <br/> **IVLIA AVGVSTA TITI AVGVSTI F(ILIA)** | [![](/imgs/ric2_1_2_tit-388-rev.png)](/imgs/ric2_1_2_tit-388-rev.png) **VENVS AVGVST(A)** |
+| [![](../../../imgs/ric1_2_aug.164a.png)](../../../imgs/ric1_2_aug.164a.png) <br/> **AVGVSTVS DIVI F(ILIVS)** | [![](../../../imgs/ric-1_2-gai-7.png)](../../../imgs/ric-1_2-gai-7.png) <br/> **AGRIPPINA MAT(ER) G(AII) CAES(ARIS) AVG(VSTI) GERM(ANICI)** | [![](../../../imgs/ric2_1_2_tit-388.png)](../../../imgs/ric2_1_2_tit-388.png) <br/> **IVLIA AVGVSTA TITI AVGVSTI F(ILIA)** | [![](../../../imgs/ric2_1_2_tit-388-rev.png)](../../../imgs/ric2_1_2_tit-388-rev.png) **VENVS AVGVST(A)** |
 
 
 
@@ -68,7 +68,7 @@ Illustration 3, a silver coin of Titus:
 
 
 | --- | --- | --- | --- |
-| [![](/imgs/ric1_2_cw_12.png)](/imgs/ric1_2_cw_12.png) <br/> **VICTORIA P(OPVLI) R(OMANI)** | ![](/imgs/ric7_sis_213.png) <br/> **VICTORIA CAESARVM -- SIS(CIA)**| [![](/imgs/ric1_2_aug.209.png)](/imgs/ric1_2_aug.209.png) <br/> **CAESAR AVGVSTVS DIVI F(ILIVS) PATER PATRIAE** | [![](/imgs/ric_1_2_aug_209_rev.png)](/imgs/ric_1_2_aug_209_rev.png) <br/> **G(AIVS) L(VCIVS) CAESARES AVGVSTI FILII CO(N)S(VLES) DESIG(NATI) PRINC(IPES) IVVENT(VTIS)** |
+| [![](../../../imgs/ric1_2_cw_12.png)](../../../imgs/ric1_2_cw_12.png) <br/> **VICTORIA P(OPVLI) R(OMANI)** | ![](../../../imgs/ric7_sis_213.png) <br/> **VICTORIA CAESARVM -- SIS(CIA)**| [![](../../../imgs/ric1_2_aug.209.png)](../../../imgs/ric1_2_aug.209.png) <br/> **CAESAR AVGVSTVS DIVI F(ILIVS) PATER PATRIAE** | [![](../../../imgs/ric_1_2_aug_209_rev.png)](../../../imgs/ric_1_2_aug_209_rev.png) <br/> **G(AIVS) L(VCIVS) CAESARES AVGVSTI FILII CO(N)S(VLES) DESIG(NATI) PRINC(IPES) IVVENT(VTIS)** |
 
 
 
