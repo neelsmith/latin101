@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule for unit 2
+title: Daily schedule for unit 2
 parent: Course schedule
 nav_order: 4
 ---
@@ -18,12 +18,4 @@ nav_order: 4
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
 |Oct. 19-Oct. 23 | Interrogative adjectives and pronouns | Present active and passive indicative| Future active and passive indicative |      |
-
-
-## Past time
-
-| Week | Mon     |  Wed     |  Fri     | Notes |
-| :------------- | :------------- |:------------- | :-------------| :-------------|
-|Oct. 26-Oct. 30 | Imperfect active and passive subjunctive | Present active and passive subjunctive| Verb review |      |
-|Nov. 2-Nov. 6 | Verb competency quiz 1 | Verb competency quiz 2| Verbal competency quiz 3 |      |
 
