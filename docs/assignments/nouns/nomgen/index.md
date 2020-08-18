@@ -18,4 +18,4 @@ parent: Nouns
 | 3 (neuter) | nomen | nomin-<span class="regular">is</span> | nomin<span class="attention">a</span> | nomin-<span class="attention">um</span> |
 
 
-<link rel="stylesheet" type="text/css" href="/css/latin101.css">
+<link rel="stylesheet" type="text/css" href="../../../css/latin101.css">
