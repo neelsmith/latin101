@@ -14,15 +14,15 @@ nav_order: 2
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Aug. 31-Sep. 4 | **no classes** | [Introduction to course](/assignments/intro/)| [Nouns](/assignments/nouns/) |     Self-corrected exercise: [nouns](/assignments/nouns/exercise/) |
-|Sep. 7-Sep. 11 | Adjectives | Demonstratives| -ius adjectives |      |
+|Aug. 31-Sep. 4 | **no classes** | [Introduction to course](../../../assignments/intro/)| [Nouns](../../../assignments/nouns/) |     Self-corrected exercise: [nouns](../../../assignments/nouns/exercise/) |
+|Sep. 7-Sep. 11 | Adjectives | Demonstratives| -ius adjectives |     Self-corrected exercise: [adjectives](../../../assignments/adjectives/exercise) Self-corrected exercise: [demonstratives](../../../assignments/adjectives-ius/exercise/) |
 
 
 ## Verbs
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Sep. 14-Sep. 18 | Composition workshop | [Verbs](/assignments/verbs/)| Imperfect tense |      |
+|Sep. 14-Sep. 18 | Composition workshop | [Verbs](../../../assignments/verbs/)| Imperfect tense |      |
 |Sep. 21-Sep. 25 | Sum, esse, fui | Possum| Reading practice |      |
 |Sep. 28-Oct. 2 | Review | **no classes**| Composition workshop |   **No class on Wednesday**   |
 |Oct. 5-Oct. 9 | Review | Competency Quiz| Competency Quiz |     Composition 2 due. |
