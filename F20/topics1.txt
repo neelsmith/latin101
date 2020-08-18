@@ -4,11 +4,11 @@
 
 **no classes**#
 [Introduction to course](/assignments/intro/)#
-[Nouns](/assignments/nouns/)#
+[Nouns](/assignments/nouns/)#Self-corrected exercise: [nouns](/assignments/nouns/exercise/)
 
-Adjectives
-Demonstratives
--ius adjectives
+Adjectives#Self-corrected exercise: [adjectives](/assignments/adjectives/exercise)
+Demonstratives#
+-ius adjectives#Self-corrected exercise: [demonstratives](/assignments/adjectives-ius/exercise/)
 
 
 ## Verbs

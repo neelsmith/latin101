@@ -7,19 +7,17 @@ nav_order: 0
 
 # Latin 101-01, F'20: home page
 
-## Announcements
-
-- Welcome to Latin 101!
+## Announcements: welcome to Latin 101!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rm7NZqHxFNE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Schedule
+## Week at a glance
 
-Daily [schedule](./schedule/) (including links to assignments)
+We're beginning [Unit 1: an inflected language](./schedule/part1/)
 
-## Resources
 
-[Resources for Latin 101](./resources) (on this site and elsewhere)
+- Week of Sept 2-4:   how Latin nouns work. [First self-corrected exercise](http://localhost:4000/assignments/nouns/exercise/) (reading Roman coins).  Forms and vocabulary to memorize.
+- Week of Sept. 7-11: adjectives in  Latin. Two self-corrected exercises.
 
 ## Syllabus: all about this course
 

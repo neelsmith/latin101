@@ -12,16 +12,18 @@ Course grades will be determined by specification grading.  Individual assignmen
 
 
 # Graded assignments
+
 Course grades will be determined by your satisfactory completion of the following course requirements:
 
 
-
-- regular homework exercises
+- self-correcting exercises
 - short vocabulary and usage quizzes
 - competency exams
-- translations and commentary
-- Latin compositions
 - CBL work
+- a publicly visible portfolio of work including:
+    - translations and commentary
+    - Latin compositions
+
 
 
 # Course grades

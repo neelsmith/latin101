@@ -3,6 +3,7 @@ layout: page
 title: Nouns
 grand_parent: Course schedule
 parent: "Unit 1: an inflected language"
+has_children: true
 ---
 
 
@@ -11,16 +12,16 @@ parent: "Unit 1: an inflected language"
 1. watch [this brief video introducing noun declensions](https://www.youtube.com/watch?v=D-x9X1v3170&feature=youtu.be)
 2. [read this section](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/nouns/) of our on-line textbook
 
-3. [complete this exercise](./exercise/)
+3. [complete this exercise](./exercise/) before class
 
 
 
-## Forms and vocabulary to memorize
+## Memorization
 
-- memorize the *nominative* and *genitive* [forms illustrated here](./nomgen/)
+Forms: memorize the *nominative* and *genitive* [forms illustrated here](./nomgen/).
 
 
-Memorize the following nouns:
+Vocabulary: memorize the following nouns:
 
 
 - fīlia, fīliae f. - daughter

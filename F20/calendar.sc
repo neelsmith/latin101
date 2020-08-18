@@ -3,7 +3,7 @@ import java.io.PrintWriter
 
 
 def header(module: Int) : String = {
-  s"---\nlayout: page\ntitle: Schedule for unit ${module}\nparent: Course schedule\nnav_order: ${2*module}\n---\n\n"
+  s"---\nlayout: page\ntitle: Daily schedule for unit ${module}\nparent: Course schedule\nnav_order: ${2*module}\n---\n\n"
 }
 
 /*
