@@ -16,7 +16,7 @@ nav_order: 0
 We're beginning [Unit 1: an inflected language](./schedule/part1/)
 
 
-- Week of Sept 2-4:   how Latin nouns work. [First self-corrected exercise](http://localhost:4000/assignments/nouns/exercise/) (reading Roman coins).  Forms and vocabulary to memorize.
+- Week of Sept 2-4:   how Latin nouns work. [First self-corrected exercise](./assignments/nouns/exercise/) (reading Roman coins).  Forms and vocabulary to memorize.
 - Week of Sept. 7-11: adjectives in  Latin. Two self-corrected exercises.
 
 ## Syllabus: all about this course
