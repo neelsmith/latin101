@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CBL work
-parent: Course overview
+parent: "Course overview (syllabus)"
 
 ---
 

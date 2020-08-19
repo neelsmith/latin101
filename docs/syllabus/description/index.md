@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Course description
-parent: Course overview
+parent: "Course overview (syllabus)"
 nav_order: 1
 ---
 
