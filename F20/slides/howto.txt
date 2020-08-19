@@ -1,0 +1,9 @@
+With marp-it:
+
+    npx @marp-team/marp-cli slide-deck.md
+
+Optionally, append `--pdf` to generate pdf.
+
+Fuller summary of marp-cli:
+
+https://github.com/marp-team/marp-cli

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact and basic information
-parent: Course overview
+parent: "Course overview (syllabus)"
 nav_order: 0
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Course requirements and grading"
 layout: page
-parent: Course overview
+parent: "Course overview (syllabus)"
 ---
 
 
