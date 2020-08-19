@@ -3,23 +3,38 @@ $CATEGORY: nouns
 //Some quiz questions for F20 version of course.
 
 
-[markdown]Referring to the [coins illustrated here](https://neelsmith.github.io/latin101/assignments/nouns/exercise/), in illustration 1, what case is *AUGUSTUS* (nominative or genitive)? {nominative}
+::1A::[markdown]Referring to the [coins illustrated here](https://neelsmith.github.io/latin101/assignments/nouns/exercise/), in illustration 1, what case is **AUGUSTUS** (nominative or genitive)? {nominative}
 
-::1B::What case is *DIVI*? {=genitive}
+::1B::[markdown]What case is **DIVI**? {=genitive}
 
-::1C::What number is *DIVI* (singular or plural)? {=singular}
+::1C::[markdown]What number is **DIVI** (singular or plural)? {=singular}
 
-::1D::What case if *FILIUS*? {=nominative}
+::1D::[markdown]What case if **FILIUS**? {=nominative}
 
-::2A::In the second coin on row 1, what case is *MATER*? {=nominative}
+::2A::[markdown]In the second coin on row 1, what case is **MATER**? {=nominative}
 
-::2B::What case is *CAESARIS*? {=genitive}
+::2B::[markdown]What case is **CAESARIS**? {=genitive}
 
-::2C::What case do you think *AGRIPPINA* is? {=nominative}
+::2C::[markdown]What case do you think **AGRIPPINA** is? {=nominative}
 
-::2D::What case do you think *GAII* is? {=genitive}
+::2D::[markdown]What case do you think **GAII** is? {=genitive}
 
 
-::3A::In the third coin on row 1, one noun from your vocabulary list in the nominative case is: {=filia =FILIA =F(ILIA) =f(ilia)}
+::3A::[markdown]In the third coin on row 1, one noun from your vocabulary list in the nominative case is: {=filia =FILIA =F(ILIA) =f(ilia)}
 
-::3D::One noun in the genitive case is: {=TITI =titi  =AVGVSTI =AUGUSTI =augusti =avgvsti}
+::3D::[markdown]One noun in the genitive case is: {=TITI =titi  =AVGVSTI =AUGUSTI =augusti =avgvsti}
+
+
+
+::4A::[markdown]In the first coin in the second row, list one noun in the nominative case: {=VICTORIA =victoria}
+
+::4B::[markdown]Find one noun in the genitive case: {=POPULI =POPVLI =P(OPVLI) =P(OPULI) =populi =popvli =p(opuli) =p(opvli)}
+
+::5A::[markdown]In the second coin in the second row, what case is **VICTORIA**? {=nominative}
+
+::5B::[markdown]What case is **CAESARUM**? {=genitive}
+
+::5C::[markdown]What number is **CAESARUM**? {=plural}
+
+
+::6A::[markdown]In the third coin on row two, what two-word phrase was adopted by classically minded Americans to describe George Washington? {=PATER PATRIAE =pater patriae}
