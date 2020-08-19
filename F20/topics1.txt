@@ -6,28 +6,28 @@
 [Introduction to course](../../../assignments/intro/)#
 [Nouns](../../../assignments/nouns/)#Self-corrected exercise: [nouns](../../../assignments/nouns/exercise/)
 
-Adjectives#Self-corrected exercise: [adjectives](../../../assignments/adjectives/exercise)
-Demonstratives#
--ius adjectives#Self-corrected exercise: [demonstratives](../../../assignments/adjectives-ius/exercise/)
+[Nouns: further cases](../../../assignments/nouns2/)#2 self-corrected exercises: [part 2 of nouns](../../../assignments/nouns2/exercise/);
+[Adjectives](../../../assignments/adjectives/)#[adjectives](../../../assignments/adjectives/exercise/)
+[Demonstratives](../../../assignments/demonstratives/)#
 
 
 ## Verbs
 
-Composition workshop
-[Verbs](../../../assignments/verbs/)
-Imperfect tense
+[-ius adjectives](../../../assigments/adjectives-ius/)#Self-corrected exercise: [demonstratives](../../../assignments/adjectives-ius/exercise/). Vocabulary quiz: nouns and prepositions.
+[Introduction to verbs](../../../assignments/verbs/)
+[Imperfect tense](../../../assignments/imperfect/)#
+
+Translation 1 workshop
+[Sum, esse, fui](../../../assignments/sum/)#
+
+[Possum](../../../assignments/possum/)#2 self-corrected exercise: [regular verbs](../../../assignments/imperfect/exercise/); [*sum* and *possum*](../../../assignments/possum/exercise/)
 
 
-Sum, esse, fui
-Possum
-Reading practice
-
-
-Review
+Composition 1 workshop
 **no classes**
-Composition workshop
+Sight reading and review#Vocabulary quiz: verbs
 
 
-Review#Composition 2 due.
+Translation 2 workshop#
 Competency Quiz #
 Competency Quiz #
