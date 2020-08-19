@@ -1,7 +1,6 @@
 ---
-title: "Course resources"
+title: "Course resources and reference material"
 layout: page
-has_children: true
 nav_order: 3
 ---
 
@@ -21,7 +20,7 @@ nav_order: 3
 - [slides](/slides/).  I will share any slides we use in class meetings here.
 
 
-## Other sites
+## Reference material on other sites
 
 As you advance in Latin and read increasingly complex material, you will learn how to use a good  lexicon and a reference grammar. Two standard scholarly resources you should be aware of (even if you don't use them much before Latin 102) are:
 
