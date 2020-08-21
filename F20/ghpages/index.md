@@ -22,7 +22,7 @@ We're beginning [Unit 1: an inflected language](./schedule/part1/), including tw
 
 ## Week at a glance
 
-- Week of Sept 2-4:   how Latin nouns work. [First self-corrected exercise](./assignments/nouns/exercise/) (reading Roman coins).
+- Week of Sept 2-4:   how Latin nouns work. [First self-corrected exercise](./assignments/nouns/exercise/) (nouns on Roman coins).
 - Week of Sept. 7-11: adjectives in  Latin. Two self-corrected exercises: [nouns (part 2) ](./assignments/nouns2/exercise/), and [adjectives](./assignments/adjectives/exercise/)
 
 ## Overview (syllabus): all about this course
