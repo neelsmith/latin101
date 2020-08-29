@@ -14,4 +14,9 @@ parent: "Course overview (syllabus)"
 https://holycross.zoom.us/j/99712991817)
 
 
-I'm happy to meet with you individually by Zoom or telephone.  You can make an appointment by speaking to me at an in-class meeting, or by sending me an email.
+
+## Drop-in hours and individual appointments
+
+Drop-in hours are regularly scheduled blocks of time you can stop by a Zoom to discuss anything you like: course work, academic plans, what you're watching or reading these days, why I think Holy Cross' Manuscripts, Inscriptions and Documents Club is the coolest thing going, or anything else on your mind.  The regular Zooms for these scheduled appointments use a waiting room, so you can't accidentally interrupt anyone else if we're having a confidential discussion.
+
+I'm also happy to meet with you individually by Zoom or telephone.  You can make an appointment by speaking to me at an in-class meeting, or by sending me an email.
