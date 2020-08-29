@@ -1,26 +1,10 @@
 ---
 layout: page
 title: Videos
-parent: Course resources
+parent: Course resources and reference material
 ---
 
-# Videos
-
-Summary of videos linked in assignments
-
-- welcome to Latin 101!
-- introduction to substantive declension (nouns, adjectives)
-- noun-adjective agreement
-- introduction to pronouns
-- pronouns and adjectives
-- verbs: person, number, tense, mood and voice
-- verbs: principal parts and conjugations
-- sentence structure
+# Videos specific to our section
 
 
-
-Using a dictionary:
-
-- dictionary entries for nouns and adjectives
-- dictionary entries for verbs
-- using Lewis-Short's scholarly lexicon
+- Introduction to Unit 1: [Latin is an inflected language](https://www.youtube.com/watch?v=9acBnUywdIU&list=PLUcfS6VHaxZDWuU6b7cz9fWV2S6UmH7Yy)
