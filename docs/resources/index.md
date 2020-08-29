@@ -1,7 +1,7 @@
 ---
 title: "Course resources and reference material"
 layout: page
-nav_order: 3
+nav_order: 5
 ---
 
 
@@ -11,12 +11,12 @@ nav_order: 3
 ## *Lingua Latina Legenda* project (L3)
 
 - online [textbook and reference materials](https://lingualatina.github.io/textbook/).  The L3 textbook is the basic reference and textbook we will use this year.
-- [youtube channel](https://www.youtube.com/channel/UCyA2aidE3BiD3idsxrJr5Hg).  The L3 youtube channel includes short videos introducing content covered in the online textbook.
+- a [guide to the L3 youtube channel](https://lingualatina.github.io/courses/youtube/) (or go to the [channel directly](https://www.youtube.com/channel/UCyA2aidE3BiD3idsxrJr5Hg)). The L3 youtube channel includes short videos introducing content covered in the online textbook.
 
 
 ## Latin 101, section 1
 
-- [youtube channel](https://www.youtube.com/playlist?list=PLUcfS6VHaxZDWuU6b7cz9fWV2S6UmH7Yy).  I will post *very* short videos on topics specific to our section of Latin 101 on this channel.
+- a guide to [short videos specific to our section](./videos/) (or go straight to a [youtube channel for our section](https://www.youtube.com/playlist?list=PLUcfS6VHaxZDWuU6b7cz9fWV2S6UmH7Yy)). I will post *very* short videos on topics specific to our section of Latin 101 on this channel.
 - [slides](/slides/).  I will share any slides we use in class meetings here.
 
 

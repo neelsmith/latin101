@@ -12,14 +12,14 @@ nav_order: 2
 
 ## Graded assignments
 
-### Self-correcting exercises
+### Self-corrected exercises <a name="self-corrected"/>
 
 
 As part of your routine class preparation, you will often be asked to work on an exercise that you can subsequently submit by completing it on line  in [Moodle](../../technologies/#Moodle).  These exercises will be automatically graded in Moodle.  When you correctly complete 100% of the questions in the exercise, you will receive full credit for it, as explained below.  You may repeat any exercise as often as you like until the deadline for that grading unit in order to complete it successfully and receive credit for it.
 
 At the beginning of the semester, you will have approximately two of these assignments per week.  They will taper off in the later part of the semester, when more time will be devoted to the longer portfolio assignments.
 
-### Portfolio assignments
+### Portfolio assignments <a name="portfolio"/>
 
 Over the course of the semester, you will develop a portfolio of ten longer assignments.  Five of these will be compositions in Latin;  five will be analyses and translations of passages in Latin.  Throughout the semester, we will set aside class meetings to workshop drafts of these assignments.
 

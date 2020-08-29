@@ -2,21 +2,59 @@
 title: "Course requirements and grading"
 layout: page
 parent: "Course overview (syllabus)"
+nav_order: 2
 ---
 
 
 
 # Course requirements and grading
 
-Course grades will be determined by specification grading, a system that makes criteria for earning course points explicit, and gives you control over your grades.
 
-Individual assignments are graded on a satisfactory/unsatisfactory scale according to a previously shared rubric. If you complete all the specified requirements for the assignment, your grade is satifactory and you receive the full number of points for that assignment.  If you do complete one or more of the requirements, your grade is unsatisfactory, and you recieve no points.  Within each of the three major units of the course, you may repeat assignments as often as you like until the final deadline for sumbitting material for that unit.
+## Graded assignments
+
+### Self-corrected exercises <a name="self-corrected"/>
+
+
+As part of your routine class preparation, you will often be asked to work on an exercise that you can subsequently submit by completing it on line  in [Moodle](../../technologies/#Moodle).  These exercises will be automatically graded in Moodle.  When you correctly complete 100% of the questions in the exercise, you will receive full credit for it, as explained below.  You may repeat any exercise as often as you like until the deadline for that grading unit in order to complete it successfully and receive credit for it.
+
+At the beginning of the semester, you will have approximately two of these assignments per week.  They will taper off in the later part of the semester, when more time will be devoted to the longer portfolio assignments.
+
+### Portfolio assignments <a name="portfolio"/>
+
+Over the course of the semester, you will develop a portfolio of ten longer assignments.  Five of these will be compositions in Latin;  five will be analyses and translations of passages in Latin.  Throughout the semester, we will set aside class meetings to workshop drafts of these assignments.
+
+You will post your submissions to a [github repository](../../technologies/#github) where I can read and share comments with you. You will have the option of using github to host your entire portfolio or selections from it on a personal web site.
+
+
+### CBL work and practicum section
+
+
+You will participate in a weekly practicum session conducted by an alumna or alumnus of last year's Latin 101/102 course.  You will receive credit for successfully
+
+- attending all practicum sections
+- completing a creative group project to engage with students in Worcester Public Schools
+
+
+### Reflection exercises
+
+Twice during the semester, you will submit a brief written reflection in response to issues that have been addressed in practicum sections.  You will have the option of submitting these confidentially, or sharing them with classmates if you choose.
+
+## Determination of course grades
+
+See this short video for some comments on why I love *specification grading*, and am excited that you will determine your own course grade!
 
 
 
-# Graded assignments
+You will determine your own course grade this fall.  We will use specification grading, a system that makes criteria for earning course points explicit in a shared rubric.  Individual assignments will be graded satisfactory or unsatisfactory:  satisfactory if all specified requirements are met, unsatisfactory if one or more requirements is not met.  Satisfactory assignments receive the full point value for that assignment;  unsatisfactory assignments receive no points.
+
+Graded assignments will be recorded at the end of each of our course's three major units.  Until that deadline, you may repeat assignments as often as you like until you achieve a satisfactory grade.
+
+
+
 
 You can earn a maximum of 100 points for your course work in the fall semester.  Your course grade is determined by your satisfactory completion of the course requirements listed here.  
+
+
 
 
 | Assignment | Total points |
@@ -30,9 +68,8 @@ You can earn a maximum of 100 points for your course work in the fall semester. 
 
 
 
-## Course grades
 
-Your course grade will then be determined by
+Your course grade will then be recorded from this table:
 
 | Total points | Course grade |
 | --- | --- |
