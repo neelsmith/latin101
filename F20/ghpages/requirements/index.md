@@ -43,7 +43,7 @@ Twice during the semester, you will submit a brief written reflection in respons
 
 See this short video for some comments on why I love *specification grading*, and am excited that you will determine your own course grade!
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TfVzNy8M1MA?start=4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 You will determine your own course grade this fall.  We will use specification grading, a system that makes criteria for earning course points explicit in a shared rubric.  Individual assignments will be graded satisfactory or unsatisfactory:  satisfactory if all specified requirements are met, unsatisfactory if one or more requirements is not met.  Satisfactory assignments receive the full point value for that assignment;  unsatisfactory assignments receive no points.
 
