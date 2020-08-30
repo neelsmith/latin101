@@ -41,7 +41,8 @@ Twice during the semester, you will submit a brief written reflection in respons
 
 ## Determination of course grades
 
-See this short video for some comments on why I love *specification grading*, and am excited that you will determine your own course grade!
+See this short video for an overview on why I love *specification grading*, and what role assessment plays in our course this fall.
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TfVzNy8M1MA?start=4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
