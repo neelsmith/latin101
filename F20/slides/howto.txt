@@ -2,7 +2,7 @@ With marp-it:
 
     npx @marp-team/marp-cli slide-deck.md
 
-Optionally, append `--pdf` to generate pdf.
+Optionally, append `--pdf` to generate pdf.  Note that if you're using local images, you may need to include `--allow-local-files` to generate the pdf.
 
 Fuller summary of marp-cli:
 
