@@ -48,4 +48,4 @@ Use wikipedia or any other resources available to you to find out about your cha
 
 ## Submitting the assignment
 
-Find your assigned characters [on this list](./assignment/).  Then complete [this Google form](https://forms.gle/aADwjjHmpG8ygFUz8) once for each figure you identify.
+Find your assigned characters [on this list](./assignments/).  Then complete [this Google form](https://forms.gle/aADwjjHmpG8ygFUz8) once for each figure you identify.
