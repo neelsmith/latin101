@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Identify that figure"
+title: "Identify that character"
 grand_parent: Course schedule
 parent: "Unit 1: an inflected language"
 ---
 
-# Identify that figure!
+# Identify that character!
 
 
 ## Background and goals
@@ -27,7 +27,6 @@ You will be assigned two characters. For each character, you will be given a lis
 
 
 
-
 ### Nominative and genitive singular
 
 As you know from class, the nominative and genitive singular togther tell us what declension a noun belongs to. When you think you have figured out the proper forms for your character, you can always check against the [paradigms from the *Lingua Latina Legenda* textbook](https://lingualatina.github.io/textbook/reference/nouns-paradigms/) -- do *all* of the forms of your name work in the declension you picked?
@@ -46,4 +45,4 @@ Use wikipedia or any other resources available to you to find out about your cha
 
 ## Submitting the assignment
 
-Complete [this Google form](https://forms.gle/aADwjjHmpG8ygFUz8) once for each figure you identify.
+Find your assigned characters [on this list](./assignment/).  Then complete [this Google form](https://forms.gle/aADwjjHmpG8ygFUz8) once for each figure you identify.
