@@ -17,6 +17,56 @@ News:
 
 ---
 
+# Latin nouns: find declension from vocabulary entry
+
+- second form is *genitive singular*:
+- *ending* tells you *declension*
+
+| Ending | Declension | Example |
+| --- | ---  | --- |
+| -**ae** | 1st | filia, fili**ae**, *f.*, "daughter" |
+| -**i** | 2nd | filus, fili**i**, *m.*, "son" |
+| -**is** | 3rd | homo, homin**is**, *m.*, "person" |
+
+
+<style scoped>
+
+  strong {
+    color: rgb(159, 69, 17);
+  }
+</style>
+
+
+
+
+---
+
+# Accusative: the *target* case
+
+
+| Declension | Singular | Plural |
+| --- | --- | --- |
+| 1st | -*a***m** | -*a***s** |
+| 2nd | -*u***m** | -*o***s** |
+| 3rd | -*e***m** | -*e***s** |
+
+
+
+<style scoped>
+  strong {
+    color: rgb(159, 69, 17);
+  }
+  em {
+    color: 	rgb(24, 23, 162);
+    font-style: normal;
+  }
+</style>
+
+
+---
+
+
+
 # Key vocabulary
 
 Two third-declension nouns:
@@ -29,8 +79,6 @@ Two third-declension nouns:
   color: rgb(159, 69, 17);
   }
 </style>
-
-
 
 ---
 
