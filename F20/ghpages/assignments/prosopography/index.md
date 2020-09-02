@@ -36,6 +36,9 @@ As you know from class, the nominative and genitive singular togther tell us wha
 This short video shows you how to check the online *Latin Dictionary* from Furman University.
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ueo_LXaop-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ### Summary paragraph
 
 Use wikipedia or any other resources available to you to find out about your character.  Please cite any source(s) you use.  If you refer to ancient texts, please cite using *canonical references* (such as the section number of Hyginus), not page numbers.  You may use *markdown* to include links in your one-paragraph summary.  (If you're not familiar with markdown, here is [everything you need to know](https://www.remarq.io/articles/five-minutes-to-markdown-mastery/) in one-page that you can read in 5 minutes.)
