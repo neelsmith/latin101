@@ -2,6 +2,7 @@
 layout: page
 title: Slides
 parent: Course resources and reference material
+
 ---
 
 # Slides you can review
