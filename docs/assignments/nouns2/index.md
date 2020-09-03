@@ -49,4 +49,6 @@ Be confident of nominative, genitive, dative and accusative for the first three 
 | 3 (feminine)| matr-<span class="regular">es</span>  | matr-<span class="attention">um</span> | matr-<span class="attention2">ibus</span> | matr-<span class="regular">es</span> | matr-<span class="attention2">ibus</span>  |
 | 3 (neuter) | nomin-<span class="attention">a</span> | nomin-<span class="attention">um</span> | nomin-<span class="attention2">ibus</span> |  nomin-<span class="attention">a</span>  | nomin--<span class="attention2">ibus</span>
 
-<link rel="stylesheet" type="text/css" href="../../../css/latin101.css">
+
+
+<link rel="stylesheet" type="text/css" href="../../css/latin101.css">
