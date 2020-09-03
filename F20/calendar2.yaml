@@ -11,7 +11,7 @@ schedule : "mwf"
 totalWeeks : 14
 
 fixedDates:
-  - 2020-03-03 == Spring break
+  - 2020-10-01 == No class
   - 2020-03-05 == Spring break
   - 2020-05-05 == Exams begin
   - 2020-04-21 == Academic conference on Wednesday

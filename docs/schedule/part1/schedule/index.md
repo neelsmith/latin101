@@ -25,5 +25,5 @@ nav_order: 2
 |Sep. 14-Sep. 18 | [-ius adjectives](../../../assigments/adjectives-ius/) | [Identify that character](../../../assignments/prosopography/)!| [Introduction to verbs](../../../assignments/verbs/) |     Self-corrected exercise: [demonstratives](../../../assignments/adjectives-ius/exercise/). Vocabulary quiz: nouns and prepositions. |
 |Sep. 21-Sep. 25 | [Imperfect tense](../../../assignments/imperfect/) | Translation 1 workshop| [Sum, esse, fui](../../../assignments/sum/) |      |
 |Sep. 28-Oct. 2 | [Possum](../../../assignments/possum/) | **no classes**| Composition 1 workshop |   **No class on Wednesday**  2 self-corrected exercise: [regular verbs](../../../assignments/imperfect/exercise/); [*sum* and *possum*](../../../assignments/possum/exercise/) |
-|Oct. 5-Oct. 9 | Sight reading and review | Translation 2 workshop| Competency Quiz |     Vocabulary quiz: verbs |
+|Oct. 5-Oct. 9 | Sight reading and review | Translation 2 workshop| Introduction to Unit 2: expressing time and purpose |     Vocabulary quiz: verbs |
 
