@@ -66,4 +66,4 @@ Here are the verb forms used in the examples above.
 - *uendiderunt*:  "they sold"
 
 
-<link rel="stylesheet" type="text/css" href="../../../../css/latin101.css">
+<link rel="stylesheet" type="text/css" href="../../../css/latin101.css">
