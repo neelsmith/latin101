@@ -3,6 +3,7 @@ layout: page
 title: "Identify that character"
 grand_parent: Course schedule
 parent: "Unit 1: an inflected language"
+nav_order: 6
 ---
 
 # Identify that character!
