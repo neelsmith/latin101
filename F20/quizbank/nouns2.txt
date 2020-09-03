@@ -1,0 +1,75 @@
+$CATEGORY: nouns2
+
+//Some quiz questions for F20 version of course.
+
+
+::2.1A::[markdown]Referring to sentences in [this assignment](https://neelsmith.github.io/latin101/assignments/nouns2/exercise/), please identify each of the following nouns.  (Please spell out case or number in full, in lower case, e.g. *singular*, *nominative*.) Case of *clipeum* {accusative}
+
+::2.1B::[markdown] In sentence 1, number of *clipeum* {singular}
+
+::2.1C::[markdown] In sentence 1, case of *filio* {dative}
+
+::2.1D::[markdown] In sentence 1, number of *filio* {singular}
+
+
+::2.2A::[markdown] In sentence 2, case of *gymnicos* {accusative}
+
+::2.2B::[markdown] In sentence 2, number of *gymnicos* {plural}
+
+::2.2C::[markdown] In sentence 2, case of *filio* {dative}
+
+::2.2D::[markdown] In sentence 2, number of *filio* {singular}
+
+
+::2.3A::[markdown] In sentence 3, case of *regi* {dative}
+
+::2.3B::[markdown] In sentence 3, number of *regi* {singular}
+
+
+::2.3C::[markdown] In sentence 3, case of *seruitutem* {accusative}
+
+::2.3D::[markdown] In sentence 3, number of *seruitutem* {singular}
+
+
+::2.4A::[markdown] In sentence 4, case of *filios* {accusative}
+
+::2.4B::[markdown] In sentence 4, number of *filios* {singular}
+
+
+::2.5A::[markdown] In sentence 5, case of *filia* {nominative}
+
+::2.5B::[markdown] In sentence 5, number of *filia* {singular}
+
+::2.5C::[markdown] In sentence 5, case of *regem* {accusative}
+
+::2.5D::[markdown] In sentence 5, number of *regem* {singular}
+
+
+::2.5E::[markdown] In sentence 5, case of *patri* {dative}
+
+::2.5F::[markdown] In sentence 5, number of *patri* {singular}
+
+::2.5G::[markdown] In sentence 5, case of *regnum* {accusative}
+
+::2.5H::[markdown] In sentence 5, number of *regnum* {singular}
+
+
+
+::2.6A::[markdown] In sentence 6, case of *coniugio* {dative}
+
+::2.6B::[markdown] In sentence 6, number of *coniugio* {singular}
+
+::2.6C::[markdown] In sentence 6, case of *filios* {accusative}
+
+::2.6D::[markdown] In sentence 6, number of *filios* {plural}
+
+
+::2.7A::[markdown] In sentence 7, case of *nomine* {ablative}
+::2.7B::[markdown] In sentence 7, number of *nomine* {singular}
+
+::2.7C::[markdown] In sentence 7, case of *nomen* {accusative}
+::2.7D::[markdown] In sentence 7, number of *nomen* {singular}
+
+
+::2.7E::[markdown] In sentence 7, case of *linguae* {dative}
+::2.7F::[markdown] In sentence 7, number of *linguae* {singular}
