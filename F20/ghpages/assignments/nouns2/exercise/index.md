@@ -7,47 +7,63 @@ parent: "Nouns"
 
 # Nouns, part 2: self-correcting exercise
 
+The following sentences are taken from Hyginus.  Try to complete at least the first two parts (**Identifying forms** and **Changing forms**) before you come to class.  We'll look at the third part (**What is the *function* of the word?**) together in class.
 
-1. Lynceus clipeum Abanti filio muneri dedit.
-
-
-2. fecit Hercules gymnicos Pelopi Tantali filio.
+There is a parallel self-correcting exercise in the “Quiz” section of Moodle for our section. Take it as many times as you need during unit 1 to complete it for credit as one of your self-correcting exercises.
 
 
-3. Minerua dedit Erichthonium Aglauro Pandroso et Herse Cecropis filiabus.
+## Identifying forms
 
-4. Lemniades Hypsipylen regi Lyco in seruitutem uendiderunt.
+For all nouns marked <span class="idthis">like this</span>, fully identify the form (gender, case, number).
 
-
-
-****=>
-quod postero die cum prope litus appropinquasset et uidisset se regem interfecisse sepulturae eum tradidit atque filiis regnum tradidit
-
-==>
-cum autem Metapontus priores ualde amaret quod formosissimi essent Theano quaerebat ut eos tolleret et filiis suis regnum seruaret
+In addition to your assigned vocabulary, use the voculary list following the sentences.
 
 
-peracto Cydippe precata est Iunonem si sacra eius caste coluisset si filii aduersus eam pii fuissent ut quicquid bonum mortalibus posset contingere id filiis eius contingeret
+1. Lynceus <span class="idthis">clipeum</span> Abanti <span class="idthis">filio</span> dedit.
+
+2. fecit Hercules <span class="idthis">gymnicos</span> Pelopi Tantali <span class="idthis">filio</span>.
+
+3. Lemniades Hypsipylen <span class="idthis">regi</span> Lyco in <span class="idthis">seruitutem</span> uendiderunt.
+
+4. Apollo <span class="idthis">filios</span> eius interfecit.
+
+5. Agaue Cadmi <span class="idthis">filia</span> <span class="idthis">regem</span> interfecit et <span class="idthis">patri</span> suo <span class="idthis">regnum</span> dedit.
+
+6. Metapontus duxit <span class="idthis">coniugio</span> Melanippen,  <span class="idthis">filios</span>-que adoptauit.
+
+7. Latinus ex suo <span class="idthis">nomine</span> Latinae <span class="idthis">linguae</span> <span class="idthis">nomen</span> imposuit
 
 
+**Additional vocabulary**:
 
-==>
-itaque memor Nessi praecepti uestem tinctam centauri sanguine Herculi qui ferret nomine Lichan famulum misit
-
-
-
-tunc dicitur Philoctetes Poeantis filius pyram in monte Oetaeo construxisse Herculi ascendisse mortalitatem
-
-
-at Creon Megaram filiam suam Herculi dedit in coniugium ex qua nati sunt Therimachus et Ophites
+- clipeus, clipei, *masculine*, "shield"
+- gymnicus, gymnici, *masculine*, in plural, "athletic games"
+- lingua, linguae, *feminine*, "language"
+- regnum, regni, *neuter*, "kingdom"
+- seruitus, seruitutis, *feminine*, "slavery"
 
 
-Circe et Telemacho natus est Latinus qui ex suo nomine Latinae linguae nomen imposuit
+## Changing forms
+
+For each of the nouns in the sentence above, change the *number*  (if it is singular, change to plural; if it is plural, change to singular), but *keep the case the same*.
+
+Example: *filus* is masculine, nominative, **singular**: change to masculine nominative **plural** = *filii*.
 
 
-id Pelias inspiciens memor sortium praecepti iussit eum pellem arietis quam Phrixus Marti sacrauerat inauratam Colchis ab rege Aeeta hoste petere
+## What is the *function* of the word?
+
+For each noun you identified, we will go over in class *why*  the noun is in a particular case, and what that means.
+
+Recall that we use the *nominative* case to *name the subject*;  the *accusative* case is the "target" case that we use for the direct object; the *dative* case is the "winners/losers" case that can include ideas like indirect object; and the *genitive* case connects two nouns together.
+
+Here are the verb forms used in the examples above.
+
+- *adoptauit* : "h/she adopted"
+- *dedit* : "h/she gave"
+- *fecit* : "h/she made"
+- *imposuit*: literally, "h/she placed [one thing, direct object] upon [another, indirect object]"
+- *interfecit* : "h/she killed"
+- *uendiderunt*:  "they sold"
 
 
-aestimans eam adulterum habere Acasto patri nuntiauit
-
-Agaue Cadmi filia in Illyrica Lycothersen regem interfecit et patri suo regnum dedit
+<link rel="stylesheet" type="text/css" href="../../../../css/latin101.css">

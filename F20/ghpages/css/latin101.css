@@ -13,3 +13,17 @@
   border-width: 2px;
   padding: 4px;
 }
+
+
+.attention2 {
+  color: green;
+  border-style: solid;
+  border-width: 2px;
+  padding: 4px;
+}
+
+.idthis {
+  text-decoration-line: underline;
+ text-decoration-style: double;
+
+}
