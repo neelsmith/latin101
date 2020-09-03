@@ -65,11 +65,13 @@ $CATEGORY: nouns2
 
 
 ::2.7A::[markdown] In sentence 7, case of *nomine* {ablative}
+
 ::2.7B::[markdown] In sentence 7, number of *nomine* {singular}
 
 ::2.7C::[markdown] In sentence 7, case of *nomen* {accusative}
+
 ::2.7D::[markdown] In sentence 7, number of *nomen* {singular}
 
-
 ::2.7E::[markdown] In sentence 7, case of *linguae* {dative}
+
 ::2.7F::[markdown] In sentence 7, number of *linguae* {singular}

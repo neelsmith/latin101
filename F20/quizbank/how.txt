@@ -1,0 +1,32 @@
+In Moodle:
+
+## Import questions into question bank
+
+
+Administration/Question Bank/Import questions from file/GIFT format: drag and drop
+
+
+## Create quiz
+
+- turn editing on
+- add activity or resource / quiz
+
+Quiz settings:
+
+- open/closing dates
+- layout : all questions on one page
+- question behavior: shuffle: NO
+- "how questions behave" ????
+
+
+Save, return to course
+
+
+## Set up questions and grading
+
+Go to "activity", edit  quiz
+- set maximum grade
+- add from question bank, use tag from GIFT file to identify set of questions
+
+
+I think that does it?
