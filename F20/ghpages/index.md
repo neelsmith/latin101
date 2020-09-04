@@ -10,9 +10,9 @@ nav_order: 0
 In Latin 101, you encounter a historical language and culture, and engage with how that language and culture continue to shape structures of power today.
 
 
-## Announcements: welcome to Latin 101!
+## Announcements
 
-- Brief [guide to standard American pronouncation of Latin](./resources/pronounciation/) in resources section
+- **Sept. 4**: brief [guide to standard American pronouncation of Latin](./resources/pronounciation/) in resources section
 - [Preparation and graded assignment for first class meeting](./assignments/intro/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rm7NZqHxFNE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
