@@ -12,7 +12,7 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Announcements: welcome to Latin 101!
 
-
+- Brief [guide to standard American pronouncation of Latin](./resources/pronounciation/) in resources section
 - [Preparation and graded assignment for first class meeting](./assignments/intro/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rm7NZqHxFNE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

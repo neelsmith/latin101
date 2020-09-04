@@ -27,8 +27,9 @@ Pronounciation of consonants is consisent with English.  Note that:
 
 ## Diphthongs
 
-*Diphthongs* 
+*Diphthongs* are a single vowel sound produced by combining two vowel sounds.  Pronounce them as though you were running together the individual vowels.
 
-- *AE*
-- *OE*
-- *EU*
+- *AE* like ī in English. *hae*, "these" (feminine), sounds like "high"
+- *AU* like short ow in English. *causa*, "reason, cause," sounds like "cow-sa"
+- *EI*  like "ay" in English. *rei*, "matter, thing," sounds like "ray"
+- *OE* like "oy" in English. *coepit*, "h/she began," sounds like "koy-pit"
