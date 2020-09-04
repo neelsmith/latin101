@@ -7,6 +7,7 @@ nav_order: 5
 
 # Course resources and reference materials
 
+- guide to [standard American pronounciation of Latin](./pronounciation/)
 
 ## *Lingua Latina Legenda* project (L3)
 
