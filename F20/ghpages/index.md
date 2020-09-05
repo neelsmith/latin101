@@ -17,12 +17,13 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Current unit
 
-We're beginning [Unit 1: an inflected language](./schedule/part1/), including two translation and analysis assignments, and one Latin composition.
+- [unit 1: an inflected language](./schedule/part1/), including two translation and analysis assignments, and one Latin composition.
+- [daily schedule](./schedule/part1/schedule/) for unit 1.
 
 
 ## Week at a glance
 
-- Week of Sept. 7-11: adjectives in  Latin. Two self-corrected exercises: [nouns (part 2) ](./assignments/nouns2/exercise/), and [adjectives](./assignments/adjectives/exercise/)
+- Week of Sept. 7-11: adjectives in  Latin, including two self-corrected exercises: [nouns (part 2) ](./assignments/nouns2/exercise/), and [adjectives](./assignments/adjectives/exercise/).
 
 
 ## Contact

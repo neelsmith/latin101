@@ -1,14 +1,16 @@
 ---
 layout: page
-title: Introduction to Latin verbs
+title: The imperfect and perfect indicative
 grand_parent: Course schedule
 parent: "Unit 1: an inflected language"
-nav_order: 6
+nav_order: 8
 ---
 
 
-# Introduction to Latin verbs: the imperfect tense and perfect tenses
+# The imperfect and perfect indicative
 
-1. watch this video, then
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ghll0S0AxsI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+1. watch the video above
 2. [read this section]() of our on-line textbook
 3. [complete this exercise](./exercise/)

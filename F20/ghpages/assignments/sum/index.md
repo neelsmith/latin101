@@ -3,7 +3,7 @@ layout: page
 title: Sum (to be)
 grand_parent: Course schedule
 parent: "Unit 1: an inflected language"
-nav_order: 7
+nav_order: 9
 ---
 
 

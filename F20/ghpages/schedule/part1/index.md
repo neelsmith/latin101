@@ -34,6 +34,11 @@ Graded versions of assignments for Unit 1 should be completed by **Friday, Oct. 
 - [daily schedule with assignments](./schedule/)
 
 
+## Submitted on a Google form
+
+- [initial course information form](https://docs.google.com/forms/d/e/1FAIpQLSdWIzktfhJWRiUlnl-VmZl5w-f0JUOXXI-2JSfH85LxAHiHXA/viewform) (including github user name)
+
+
 ## Posted to your github portfolio
 
 - two translation and analysis assignments
