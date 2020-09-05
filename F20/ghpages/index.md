@@ -13,10 +13,16 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 ## Announcements
 
 - **Sept. 4**: brief [guide to standard American pronouncation of Latin](./resources/pronounciation/) in resources section
-- [Preparation and graded assignment for first class meeting](./assignments/intro/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rm7NZqHxFNE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Current unit
+
+We're beginning [Unit 1: an inflected language](./schedule/part1/), including two translation and analysis assignments, and one Latin composition.
+
+
+## Week at a glance
+
+- Week of Sept. 7-11: adjectives in  Latin. Two self-corrected exercises: [nouns (part 2) ](./assignments/nouns2/exercise/), and [adjectives](./assignments/adjectives/exercise/)
 
 
 ## Contact
@@ -27,15 +33,3 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 https://holycross.zoom.us/j/99712991817)
 
 In addition, you must enroll in one of the practicum sessions (M 4:45-5:35, M 6:00-6:50 or Tu 8:00-8:50, all times Eastern time)
-
-
-
-## Current unit
-
-We're beginning [Unit 1: an inflected language](./schedule/part1/), including two translation and analysis assignments, and one Latin composition.
-
-
-## Week at a glance
-
-- Week of Sept 2-4:   how Latin nouns work. [One self-corrected exercise](./assignments/nouns/exercise/) (nouns on Roman coins).
-- Week of Sept. 7-11: adjectives in  Latin. Two self-corrected exercises: [nouns (part 2) ](./assignments/nouns2/exercise/), and [adjectives](./assignments/adjectives/exercise/)
