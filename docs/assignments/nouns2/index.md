@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 
-# Nouns
+# Nouns:  all cases
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Efh1Wycx0g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -49,6 +49,4 @@ Be confident of nominative, genitive, dative and accusative for the first three 
 | 3 (feminine)| matr-<span class="regular">es</span>  | matr-<span class="attention">um</span> | matr-<span class="attention2">ibus</span> | matr-<span class="regular">es</span> | matr-<span class="attention2">ibus</span>  |
 | 3 (neuter) | nomin-<span class="attention">a</span> | nomin-<span class="attention">um</span> | nomin-<span class="attention2">ibus</span> |  nomin-<span class="attention">a</span>  | nomin--<span class="attention2">ibus</span>
 
-
-
-<link rel="stylesheet" type="text/css" href="../../css/latin101.css">
+<link rel="stylesheet" type="text/css" href="../../../css/latin101.css">
