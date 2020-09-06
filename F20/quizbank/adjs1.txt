@@ -1,0 +1,56 @@
+$CATEGORY: adjs
+
+//Some quiz questions for F20 version of course.
+
+
+::adj.1A.1::[markdown]The questions in this exercise refer to the [coins illustrated here](https://neelsmith.github.io/latin101/assignments/adjectives/exercise/). Use the same writing system used on the coin (no v, j). In illustration **1 A (Faustina)**, what is the nominative singular of her name on the obverse? {=Favstina =FAVSTINA}
+
+::adj.1A.2::[markdown]What should the genitive singular of her name be? {=Favstinae =FAVSTINAE}
+
+
+
+::adj.1B.1::[markdown]In illustration **1 B (Julia Domna)**, what is the nominative singular of her name on the obverse? {=Ivlia =IVLIA}
+
+::adj.1B.2::[markdown]What should the genitive singular of her name be? {=Ivliae =IVLIAE}
+
+
+
+::adj.1C.1::[markdown]In illustration **1 C (Caracalla)**, what is the nominative singular of his name on the obverse? {=Antoninvs =Avgvstvs =ANTONINVS =AVGVSTVS}
+
+::adj.1C.2::[markdown]What should the genitive singular of his name be? {=Antonini =Avgvsti =ANTONINI =AVGVSTI}
+
+
+
+::adj.1D.1::[markdown]In illustration **1 D (Gordian III)**, what is the nominative singular of his name on the obverse? {=Gordianvs =GORVDIANVS}
+
+::adj.1D.2::[markdown]What should the genitive singular of his name be? {=Gordiani =GORDIANI}
+
+
+::adj.2A.1a::[markdown]In illustration **2 A (Trajan)**, 2hat is the gender of all three words in this short text? {=masculine}
+
+::adj.2A.1b::[markdown]What is the case of all three words in this short text? {=dative}
+
+::adj.2A.2::[markdown]What is the nominative singular of Trajan's name? {=TRAIANVS = Traianvs}
+
+::adj.2A.3::[markdown]What is the genitive singular of his name? {=TRAIANI = Traiani}
+
+
+::adj.2B.1a::[markdown]In illustration **2 B (Julia Domna)**, What is the gender  of the two words on the reverse of this coin? {=feminine}
+
+::adj.2B.1a::[markdown]In illustration **2 B (Julia Domna)**, What is the case  of the two words on the reverse of this coin? {=dative}
+
+
+::adj.2B.2::[markdown]What declension does the noun **FORTVNAE** belong to? {
+=first
+~second
+#Second declension nouns have genitive singular ending -i
+~third
+##Third declension nouns have genitive singular ending -is
+}
+
+::adj.2B.3::[markdown]What adjective pattern does **FELICI** belong to?{
+~2-1-2
+~3-termination
+~2-termination
+=1-termination
+}

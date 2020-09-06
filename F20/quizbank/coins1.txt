@@ -3,7 +3,7 @@ $CATEGORY: nouns
 //Some quiz questions for F20 version of course.
 
 
-::1A::[markdown]Referring to the [coins illustrated here](https://neelsmith.github.io/latin101/assignments/nouns/exercise/), in illustration 1, what case is **AUGUSTUS** (nominative or genitive)? {nominative}
+::1A::[markdown]Referring to the [coins illustrated here](https://neelsmith.github.io/latin101/assignments/nouns/exercise/), in illustration 1, what case is **AUGUSTUS** (nominative or genitive)? {=nominative}
 
 ::1B::[markdown]What case is **DIVI**? {=genitive}
 
