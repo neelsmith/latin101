@@ -115,20 +115,20 @@ For the subsequent coins in this exercise, refer to this vocabulary list:
 
 **Adjectives**:
 
-*aeternus, -a, -um*, "eternal"
-*divus, -a, -um*, "deified"
-*pius, -a, -um*, "upright, pious, dutiful"
-*felix, felicis*, "happy, prosperous"
-*navalis, navale*, "naval " (literally, "connected with ships", from *navis, navis*, feminine, "ship")
-*optimus, -a, -um*, "best" (a superlative form)
+- *aeternus, -a, -um*, "eternal"
+- *divus, -a, -um*, "deified"
+- *pius, -a, -um*, "upright, pious, dutiful"
+- *felix, felicis*, "happy, prosperous"
+- *navalis, navale*, "naval " (literally, "connected with ships", from *navis, navis*, feminine, "ship")
+-  *optimus, -a, -um*, "best" (a superlative form)
 
 **Nouns**:
 
-*fortuna, fortunae* (feminine), "luck, fate, good fortune"
-*orbis, orbis* (masculine), "globe, the whole world"
-*populus, populi* (masculine), "the people"
-*princeps, principis* (masculine), "leader, ruler"
-*Venus, Veneris* (feminine), the goddess Venus
+- *fortuna, fortunae* (feminine), "luck, fate, good fortune"
+- *orbis, orbis* (masculine), "globe, the whole world"
+- *populus, populi* (masculine), "the people"
+- *princeps, principis* (masculine), "leader, ruler"
+- *Venus, Veneris* (feminine), the goddess Venus
 
 ### B. Julia Domna, reverse
 
