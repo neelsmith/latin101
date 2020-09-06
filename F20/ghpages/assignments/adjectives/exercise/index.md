@@ -16,7 +16,7 @@ Names are also nouns, with forms you can identify by gender, case and number. (I
 
 ## 1. Recognizing names
 
-Latin dictionaries may not include every name you encounter in your reading, but you can often work out from context what form a name is.  In this section, recall that when Roman imperial coins depict a member of the imperial family, they most frequently *name* the  person in the *nominative* case.  Identify the nominative singular and what you think the genitive singular would be for the following three figure.
+Latin dictionaries may not include every name you encounter in your reading, but you can often work out from context what form a name is.  In this section, recall that when Roman imperial coins depict a member of the imperial family, they most frequently *name* the  person in the *nominative* case.  Identify the nominative singular and what you think the genitive singular would be for the following four figures.
 
 (You can follow the links to wikipedia articles to learn more about each figure.)
 
