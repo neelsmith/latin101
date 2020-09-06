@@ -29,4 +29,9 @@ Go to "activity", edit  quiz
 - add from question bank, use tag from GIFT file to identify set of questions
 
 
+## GO BACK TO QUIZ settings
+
+Under GRADE, set minimum score to pass
+Attempts allowed: unlimited
+
 I think that does it?
