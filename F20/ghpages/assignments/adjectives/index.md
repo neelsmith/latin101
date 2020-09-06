@@ -10,9 +10,14 @@ nav_order: 3
 # Adjectives
 
 
+
+
 Adjectives describe a noun. We identify forms of adjectives, like nouns, with *gender*, *case* and *number*.
 
-- Begin with his video, "Mingus, -a, -um".
+
+## Preparation
+
+- Begin with this video, "Mingus, -a, -um".
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a_iyFuYTma4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - Read the following sections in the L3 textbook:
     - [2-1-2](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#2-1-2-adjectives) adjectives
@@ -21,4 +26,10 @@ Adjectives describe a noun. We identify forms of adjectives, like nouns, with *g
     - [One-termination adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#one-termination-adjectives)
 -  Then watch this second video on noun-adjective *agreement*.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h5ZG-GM3EFA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Assignment
+
 - [complete this exercise](./exercise/) before class
+
+There is a parallel self-correcting exercise in the “Quiz” section of Moodle for our section. Take it as many times as you need during unit 1 to complete it for credit as one of your self-correcting exercises.

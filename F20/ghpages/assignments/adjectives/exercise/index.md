@@ -9,12 +9,14 @@ parent: "Adjectives"
 
 ## Background
 
-These coins do not distinguish *I* from *J*, or *U* from *V*.
+These coins do not distinguish *I* from *J*, or *U* from *V*.  A name that you might see spelled *Julia* in a printed edition of a Latin text will be spelled **IVLIA** on these coins, for example.
 
 Names are also nouns, with forms you can identify by gender, case and number. (In fact, the Latin word *nomen* means both "name" and "noun", and is the source for the English word "noun.")
 
 
 ## Recognizing names
+
+
 
 Nom. s, gen. s.
 
@@ -34,7 +36,7 @@ RIC IV Septimius Severus 554 (denarius)
 
 | Obverse | Reverse |
 | --- | -- |
-| ![obv](http://numismatics.org/collectionimages/19001949/1944/1944.100.51237.obv.width350.jpg)  **IVLIA AVGVSTA** | ![rev](http://numismatics.org/collectionimages/19001949/1944/1944.100.51237.rev.width350.jpg) FORTVNAE FELICI |
+| ![obv](http://numismatics.org/collectionimages/19001949/1944/1944.100.51237.obv.width350.jpg)  **IVLIA AVGVSTA** | ![rev](http://numismatics.org/collectionimages/19001949/1944/1944.100.51237.rev.width350.jpg) **FORTVNAE FELICI** |
 
 
 
@@ -55,7 +57,13 @@ RIC IV Septimius Severus 554 (denarius)
 
 ## Dedicatory texts
 
-In the dative
+
+| Obverse | Reverse |
+| --- | -- |
+| ![obv](http://numismatics.org/collectionimages/19001949/1944/1944.100.51237.obv.width350.jpg)  **IVLIA AVGVSTA** | ![rev](http://numismatics.org/collectionimages/19001949/1944/1944.100.51237.rev.width350.jpg) **FORTVNAE FELICI** |
+
+
+
 
 
 | --- | --- | --- |
