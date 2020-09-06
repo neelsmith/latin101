@@ -45,7 +45,7 @@ $CATEGORY: adjs
 ~second
 #Second declension nouns have genitive singular ending -i
 ~third
-##Third declension nouns have genitive singular ending -is
+#Third declension nouns have genitive singular ending -is
 }
 
 ::adj.2B.3::[markdown]What adjective pattern does **FELICI** belong to?{
@@ -54,3 +54,123 @@ $CATEGORY: adjs
 ~2-termination
 =1-termination
 }
+
+
+
+
+::adj.2C.1a::[markdown]In illustration **2 C (Faustina)**, what is the gender  of the two words on the reverse of this coin? {=feminine}
+
+::adj.2C.1a::[markdown]What is the case of the two words on the reverse of? {=dative}
+
+
+::adj.2C.2::[markdown]What declension does the noun **VENERI** belong to? {
+~first
+#First declension nouns have genitive singular ending -ae
+~second
+#Second declension nouns have genitive singular ending -i
+=third
+}
+
+
+::adj.2C.2::[markdown]What adjective pattern does **FELICI** belong to? {
+~2-1-2
+~3-termination
+~2-termination
+=1-termination
+}
+
+
+
+
+::adj.2D.1a::[markdown]In illustration **2 D (Hadrian)**, what is the gender of the two words on the reverse of this coin? {=feminine}
+
+
+::adj.2D.1b::[markdown]What is the case of the two words on the reverse of this coin? {=dative}
+
+::adj.2D.2::[markdown]What declension do you think the noun **ROMAE** belongs to? {
+=first
+~second
+#Second declension nouns have genitive singular ending -i
+~third
+#Third declension nouns have genitive singular ending -is
+}
+
+
+::adj.2D.3::[markdown]What adjective pattern does **AETERNAE** belong to? {
+=2-1-2
+~3-termination
+~2-termination
+~1-termination
+}
+
+
+
+
+
+::adj.2E.1a::[markdown]In illustration **2 E (Trajan)**, what is the gender of the word **POPVLVS**? {=masculine}
+
+::adj.2E.1b::[markdown]What is the case of the word **POPVLVS**? {=nominative}
+
+::adj.2E.1b::[markdown]What is the number of the word **POPVLVS**? {=singular}
+
+
+::adj.2E.2::[markdown]What noun declension does the noun **PRINCIPI** belong to?{
+~first
+#First declension nouns have genitive singular ending -ae
+~second
+#Second declension nouns have genitive singular ending -i
+=third
+}
+
+
+::adj.2E.3::[markdown]What adjective pattern does **OPTIMO** belong to? {
+=2-1-2
+~3-termination
+~2-termination
+~1-termination
+}
+
+::adj.2E.4a::[markdown]What is the gender of the word **OPTIMO**? {=masculine}
+
+::adj.2E.4b::[markdown]What is the case of the word **OPTIMO**? {=dative}
+
+::adj.2E.4b::[markdown]What is the number of the word **OPTIMO**? {=singular}
+
+
+
+
+::adj.2F.1::[markdown]In illustration **2 F (Vespasian)**, adjective pattern does the word  **NAVALIS** belong to? {
+~2-1-2
+~3-termination
+~2-termination
+=1-termination
+}
+
+::adj.2F.2a::[markdown]What gender is **NAVALIS**? { =feminine }
+
+::adj.2F.2a::[markdown]What case is **NAVALIS**? { =nominative }
+
+::adj.2F.2a::[markdown]What number is **NAVALIS**? { =singular }
+
+
+
+::adj.3.1a::[markdown]In the second coin in section **3 (Adjective or noun?)**, what gender are both **PIVS** and **FELIX**? { =masculine }
+
+
+::adj.3.1b::[markdown]What case are both **PIVS** and **FELIX**? {=nominative}
+
+::adj.3.1c::[markdown]What number are both **PIVS** and **FELIX**? {=singular}
+
+::adj.3.2::[markdown]What adjective pattern does **FELIX** belong to? {
+~2-1-2
+~3-termination
+~2-termination
+=1-termination
+}
+
+
+::adj.3.3a::[markdown]In the first coin in this section, what gender is **ORBIS**? {=masculine}
+
+::adj.3.3b::[markdown]In the first coin in this section, what case is **ORBIS**? {=genitive}
+
+::adj.3.3c::[markdown]In the first coin in this section, what number is **ORBIS**? {=singular}
