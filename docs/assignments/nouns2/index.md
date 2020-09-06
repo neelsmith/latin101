@@ -14,7 +14,8 @@ nav_order: 2
 
 1. watch the video linked above on the dative and accusative cases
 2. [(re)-read this section](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/nouns/) of our on-line textbook
-3. [complete this exercise](./exercise/) before class
+3. [complete this exercise](./exercise/) before class.
+There is a parallel self-correcting exercise in the “Quiz” section of Moodle for our section. Take it as many times as you need during unit 1 to complete it for credit as one of your self-correcting exercises.
 
 
 
