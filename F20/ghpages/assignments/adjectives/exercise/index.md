@@ -50,7 +50,7 @@ RIC IV Septimius Severus 554 (denarius)
 
 | Obverse | Reverse |
 | --- | -- |
-| ![](http://numismatics.org/collectionimages/19501999/1965/1965.66.33.obv.width350.jpg) **FAUVSTINA AVG[VSTA] ANTONINI AVG[VSTI] PII FIL[IA]** | ![rev](http://numismatics.org/collectionimages/19501999/1965/1965.66.33.rev.width350.jpg) **VENERI FELICI** |
+| ![](http://numismatics.org/collectionimages/19501999/1965/1965.66.33.obv.width350.jpg) **FAVSTINA AVG[VSTA] ANTONINI AVG[VSTI] PII FIL[IA]** | ![rev](http://numismatics.org/collectionimages/19501999/1965/1965.66.33.rev.width350.jpg) **VENERI FELICI** |
 
 
 
