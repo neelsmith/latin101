@@ -139,9 +139,9 @@ As often, the *reverse* of this coin depicts an abstract concept or personificat
 | ![obv](http://numismatics.org/collectionimages/19001949/1944/1944.100.51237.obv.width350.jpg)  **IVLIA AVGVSTA** | ![rev](http://numismatics.org/collectionimages/19001949/1944/1944.100.51237.rev.width350.jpg) **FORTVNAE FELICI** |
 
 1. What is the gender case and number of the two words on the *reverse* of this coin?
-2. What declension does the noun *FORTVNAE* belong to?
-3. What adjective pattern does *FELICI* belong to (2-1-2, 3-termination, 2-termination, or 1-termination)?
-4. What you think the reverse image depicts?
+2. What declension does the noun **FORTVNAE** belong to?
+3. What adjective pattern does **FELICI** belong to (2-1-2, 3-termination, 2-termination, or 1-termination)?
+4. What do you think the reverse image depicts?
 
 
 ### C. Faustina, reverse
@@ -152,8 +152,8 @@ As often, the *reverse* of this coin depicts an abstract concept or personificat
 
 
 1. What is the gender case and number of the two words on the *reverse* of this coin?
-2. What declension does the noun *VENERI* belong to?
-3. What adjective pattern does *FELICI* belong to (2-1-2, 3-termination, 2-termination, or 1-termination)?
+2. What declension does the noun **VENERI** belong to?
+3. What adjective pattern does **FELICI** belong to (2-1-2, 3-termination, 2-termination, or 1-termination)?
 
 The reverse image is a dove, a bird often associated with Venus.  Here, an *attribute* of the goddess stands in for a depiction of her (a rhetorical figure we cal *metonymy*).
 
@@ -169,8 +169,8 @@ Reverse:
 **ROMAE AETERNAE**
 
 1. What is the gender case and number of the two words on the *reverse* of this coin?
-2. What declension do you think the noun *ROMAE* belongs to?
-3. What adjective pattern does *AETERNAE* belong to (2-1-2, 3-termination, 2-termination, or 1-termination)?
+2. What declension do you think the noun **ROMAE** belongs to?
+3. What adjective pattern does **AETERNAE** belong to (2-1-2, 3-termination, 2-termination, or 1-termination)?
 
 ### E. Trajan
 
