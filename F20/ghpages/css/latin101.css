@@ -1,3 +1,13 @@
+.verb {
+  border: 2px solid green;
+  border-radius: 12px;
+}
+
+.subject {
+  text-decoration-line: underline;
+}
+
+
 
 .regular {
   color: blue;
@@ -24,6 +34,5 @@
 
 .idthis {
   text-decoration-line: underline;
- text-decoration-style: double;
-
+  text-decoration-style: double;
 }
