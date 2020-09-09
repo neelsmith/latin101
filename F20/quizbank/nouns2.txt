@@ -33,7 +33,7 @@ $CATEGORY: nouns2
 
 ::2.4A::[markdown] In sentence 4, case of *filios* {accusative}
 
-::2.4B::[markdown] In sentence 4, number of *filios* {singular}
+::2.4B::[markdown] In sentence 4, number of *filios* {plural}
 
 
 ::2.5A::[markdown] In sentence 5, case of *filia* {nominative}
