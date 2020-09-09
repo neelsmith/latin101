@@ -12,6 +12,8 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Announcements
 
+
+- **Sept. 9**:  I'll post an announcement here when I've updated our schedule to account for today's focus on `#scholarstrike`.  Coming soon!
 - **Sept. 4**: brief [guide to standard American pronouncation of Latin](./resources/pronounciation/) in resources section
 
 
