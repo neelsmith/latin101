@@ -1,4 +1,163 @@
 
+# `#scholarstrike`
+
+
+<style scoped>
+h1 {
+  font-size: 240%;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+</style>
+
+---
+
+# A timetable
+
+- August 26: NBA strike
+- Sept. 4:  labor leaders authorize work stoppages
+- Sept. 8-9: `#scholarstrike`
+
+
+---
+
+
+# What can education do? understanding
+
+Critical theory:
+
+- racism is systemic
+- not just result of individual racist actions
+- implicit bias affects our actions
+- privilege blinds us to how it works
+
+
+---
+
+# What can education do? skills
+
+- empathy
+- communication
+- inclusion
+
+---
+
+# September 4: a "sickness"?
+
+![](./imgs/trump-tweet.png)
+
+---
+
+# Latin
+
+- can be used to exclude
+- can be used to resist oppression
+
+---
+
+# Role of CBL in Latin study?
+
+
+---
+
+# Exclusion
+
+- "Classics" study of "the best", for "the best"
+
+---
+
+# Hume, "Of National Characters" (1758)
+
+> I am apt to suspect the negroes...to be naturally inferior to the whites.
+> In JAMAICA, indeed, they talk of one negroe as a man of parts and learning; but ’tis likely he is admired for very slender accomplishments, like a parrot, who speaks a few words plainly.
+
+(Referring to Francis Williams)
+
+![bg left](./imgs/Francis_williams.jpg)
+
+---
+
+
+![bg right](./imgs/Crummell.png)
+
+# Alexander Crummell
+
+- Episcopal clergyman
+- 1898 speech, "The Attitude of the American Mind toward the Negro Intellect"
+
+
+---
+
+>One of the utterances of Mr. Calhoun was ... “That if he could find a Negro who knew the Greek syntax, he would then believe that the Negro was a human being and should be treated as a man.”
+
+>... Mr. Calhoun went to “Yale” to study the Greek Syntax... His son went to Yale to study the Greek syntax... His grandson, in recent years, went to Yale, to learn the Greek Syntax...
+
+>School and Colleges were necessary for the Calhouns, and all other white men to learn the Greek syntax. And yet this great man knew that there was not a school, nor a college in which a black boy could learn his A, B, C’s. He knew that the law in all the Southern States forbade Negro instruction under the severest penalties.
+
+---
+
+
+# Resistance
+
+---
+
+# W.E.B. DuBois, *Souls of Black Folk* (1903)
+
+
+"Student-teaching" in Alexandria, TN:
+
+> When the Lawrences stopped [coming to school], I knew that the doubts of the old folks about book-learning had conquered again, and so, toiling up the hill, and getting as far into the cabin as possible, I put Cicero *pro Archia Poeta* into the simplest English with local applications, and usually convinced them -- for a week or so.
+
+![bg left](./imgs/Dubois.png)
+
+---
+
+# Cicero, *Pro Archia*
+
+- court speech
+- defends Archias' right to citizenship
+- Archias is a Greek immigrant
+- his value to society grows from his reading
+
+---
+
+# Cicero as a model for Black Americans
+
+- universality of Latin
+- relevant
+- significant
+- accessible
+
+
+---
+
+# Education is resistance
+
+
+---
+
+# Dubois uses Cicero
+
+Speech in 1891:
+
+> Finally, as to the point that men have become great without College degrees, I answer as Cicero answered two thousand years ago: I do not deny that great and useful men have existed who never had a College education, nor do I deny that genius without learning avails more than learning without genius.
+>
+> But this I do affirm: that when genius is added to the developing and moulding power of a collegiate education, then look for a *man*.
+
+
+---
+
+# Cicero, *Pro Archia*, 7
+
+
+"I admit that many men have existed of admirable disposition and virtue"
+
+
+> homines excellenti animo ac virtute
+
+---
 
 # Exhibit, “15 Black Classicists"
 
