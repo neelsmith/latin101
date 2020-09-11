@@ -12,7 +12,7 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Announcements
 
-
+- **Sept. 11**:  Moodle updated: self-corrected exercise in  for "[more nouns](assignments/nouns2/exercise/)" assignment now has correct answers (!), exercise for "[nouns](assignments/nouns/exercise/)" includes additional altenative answer.
 - **Sept. 10**: updates include:
     - new page with [assignments and Zoom links for practicum sections](./practicum/)
     - updated [calendar for Unit 1](./schedule/part1/schedule/)
