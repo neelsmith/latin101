@@ -1,0 +1,27 @@
+
+# Purpose using gerundive
+
+
+Pelops Atrei *filium Plisthenem* **interficiendum** misit.
+
+> Pelops sent *Plisthenes, the son* of Atreus, **to be killed**.
+
+
+
+
+<style scoped>
+strong {
+  color: rgb(159, 69, 17);
+}
+em {
+  color: 	rgb(24, 23, 162);
+  font-style: normal;
+}
+
+</style>
+
+
+![bg left height:90%](atreus-thyestes.jpg)
+
+
+---
