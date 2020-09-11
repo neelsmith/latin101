@@ -22,7 +22,8 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 - [unit 1: an inflected language](./schedule/part1/), including two translation and analysis assignments, and one Latin composition.
 - [daily schedule](./schedule/part1/schedule/) for unit 1.
-
+- summary of [new vocabulary in Unit 1](./schedule/part1/vocab/)
+- summary [new forms in Unit 1](./schedule/part1/forms/)
 
 ## Week at a glance
 
