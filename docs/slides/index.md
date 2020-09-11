@@ -10,7 +10,12 @@ parent: Course resources and reference material
 
 ## Slides used in class meetings
 
-None yet!
+PDFs of slides used in class:
+
+1. [inflection](./1-inflection.pdf)
+2. [nouns](./2-nouns.pdf)
+3. [more nouns](./3-morenouns.pdf)
+4. [`#scholarstrike`](./4-strike.pdf)
 
 ## Slides used in selected videos
 

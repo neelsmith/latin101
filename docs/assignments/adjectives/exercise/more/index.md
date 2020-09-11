@@ -19,3 +19,6 @@ Hadrian rome eternal RIC II, Part 3 (second edition) Hadrian 2339-2340
 
 
 Vespasian RIC II, Part 1 (second edition) Vespasian 1159
+
+
+Gordian RIC IV Gordian III 152 SEC PERP
