@@ -12,6 +12,9 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Announcements
 
+
+- **Sept. 10**: updates include:
+    - [slides from class meetings](./slides/)
 - **Sept. 4**: brief [guide to standard American pronouncation of Latin](./resources/pronounciation/) in resources section
 
 
