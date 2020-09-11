@@ -20,7 +20,7 @@ $CATEGORY: nouns
 ::2D::[markdown]What case do you think **GAII** is? {=genitive}
 
 
-::3A::[markdown]In the third coin on row 1, one noun from your vocabulary list in the nominative case is: {=filia =FILIA =F(ILIA) =f(ilia)}
+::3A::[markdown]In the third coin on row 1, one noun from your vocabulary list in the nominative case is: {=filia =FILIA =F(ILIA) =f(ilia) =IVLIA =ivlia}
 
 ::3D::[markdown]One noun in the genitive case is: {=TITI =titi  =AVGVSTI =AUGUSTI =augusti =avgvsti}
 
