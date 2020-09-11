@@ -13,7 +13,11 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 ## Announcements
 
 
-- **Sept. 9**:  I'll post an announcement here when I've updated our schedule to account for today's focus on `#scholarstrike`.  Coming soon!
+- **Sept. 10**: updates include:
+    - new page with [assignments and Zoom links for practicum sections](./practicum/)
+    - updated [calendar for Unit 1](./schedule/part1/schedule/)
+    - summaries of [vocabulary](schedule/part1/vocab/) and [forms](schedule/part1/forms/) covered in Unit 1
+    - [slides from class meetings](./slides/)
 - **Sept. 4**: brief [guide to standard American pronouncation of Latin](./resources/pronounciation/) in resources section
 
 
@@ -21,7 +25,8 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 - [unit 1: an inflected language](./schedule/part1/), including two translation and analysis assignments, and one Latin composition.
 - [daily schedule](./schedule/part1/schedule/) for unit 1.
-
+- summary of [new vocabulary in Unit 1](./schedule/part1/vocab/)
+- summary [new forms in Unit 1](./schedule/part1/forms/)
 
 ## Week at a glance
 
