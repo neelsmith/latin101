@@ -14,7 +14,9 @@ With vocabulary items through this unit, you can recognize:
 
 ## Adjectives
 
+- ācer, ācris, ācre - keen, sharp
 - bonus, bona, bonum - good
+- horribilis, horribile - horrible, terrible
 - laetus, laeta, laetum - happy
 - magnus, magna, magnum - great
 - meus, mea, meum - my
@@ -25,6 +27,7 @@ With vocabulary items through this unit, you can recognize:
 - multus, multa, multum - much, many
 - omnis, omne - all, every
 - prīmus, prīma, primum - first
+- trīstis, trīste - sad
 
 ## Adverb
 
