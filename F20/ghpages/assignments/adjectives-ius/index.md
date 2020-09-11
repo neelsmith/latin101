@@ -20,7 +20,14 @@ There is a small number of frequently occurring 2-1-2 adjectives that has a geni
 
 ## Questions
 
+Use this list of [vocabulary you should know for Unit 1](https://neelsmith.github.io/latin101/schedule/part1/vocab/) (through Oct. 9) to compose Latin expressing these ideas.
 
+1.  "Our brother" as the direct object of a sentence.
+2. "Our brother" as the indirect object of a sentence.
+3. "The father of no true brother" as the subject of a sentence. (Use a form of *nullus, nulla , nullum*)
+4. "into the happy kingdom" (as if you've just travelled there and gone to your happy place)
+5. "The name of the great city" as the subject of a sentence.
+6. "The king of no city" as the direct object of a sentence.
 
 ## Preparing for first translation assignment
 
