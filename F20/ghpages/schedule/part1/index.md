@@ -51,7 +51,7 @@ Six self-corrected exercises:
 1. [nouns](../../assignments/nouns/exercise/) (nominative and genitive cases)
 2. [nouns, 2](../../assignments/nouns2/exercise/)  (dative and accusative cases)
 3. [adjectives](../../assignments/adjectives/exercise/)
-4. [demonstratives and -*ius* adjectives](../../assignments/adjectives-ius/exercise/)
+4. [demonstratives and -*ius* adjectives](../../assignments/demonstratives/exercise/)
 5. [verbs](../../assignments/imperfect/exercise/) (imperfect and perfect indicative)
 6. [*sum* and *possum*](../../assignments/possum/exercise/)
 
