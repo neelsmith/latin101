@@ -13,6 +13,7 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 ## Announcements
 
 
+- **Sept. 13**:  Unit 1 [summary of forms](./schedule/part1/forms/) now complete.
 - **Sept. 12**:  See the [practicum/CBL page](./practicum/) for one-time Zoom links to this week's practicum meetings, and preparatory reading.
 - **Sept. 11**:  Moodle updated: self-corrected exercise in  for "[more nouns](assignments/nouns2/exercise/)" assignment now has correct answers (!), exercise for "[nouns](assignments/nouns/exercise/)" includes additional altenative answer.
 - **Sept. 10**: updates include:
