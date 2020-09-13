@@ -159,6 +159,12 @@ You should also understand how to use these endings in third declension nouns wi
 
 The plural is identical to regular 2-1-2 adjectives.
 
+### Pronouns
+
+As you've learned in Unit 1, a very important group of adjectives are also regularly used as *pronouns*.  The forms of *hic, haec, hoc*;  *ille, illa, illud*; and *ipse, ipsa, ipsum* include irregular forms you must memorize.  You can find complete paradigms in the reference section of the [L3 textbook](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/).
+
+
+
 ### Verbs
 
 Third person indicative forms of imperfect and perfect tenses.  Note that the endings are identical; the vowel of the stem depends on the conjugation.
