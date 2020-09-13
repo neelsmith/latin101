@@ -3,6 +3,7 @@ layout: page
 title: "Unit 1: summary of forms and constructions"
 parent: "Unit 1: an inflected language"
 grand_parent: Course schedule
+nav_order: 0
 ---
 
 # Unit 1: summary of forms and constructions
@@ -15,6 +16,53 @@ For further paradigms, refer also to the reference section of the L3 textbook.
 ### Nouns
 
 All nouns of 1st, 2nd and 3rd declensions.
+
+#### First declension
+
+| Case | Singular | Plural |
+| --- | --- |  --- |
+| Nominative | Argonaut-a |  Argonaut-<span class="attention">ae</span> |
+| Genitive | Argonaut-<span class="attention">ae</span> |  Argonaut-arum|
+| Dative | Argonaut-<span class="attention">ae</span> | Argonaut-is |
+| Accusative | Argonaut-am | Argonaut-as |
+| Ablative | Argonaut-<span class="attention">ā</span> | Argonaut-is |
+
+#### Second declension
+
+This is an example of a masculine noun in *-us*
+You should also be able to decline masculine second-declension nouns like *puer, pueri* and neuter second-declension nouns like *exemplum, exempli*.
+
+
+| Case | Singular | Plural |
+| --- | --- |  --- |
+| Nominative | fili-us | fili-i |
+| Genitive | fili-i | fili-orum |
+| Dative | fili-o | fili-is |
+| Accusative | fili-um | fili-os |
+| Ablative | fili-o | fili-is |
+
+#### Third declension
+
+
+| Case | Singular | Plural |
+| --- | --- |  --- |
+| Nominative | mater | matr-es |
+| Genitive | matri-is | matr-<span class="attention">um</span> |
+| Dative | matr-<span class="attention">i</span> | matri-ibus |
+| Accusative | matr-em | matr-es |
+| Ablative |  matr-<span class="attention">e</span> | matr-ibus |
+
+*i-stem*
+
+
+| Case | Singular | Plural |
+| --- | --- |  --- |
+| Nominative | urbs | urb-es |
+| Genitive | urb-is | urb-<span class="attention">ium</span> |
+| Dative |  urb-<span class="attention">i</span> |  urb-ibus |
+| Accusative |  urb-em | urb-es |
+| Ablative | urb-<span class="attention">e</span> | urb-ibus  |
+
 
 ### Adjectives
 

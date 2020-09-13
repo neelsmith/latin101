@@ -25,4 +25,3 @@ nav_order: 2
 | :------------- | :------------- |:------------- | :-------------| :-------------|
 |Sep. 28-Oct. 2 | [Introduction to verbs](../../../assignments/verbs/) | **no classes**| [Imperfect tense](../../../assignments/imperfect/) |   **No class on Wednesday**   |
 |Oct. 5-Oct. 9 | [Sum, esse, fui](../../../assignments/sum/) | [Possum](../../../assignments/possum/)| Composition 1 workshop |     2 self-corrected exercise: [regular verbs](../../../assignments/imperfect/exercise/); [*sum* and *possum*](../../../assignments/possum/exercise/) |
-
