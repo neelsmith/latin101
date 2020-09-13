@@ -44,6 +44,11 @@ You should also be able to decline masculine second-declension nouns like *puer,
 #### Third declension
 
 
+
+This is an example of a feminine noun.
+You should also be able to decline neuter second-declension nouns like *nomen, nominis*.
+
+
 | Case | Singular | Plural |
 | --- | --- |  --- |
 | Nominative | mater | matr-es |
@@ -66,8 +71,6 @@ You should also be able to decline masculine second-declension nouns like *puer,
 
 ### Adjectives
 
-
-All adjectives (2-1-2, and 3rd declensions)
 
 ### Third declension, three terminations
 
