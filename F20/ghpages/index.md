@@ -33,7 +33,7 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Week at a glance
 
-- Week of Sept. 7-11: adjectives in  Latin, including two self-corrected exercises: [nouns (part 2) ](./assignments/nouns2/exercise/), and [adjectives](./assignments/adjectives/exercise/).
+- Week of **Sept. 14-18**: Adjectives, pronouns and proper names in Hyginus. One self-corrected exercise ([adjectives and pronouns](./assignments/demonstratives/exercise/)); one exercise submitted as a Google form ([identify that character!](./assignments/prosopography/))
 
 
 ## Contact
