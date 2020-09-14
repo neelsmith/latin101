@@ -24,6 +24,6 @@ Each of you has been assigned two characters to catalog. Next to your name (alph
 - **Marrinan**, Ronan D: Mercurii, Mercurii, Mercurio, Mercurium, Mercurius; Nelei, Neleum, Neleus
 - **McArthur**, Paige Judith: Nireum, Nireus; Oeagri
 - **Molski**, Allison J: Palamedes, Palamedes, Palamedi, Palamedi, Palamedis; Peleus, Pelei, Peleo
-- **O**'Neil, Michael D: Periclymene, Periclymeni, Periclymenus; Pollucem, Polluci, Pollux
+- **O'Neil**, Michael D: Periclymene, Periclymeni, Periclymenus; Pollucem, Polluci, Pollux
 - **Pirundini**, Matthew J: Priami, Priami, Priamo, Priamo, Priamum, Priamus; Sarpedon, Sarpedone, Sarpedonem
 - **Tormey**, Nicholas O: Scylla, Scylla, Scyllam; Talai
