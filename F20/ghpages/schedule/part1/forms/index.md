@@ -152,8 +152,8 @@ You should also understand how to use these endings in third declension nouns wi
 | Case | Masculine | Feminine |  Neuter |
 | --- | ---  | --- | --- |
 | Nominative | null-<span class="regular">us</span> | null-<span class="regular">a</span> |  null-<span class="regular">um</span> |
-| Genitive | null-<span class="regular">ius</span> | null-<span class="regular">ius</span> | null-<span class="regular">ius</span> |
-| Dative | null-<span class="regular">i</span> | null-<span class="regular">i</span> | null-<span class="regular">i</span> |
+| Genitive | null-<span class="attention">ius</span> | null-<span class="attention">ius</span> | null-<span class="attention">ius</span> |
+| Dative | null-<span class="attention">i</span> | null-<span class="attention">i</span> | null-<span class="attention">i</span> |
 | Accusative | null-<span class="regular">um</span>  |  null-<span class="regular">am</span> | null-<span class="regular">um</span> |
 | Ablative | null-<span class="regular">o</span> | null-<span class="regular">a</span> | null-<span class="regular">o</span> |
 
