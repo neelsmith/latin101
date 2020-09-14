@@ -143,7 +143,7 @@ You should also understand how to use these endings in third declension nouns wi
 
 
 
-### -ius adjectives
+### *-ius* adjectives
 
 
 **Singular**
