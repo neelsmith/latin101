@@ -1,0 +1,64 @@
+$CATEGORY: demonstratives
+
+//Some quiz questions for F20 version of course.
+
+
+::1A::[markdown]Hyginus 4pr1 begins “Athamas, the king in Thessaly, married Themisto, the daughter of a nymph.” (*Athamas in Thessalia rex duxit nymphae filiam Themistonem uxorem*).  It continues *Ex **ea** filio habuit*.  What gender is **ea**? {=feminine =Feminine}
+
+::1B::[markdown]What case is **ea**? {=ablative}
+
+::1C::[markdown]What is the grammatical function of **ea**? {~direct object ~indirect object =object of preposition ~subject}
+
+
+::2A::[markdown]Section 9pr1 begins “Amphion and Zetus drove the son of the king into exile.” (*Amphion et Zetus Labdaci regis filium in exsilium eiecerunt.*)  It continues **ipsi** *regnum obtinuerunt.*  (*obtinuerunt* = "They obtained").  What gender is **ipsi**? {=massculine}
+
+
+::2B::[markdown]What case is **ipsi**? {=nominative}
+
+::2C::[markdown]What number is **ipsi**? {=plural}
+
+::2D::[markdown]What is the grammatical function of **ipsi**? {~direct object ~indirect object ~object of preposition =subject}
+
+::3A::[markdown]Section 4pr5 begins, “Themisto killed her children.” (*Themisto filios occidit.*)  When she realizes what she has done, she commits suicide.  Vocabulary: *ubi*, "when"; *resciit*, "she recognized"; *necauit*, "she killed"; *se*, "herself (direct object)".  It continues **id** *ubi resciit, **ipsa** se necauit.* What gender is **ipsa**? {=feminine}
+
+
+::3B::[markdown]What  case is **ipsa**? {=nominative}
+
+::3C::[markdown]What number is **ipsa**? {=singular}
+
+::3D::[markdown]What is the grammatical function **ipsa**?  {~direct object ~indirect object ~object of preposition =subject}
+
+
+::3E::[markdown]What gender is **id**? {=neuter}
+
+::3F::[markdown]What case is **id**? {=accusative}
+
+::3G::[markdown]What number is **id**? {=singular}
+
+
+::4A::[markdown]Section 15pr6 begins “The women of Lemnos conceived children from the Argonauts.” (*Lemniades filios ex Argonautis conceperunt.*)  Vocabulary: *imposuerunt* “They set or placed (direct object in accusative) upon (indirect object in dative). “ It continues **eorum** *nomina filiis imposuerunt.*  What gender is **eorum**? {=masculine}
+
+
+::4B::[markdown]What case is **eorum**? {=genitive}
+
+::4C::[markdown]What number is **eorum**? {=plural}
+
+::4D::[markdown]What word in the sentebnce *Lemniades filios ex Argonautis conceperunt.* is the antecedent for **eorum**? {=filios}
+
+
+
+::5A::[markdown]Section 31pr9 begins, “Hercules killed Eurytus because…” (*Hercules Eurytum occidit, quod...*) Vocabulary:  *petiit*, “s/he sought, asked for”; *coniugium, coniugii* (n.) “marriage”; *repudiauit* “s/he rejected”.  The passage continues *filiam **eius** in coniugium petiit et **ille** **eum** repudiauit*.  What gender is **eius**? {=masculine}
+
+
+::5B::[markdown]What case is **eius**? {=genitive}
+
+::5C::[markdown]What number is **eius**? {=singular}
+
+
+::5D::[markdown]What gender is **ille**? {=masculine}
+
+::5E::[markdown]What case is **ille**? {=nominative}
+
+::5F::[markdown]What number is **ille**? {=singular}
+
+::5G::[markdown]Who does **ille** refer to? {~Eurytus =Hercules}
