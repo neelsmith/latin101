@@ -12,6 +12,7 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Announcements
 
+- **Sept. 15**:  [class wiki available](./wiki/). (Also linked from [course resources page](./resources/).)
 - **Sept. 14**:  [challenges for breakout rooms](./breakouts) today
 - **Sept. 13**:   [Summary of regular forms](./schedule/part1/forms/) covered in Unit 1 now complete.  Note that you should also learn the irregular forms of *hic, haec, hoc*, *is, ea, id*, *ille, illa, illud*, and *ipse, ipsa, ipsum*, using the [paradigms in the L3 textbook](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/).
 - **Sept. 12**:  See the [practicum/CBL page](./practicum/) for one-time Zoom links to this week's practicum meetings, and preparatory reading.

@@ -2,12 +2,17 @@
 title: "Course resources and reference material"
 layout: page
 nav_order: 5
+has_children: true
 ---
 
 
 # Course resources and reference materials
 
+
+- [class wiki](../wiki/)
 - guide to [standard American pronounciation of Latin](./pronounciation/)
+
+
 
 ## *Lingua Latina Legenda* project (L3)
 
