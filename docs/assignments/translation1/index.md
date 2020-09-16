@@ -1,6 +1,8 @@
 ---
 title: "Translation 1"
 layout: page
+parent: "Unit 1: an inflected language"
+grand_parent: Course schedule
 ---
 
 # Translation assignment 1: *Prīmī Deōrum* – The First Gods
