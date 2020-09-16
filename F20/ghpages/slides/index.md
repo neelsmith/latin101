@@ -16,6 +16,8 @@ PDFs of slides used in class:
 2. [nouns](./2-nouns.pdf)
 3. [more nouns](./3-morenouns.pdf)
 4. [`#scholarstrike`](./4-strike.pdf)
+5. [adjectives](./5-adjs.pdf)
+4. [*-ius* adjectives](./6-ius-adjs.pdf)
 
 ## Slides used in selected videos
 

@@ -5,9 +5,6 @@
 
 # Agenda
 
-- Administrative notes:
-    - updates to web site
-    - Monday: set up personal web sites in github
 - Describing nouns:
     - with another noun
     - with adjectives
@@ -20,14 +17,17 @@
 # Describing nouns with nouns
 
 
-- genitive case
+- genitive case connects two nouns
 
 > SECVRITAS ORBIS
+"The safety of the world"
 
 
 - quality: ablative
 
 > homo **magno ingenio**
+
+"A person (characterized by) of great talent"
 
 <style scoped>
   strong {
@@ -41,19 +41,31 @@
 
 ---
 
-# What kind of connection
+# The genitive: what kind of connection?
 
 
 > amor dei
 
 "Love of God"
 
-But who loves whom?
+Ambiguity in both Latin and English: who loves whom?
+
+---
+
+# Kinds of connection
+
+*amor dei* could mean:
+
+- (Our) love for god
+    - (sometimes called the *objective* genitive: it's like a direct object in "(someone) loves *god*")
+- God's love (for us)
+    - (sometimes called the *subjective* genitive: it's a subject in "God loves (someone)")
+
 
 
 ---
 
-# Wandering adverbs
+# Describing nouns with a noun: wandering adverbs
 
 Headline from Worcester *Telegram and Gazette*:
 
@@ -76,20 +88,30 @@ Headline from Worcester *Telegram and Gazette*:
 
 # Adjectives: another substantive
 
+All adjectives have:
+
 - gender, case, number
 
-Substantive use:
+Used like a normal adjective:
 
 > DIVA FAVSTINA
 
 "The deified Faustina"
 
-> DIVI FILIVS
 
-"Son of the god [the deified one]"
+Used as a substantive:
+
+> `DIVI` FILIVS
+
+"Son of `the god [the deified one]`"
 
 
 
+<style scoped>
+  code {
+    color: rgb(159, 69, 17);
+  }
+s</style>
 
 
 
@@ -97,11 +119,34 @@ Substantive use:
 
 
 
-# Degree
+# Adjectives also have *degree*
 
-primus
+- positive
+- comparative
+- superlative
 
-optimus
+---
+
+# English examples
+
+"Fast" has regular forms; "good" has irregular forms
+
+
+| Positive |  Comparative | Superlative |
+| --- | --- | --- |
+| good | better | best |
+| fast | faster | fastest |
+
+---
+
+
+# Latin examples you have seen
+
+*optimus, optima, optimum*, "best":  superlative degree
+
+*primus, prima, primum*, "first": superlative degree
+
+
 
 
 ---

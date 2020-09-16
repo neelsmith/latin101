@@ -1,38 +1,9 @@
-# Where we are
 
-This week: finish **substantives**
-
-- nouns
-- adjectives
-- pronouns
-
-
-Next week: **verbs**
-
-
-
-<style scoped>
-strong {
-    color: 	rgb(24, 23, 162);
-  font-style: normal;
-}
-</style>
-
----
-
-# Assignments this week
-
-1. self-corrected exercise (Wed.)
-2. Google form (Fri.)
-3. today: practice using github (for next week's translation assignment)
-
----
-
-# Friday assignment
+# Preview of Friday assignment
 
 - leverage your knowledge of Latin nouns!
 - automate *parsing* of digital text of Hyginus
-- contribute to a collective encyclopedia of who's in Hyginus
+- contribute to a collective "who's who in Hyginus"
 
 
 ---
@@ -94,14 +65,9 @@ strong {
 
 Small number of *-ius* adjectives:
 
-- 2-1-2 adjectives, but different genitive/dative singular
+- 2-1-2 adjectives, but *-ius* genitive singular  and *-i* dative singular
 
 
----
-
-# Breakout, 1
-
-- compose Latin for highlighted phrase
 
 
 
@@ -154,7 +120,7 @@ Reminder:
 # 2. Modify settings
 
 
-- Find settings (three-dot menu)
+- Find settings (may be in three-dot menu if your window is narrow)
 - *Options* tab: scroll to *GitHub Pages*:
     - **Source**: *master* branch, *docs* folder
 
@@ -162,8 +128,11 @@ Reminder:
 
 #  3. Add content
 
+Back at your repository main window:
+
 - "Add file" menu, "Create new file"
-- User `docs/index.md` for file name
+- Use `docs/index.md` for file name
+    - when you enter "/", github interprets it as separating a folder name (`docs`) from a file name (`index.md`)
 - Type in a one-sentence summary
 - "Commit changes"
 
@@ -178,13 +147,11 @@ Reminder:
 
 ---
 
-# Study groups?
 
----
+# More about your web site
 
+When you save a file with `.md` extension, github interprets the contents as *markdown*, a lightweight, plain-text format for structuring documents.
 
-# Breakout questions 2
-
-- look at on your own
+- [Learn markdown in 60 seconds](https://commonmark.org/help/)
 
 ---

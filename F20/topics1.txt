@@ -20,7 +20,7 @@
 [Identify that character](../../../assignments/prosopography/)!
 
 
-Translation 1 workshop
+Translation 1 workshop: [small groups](../../../assignments/xlateworkshop1/)
 [Introduction to verbs](../../../assignments/verbs/)
 [Imperfect tense](../../../assignments/imperfect/)#
 
@@ -30,12 +30,10 @@ Translation 1 workshop
 [Sum, esse, fui](../../../assignments/sum/)#
 
 **no classes**
-Composition 1 workshop
-
-
-
 [Possum](../../../assignments/possum/)#
 
-Translation 2 workshop#
 
-Sight reading and review#
+Composition 1 workshop: small groups
+Translation 2 workshop: full class#
+
+Review and introduction to Unit 2#
