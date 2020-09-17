@@ -48,7 +48,7 @@ Notes on formatting:
 - <span class="query">highlighting like this</span> indicates words referred to in grammatical questions.
 
 
-> `Chaos` prīmus deōrum erat. Fīliae <span class="query">eius</span>, `Nox` et Terra, māter omnium hominum, erant. <span class="query">Haec</span> māter Mortis et Lētī erat. <span class="query">Illīus</span> fīliī horribilia <span class="query">mōnstra</span> erant: `Typhon`, `Python`, et `Cyclōpēs`. `Typhon` et `Python` <span class="query">dracōnēs</span> ingentēs erant et `Cyclōpēs` fabrī brūtī. Sed frāter <span class="query">eōrum</span> `Ūranus`, prīmus ipse rēx deōrum. Hic fortis et magnus erat, sed quōque sapiēns.
+> `Chaos` prīmus deōrum erat. Fīliae <span class="query">eius</span>, `Nox` et Terra, māter omnium hominum, erant. <span class="query">Haec</span> māter Mortis et Lētī erat. <span class="query">Illīus</span> fīliī horribilia <span class="query">mōnstra</span> erant: `Typhon`, `Python`, et `Cyclōpēs`. `Typhon` et `Python` <span class="query">dracōnēs</span> ingentēs erant et `Cyclōpēs` fabrī brūtī. Sed frāter <span class="query">eōrum</span> `Ūranus`, prīmus ipse rēx deōrum. Hic fortis et magnus erat, sed  sapiēns.
 
 
 ### A. Grammatical Analysis
