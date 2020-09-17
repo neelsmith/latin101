@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Verbs: self-correcting exercise"
+title:  "Imperfect and perfect tense: self-correcting exercise"
 parent: "Verbs"
 ---
 
