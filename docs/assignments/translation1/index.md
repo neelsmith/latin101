@@ -53,7 +53,7 @@ Notes on formatting:
 
 ### A. Grammatical Analysis
 
-1. Surround all the verbs with *two* asterisks, and all the subjects with *one* asterisk.
+1. Surround all the verbs with *two* asterisks.  (These will display as **bold** text.) Surround all the subjects with *one* asterisk. (These will display as *italic* text.)
 
 
 ### B. Grammatical Questions
