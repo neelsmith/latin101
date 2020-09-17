@@ -34,7 +34,7 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 - **Instructor**: Neel Smith.  Email: at `holycross.edu`, user name `nsmith`
 - **Regular meeting times**:  MWF 9:15-10:05 (Eastern time) on [this Zoom link](https://holycross.zoom.us/j/99294412522?pwd=dDBsUEZtcHpKZ2s4ekFFbmFIQXVoQT09).
-- **Scheduled drop-in hours**: by Zoom (with waiting room) [Mondays, 10:15-11:30](https://holycross.zoom.us/j/92426336160); [Tuesdays, 12:00-1:30](https://holycross.zoom.us/j/98344637818); [Thursdays, 1:00-2:30](Join Zoom Meeting
-https://holycross.zoom.us/j/99712991817)
+- **Scheduled drop-in hours**: by Zoom (with waiting room) [Mondays, 10:15-11:30](https://holycross.zoom.us/j/92426336160); [Tuesdays, 12:00-1:30](https://holycross.zoom.us/j/98344637818); [Thursdays, 1:00-2:30](https://holycross.zoom.us/j/99712991817).
+
 
 In addition, you must enroll in one of the practicum sessions (M 4:45-5:35, M 6:00-6:50 or Tu 8:00-8:50, all times Eastern time)
