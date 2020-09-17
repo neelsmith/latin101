@@ -13,5 +13,4 @@ nav_order: 7
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3W-s_L82MLc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. watch the video above
-2. [read this section]() of our on-line textbook
-3. [complete this exercise](./exercise/)
+2. [read this section](https://lingualatina.github.io/textbook/presentation/02-verbs/overview/) of our on-line textbook
