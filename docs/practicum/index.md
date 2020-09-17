@@ -20,7 +20,7 @@ One-time zoom links for this week:
 
 - [Monday, 4:45-5:35](https://holycross.zoom.us/j/95109369720?pwd=enY4VnVpY093RzBCMDB5eFF2KzlMdz09)
 - [Monday, 6:00-6:50](https://www.google.com/url?q=https://holycross.zoom.us/j/99154960265&sa=D&source=calendar&ust=1600263337829000&usg=AOvVaw1TuW56712AOKavAFXRb3Ft)
-- [Tuesday, 8:00-8:50](https://holycross.zoom.us/j/95705401746).)  (All times Eastern time.)
+- [Tuesday, 8:00-8:50](https://holycross.zoom.us/j/95705401746).  (All times Eastern time.)
 
 
 ## Week of **Sept. 21-22**
@@ -30,6 +30,7 @@ One-time zoom links for this week:
 One-time Zoom links for this week:
 
 
-- [Monday, 4:45-5:35]()
-- [Monday, 6:00-6:50]()
-- [Tuesday, 8:00-8:50]()  (All times Eastern time.)
+- [Monday, 4:45-5:35](https://holycross.zoom.us/j/92154243167?pwd=MkJSanh0bDRRcFJDNmFnaHozMFEwdz09) (ID 92154243167)
+- [Monday, 6:00-6:50](https://holycross.zoom.us/j/93896666460?pwd=L0c4blViTmNjY25nYzVqN0RQMDgvZz09) (ID 93896666460)
+- [Tuesday, 8:00-8:50](
+ https://holycross.zoom.us/j/99974688128?pwd=eEtuRjEwSnEvdHBUU25qR3J1M2VuQT09)  (ID 99974688128) (All times Eastern time.)
