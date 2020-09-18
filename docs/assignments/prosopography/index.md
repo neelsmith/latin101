@@ -17,6 +17,9 @@ We will exploit your new knowledge of Latin nouns to identify the nominative and
 
 Your name will appear on each of your contributions in this collaborative work. We will add our lexicon to resources for the *Lingua Latina Legenda* project, where it will also be easily searchable.
 
+## Sample output
+
+Here's an example of one automatically formatted article:  "[Daedalus](./sampleoutput/)," contributed by Erin Eason.  (Thanks, Erin!)
 
 ## Instructions
 

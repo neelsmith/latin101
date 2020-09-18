@@ -10,6 +10,8 @@ nav_order: 12
 ## Announcements
 
 
+- **Sept. 14**:  [challenges for breakout rooms](./breakouts) today
+- **Sept. 13**:   [Summary of regular forms](./schedule/part1/forms/) covered in Unit 1 now complete.  Note that you should also learn the irregular forms of *hic, haec, hoc*, *is, ea, id*, *ille, illa, illud*, and *ipse, ipsa, ipsum*, using the [paradigms in the L3 textbook](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/).
 - **Sept. 12**:  See the [practicum/CBL page](./practicum/) for one-time Zoom links to this week's practicum meetings, and preparatory reading.
 - **Sept. 11**:  Moodle updated: self-corrected exercise in  for "[more nouns](assignments/nouns2/exercise/)" assignment now has correct answers (!), exercise for "[nouns](assignments/nouns/exercise/)" includes additional altenative answer.
 - **Sept. 10**: updates include:
