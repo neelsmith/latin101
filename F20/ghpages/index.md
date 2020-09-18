@@ -12,7 +12,7 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Announcements
 
-
+- **Sept. 18**: breakout questions for [practice vocabulary exam](./breakouts/)
 - **Sept. 18**: example of [automatically formatted web page](./assignments/prosopography/sampleoutput/) from "Identify that character!" assignment.
 - **Sept. 16**:  [first translation assignment posted](./assignments/translation1/)
 - **Sept. 15**:  [class wiki available](./wiki/). (Also linked from [course resources page](./resources/).)
