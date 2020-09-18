@@ -18,7 +18,7 @@ Contribution by **Erin Eason**.
 
 *Daedalus, Daedali* (masculine).  See [entry in Lewis-Short](http://folio2.furman.edu/lewis-short/index.html?urn=urn:cite2:hmt:ls.markdown:n12263).
 
-## In Hyginus:  11 passages
+## In Hyginus:  9 passages
 
 
 
@@ -28,8 +28,6 @@ Contribution by **Erin Eason**.
 1. [40pr.4](https://lingualatina.github.io/texts/browsable/hyginus/40pr/)
 1. [40pr.5](https://lingualatina.github.io/texts/browsable/hyginus/40pr/)
 1. [44pr.1](https://lingualatina.github.io/texts/browsable/hyginus/44pr/)
-1. [200a.1](https://lingualatina.github.io/texts/browsable/hyginus/200a/)
-1. [200a.2](https://lingualatina.github.io/texts/browsable/hyginus/200a/)
 1. [244_237.5](https://lingualatina.github.io/texts/browsable/hyginus/244_237/)
 1. [274_268.14](https://lingualatina.github.io/texts/browsable/hyginus/274_268/)
 1. [274_268.15](https://lingualatina.github.io/texts/browsable/hyginus/274_268/)
