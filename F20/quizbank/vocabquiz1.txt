@@ -1,0 +1,48 @@
+$CATEGORY: vocab1
+
+//Some quiz questions for F20 version of course.
+
+
+::voc1.01::[markdown]Please translate the **highlighted** words and phrases into Latin.  Take account of how the words function in the English sentence to choose the appropriate case for nouns and adjectives.  They dragged **the ship** into the sea. {=navem}
+
+::voc1.02::[markdown]They dragged the ship **into the sea**. {=in mare}
+
+::voc1.03::[markdown]The found **the ship** in the sea. {=navem}
+
+::voc1.04::[markdown]The found the ship **in the sea**. {=in mari}
+
+::voc1.05::[markdown]Megara **was the wife** of Hercules. {=uxor erat =erat uxor}
+
+::voc1.06::[markdown]Megara was the wife of Hercules. **Her father** was Creon {=pater eius =eius pater}
+
+::voc1.07::[markdown]Neleus, **the son** of Hippocoon, refused to purify Hercules. {=filius}
+
+::voc1.08::[markdown]Neleus, the son of Hippocoon, refused to purify Hercules. **On account of this**, Hercules killed him and his sons. {=ob id}
+
+::voc1.09::[markdown]Neleus, the son of Hippocoon, refused to purify Hercules. On account of this, Hercules killed **him** and his sons. {=eum}
+
+::voc1.10::[markdown]Neleus, the son of Hippocoon, refused to purify Hercules. On account of this, Hercules killed him and **his sons**. {=filios eius}
+
+::voc1.11::[markdown]Orpheus **was the son** of the Muse Calliope, from the city of Flevia. {=filius erat =erat filius}
+
+::voc1.12::[markdown]Orpheus was the son of the Muse Calliope, **from the city** of Flevia. {=ex urbe}
+
+::voc1.13::[markdown]Polyphemus inhabited **the city** of Larissa. {=urbem}
+
+::voc1.14::[markdown]Polyphemus inhabited the city of Larissa. **This city** was in Thrace.{=urbs illa =illa urbs =ea urbs}
+
+::voc1.15::[markdown]**The land** of Media was named after Medus. {=terra}
+
+::voc1.16::[markdown]The land of Media was named after Medus. **He himself** named it after he killed the king, Perseus, took over the kingdom, and became its king. {=ipse =ille ipse}
+
+::voc1.17::[markdown]The land of Media was named after Medus. He himself named it after he killed **the king**, Perseus, took over the kingdom, and became its king. {=regem}
+
+
+::voc1.18::[markdown]The land of Media was named after Medus. He himself named it after he killed the king, Perseus, took over **the kingdom**, and became its king. {=regnum}
+
+
+::voc1.19::[markdown]The land of Media was named after Medus. He himself named it after he killed the king, Perseus, took over the kingdom, and became **its king**.  {=rex eius}
+
+::voc1.20::[markdown]**Other kings** also named lands after themselves. {=alii reges =reges alii}
+
+::voc1.21::[markdown]Other kings also named **lands** after themselves. {=terras}
