@@ -1,5 +1,31 @@
+// Ammonite script
+//val personalRepo = coursierapi.MavenRepository.of("https://dl.bintray.com/neelsmith/maven")
+//interp.repositories() ++= Seq(personalRepo)
+
+//import $ivy.`edu.holycross.shot::latincorpus:7.0.0-pr5`
+
+import edu.holycross.shot.latincorpus._
+
 import scala.io.Source
 import java.io.PrintWriter
+import java.io.File
+
+val hyginusUrl = "https://raw.githubusercontent.com/LinguaLatina/analysis/master/data/hyginus/hyginus-latc.cex"
+val hyginus = LatinCorpus.fromUrl(hyginusUrl)
+
+def passageLinks(lexeme: String) : String = {
+  val baseUrl = "https://lingualatina.github.io/texts/browsable/hyginus/"
+  val psgs = hyginus.citableUnits.sequences.filter( cn => cn.matchesLexeme(lexeme))
+  val hdr = s"## In Hyginus:  ${psgs.size} passages"
+  val items = psgs.map { psg =>
+    val psgRef = psg.tokens.head.urn.collapsePassageTo(1).passageComponent
+    s"1. [${psgRef}](${baseUrl}${psgRef}/)"
+  }
+  hdr + "\n\n" + items.mkString("\n")
+}
+
+
+
 
 val f = "names.cex"
 val data = Source.fromFile(f).getLines.toVector
@@ -11,19 +37,19 @@ case class TabEntry(nominative: String,
   ls: String
 )
 
-case class Article( author: String,
+case class Article(author: String,
   nominative: String,
   genitive: String,
   gender: String,
   ls: String,
-  summary: String
-) {
+  summary: String) {
 
   def header : String = {
     val lines = Vector("---",
     s"title: ${nominative}",
     "layout: page",
     s"parent: ${nominative.head}",
+    "grand_parent: Characters in Hyginus",
     "---")
     lines.mkString("\n")
   }
@@ -31,15 +57,18 @@ case class Article( author: String,
     "Contribution by *" +  author + "*"
   }
   def title: String = "# " + nominative
-
-  def articleSummary: String = "## Summary\n\n" + summary
+  def articleSummary: String = "## Summary\n\n| " + summary
 
   def lewisShort: String = {
     s"## Dictionary entry\n\n*${nominative}, ${genitive}* (${gender.toLowerCase}). See [entry in Lewis-Short](http://folio2.furman.edu/lewis-short/index.html?urn=${ls})."
   }
 
+  def passageList: String = {
+    passageLinks(ls.replaceFirst("urn:cite2:hmt:ls.markdown:","ls."))
+  }
+
   def webPage: String = {
-    List(header, title, attribution, articleSummary, lewisShort).mkString("\n\n\n")
+    List(header, title, attribution, articleSummary, lewisShort, passageList).mkString("\n\n\n")
   }
 }
 
@@ -83,7 +112,9 @@ def articles = {
 
 def web = {
   for (a <- articles ) {
-    val f = a.nominative + ".md"
+    val dir = new File(a.nominative)
+    if (! dir.exists) { dir.mkdir}
+    val f = dir + "/index.md"
     new PrintWriter(f){write(a.webPage); close;}
   }
 }

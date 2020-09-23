@@ -12,10 +12,9 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Announcements
 
+- **Sept. 23**: first contributions to "Identify that character!" project [published as part of *Lingua Latina Legenda* course material](https://lingualatina.github.io/courses/)
+- **Sept. 21**: vocabulary quiz 1 available on Moodle
 - **Sept. 18**: breakout questions for [practice vocabulary exam](./breakouts/)
-- **Sept. 18**: example of [automatically formatted web page](./assignments/prosopography/sampleoutput/) from "Identify that character!" assignment.
-- **Sept. 16**:  [first translation assignment posted](./assignments/translation1/)
-- **Sept. 15**:  [class wiki available](./wiki/). (Also linked from [course resources page](./resources/).)
 - [Old news](./oldnews/)
 
 ## Current unit
@@ -27,8 +26,7 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Week at a glance
 
-- Week of **Sept. 14-18**: Adjectives, pronouns and proper names in Hyginus. One self-corrected exercise ([adjectives and pronouns](./assignments/demonstratives/exercise/)); one exercise submitted as a Google form ([identify that character!](./assignments/prosopography/))
-
+- Week of **Sept. 21-25**: Introduction to verbs.  One self-corrected exercise (*currently being updated*).
 
 ## Contact
 
