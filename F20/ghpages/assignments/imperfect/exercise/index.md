@@ -33,4 +33,29 @@ These passages of Hyginus are taken from sections devoted to the life of Hercule
 
 ## Passages
 
-TO BE ADDED
+In the following passages, find each *clause*.  (Remember that in Latin, the verb *to be* might be implied only in a linking construction!)
+
+For each clause, identify:
+
+- nominative subject
+- verb form (PNTMV)
+- whether the verb is *transitive*, *intransitive* or a *linking verb*
+- if the verb is a *transitive* verb in the *active* voice, does it have a direct object?
+- if the verb is a *linking verb*, what is the predicate? (also in nominative case)
+
+
+**Passage 1** (section 30)
+
+> Diomedem Thraciae regem et equos quattuor eius interfecit; equorum autem nomina Podargus Lampon Xanthus Dinus.
+
+
+**Passage 2** (section 30)
+
+
+> canem Cerberum Typhonis filium in conspectum adduxit.
+
+
+**Passage 3** (section 32)
+
+
+> Hercules ob id in seruitutem datus est.
