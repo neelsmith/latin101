@@ -9,7 +9,9 @@ nav_order: 12
 
 ## Announcements
 
-
+- **Sept. 18**: example of [automatically formatted web page](./assignments/prosopography/sampleoutput/) from "Identify that character!" assignment.
+- **Sept. 16**:  [first translation assignment posted](./assignments/translation1/)
+- **Sept. 15**:  [class wiki available](./wiki/). (Also linked from [course resources page](./resources/).)
 - **Sept. 14**:  [challenges for breakout rooms](./breakouts) today
 - **Sept. 13**:   [Summary of regular forms](./schedule/part1/forms/) covered in Unit 1 now complete.  Note that you should also learn the irregular forms of *hic, haec, hoc*, *is, ea, id*, *ille, illa, illud*, and *ipse, ipsa, ipsum*, using the [paradigms in the L3 textbook](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/).
 - **Sept. 12**:  See the [practicum/CBL page](./practicum/) for one-time Zoom links to this week's practicum meetings, and preparatory reading.
@@ -25,4 +27,6 @@ nav_order: 12
 
 ## Week at a glance
 
+
+- Week of **Sept. 14-18**: Adjectives, pronouns and proper names in Hyginus. One self-corrected exercise ([adjectives and pronouns](./assignments/demonstratives/exercise/)); one exercise submitted as a Google form ([identify that character!](./assignments/prosopography/))
 - Week of Sept. 7-11: adjectives in  Latin, including two self-corrected exercises: [nouns (part 2) ](./assignments/nouns2/exercise/), and [adjectives](./assignments/adjectives/exercise/).

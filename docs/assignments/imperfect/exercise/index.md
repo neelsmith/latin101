@@ -25,24 +25,12 @@ Verbs to memorize:
 
 **Before you start reading**
 
-These passages of Hyginus are taken sections devoted to the life of Hercules.  He is in fact the subject of all the verbs in these selections!  What person and number do you expect the verbs to be?
+These passages of Hyginus are taken from sections devoted to the life of Hercules.  He is in fact the subject of all the verbs in these selections!  What person and number do you expect the verbs to be?
 
 - Person: [1, 2, 3]
 - Number: [S, P]
 
 
-**Passage 1** (section 30)
+## Passages
 
-> Diomedem Thraciae regem et equos quattuor eius interfecit; equorum autem nomina **Podargus Lampon Xanthus Dinus**.
-
-
-**Passage 2** (section 30)
-
-
-> canem Cerberum Typhonis filium  in conspectum adduxit.
-
-
-**Passage 3** (section 32)
-
-
-> **Hercules** ob id in seruitutem datus est.
+TO BE ADDED
