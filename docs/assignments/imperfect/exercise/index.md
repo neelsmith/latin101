@@ -20,7 +20,7 @@ Verbs to memorize:
 
 | The mares of Diomedes | Cerberus | Punishment for the theft of the Delphic tripod |
 | --- | --- | --- |
-| ![Theater at Delphi](../../../../imgs/delphi-mares-diomedes.png) Frieze from the Theater at Delphi, from a photo © S.P. Kershaw, CC-BY-SHARE-SA | ![Louvre F 204](https://upload.wikimedia.org/wikipedia/commons/6/6b/Herakles_Kerberos_Louvre_F204_cropped_white-balanced_glare-reduced_white-bg.png) Louvre F 204, red-figure side of a "bilingual" amphora | ![](https://upload.wikimedia.org/wikipedia/commons/5/5c/Herakles_Apollo_tripod_Louvre_G180.jpg) Louvre G 180, red-figure stamnos |
+| ![Theater at Delphi](../../../imgs/delphi-mares-diomedes.png) Frieze from the Theater at Delphi, from a photo © S.P. Kershaw, CC-BY-SHARE-SA | ![Louvre F 204](https://upload.wikimedia.org/wikipedia/commons/6/6b/Herakles_Kerberos_Louvre_F204_cropped_white-balanced_glare-reduced_white-bg.png) Louvre F 204, red-figure side of a "bilingual" amphora | ![](https://upload.wikimedia.org/wikipedia/commons/5/5c/Herakles_Apollo_tripod_Louvre_G180.jpg) Louvre G 180, red-figure stamnos |
 
 
 **Before you start reading**
