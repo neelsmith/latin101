@@ -64,4 +64,4 @@ The passive is formed with the present tense of "to be" plus the fourth-part adj
 | Masculine | Feminine | Neuter |
 | seruat-<span class="regular">i sunt</span>  | seruat-<span class="regular">ae sunt</span>  | seruat-<span class="regular">a sunt</span>  |
 
-<link rel="stylesheet" type="text/css" href="../../../css/latin101.css">
+<link rel="stylesheet" type="text/css" href="../../css/latin101.css">

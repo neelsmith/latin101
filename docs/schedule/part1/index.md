@@ -58,7 +58,7 @@ Six self-corrected exercises:
 
 Two vocabulary quizzes:
 
-1. vocabulary quiz 1: nouns and prepositions
+1. vocabulary quiz 1: nouns, adjectives and prepositions (available on Moodle)
 2. vocabulary quiz 2: verbs
 
 # Summary of vocabulary and forms
