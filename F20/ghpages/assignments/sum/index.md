@@ -7,7 +7,7 @@ nav_order: 9
 ---
 
 
-# Sum
+# *Sum* ("to be")
 
-2. [read this section]() of our on-line textbook
-3. [complete this exercise](./exercise/)
+1. Revew [sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/) in our on-line textbook.
+2. In this [section on irregular verbs](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/) in our on-line textbook, memorize the four principle parts of *sum*, and the *imperfect indicative* of sum.
