@@ -12,7 +12,7 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Announcements
 
-
+- **Oct. 2**: Introduction to [second translation assignment](./assignments/translation2/)
 - **Sept. 25**:  First [composition assignment](./assignments/composition1/) available.
 - **Sept. 23**: first contributions to "Identify that character!" project [published as part of *Lingua Latina Legenda* course material](https://lingualatina.github.io/courses/)
 - **Sept. 21**: vocabulary quiz 1 available on Moodle
