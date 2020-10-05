@@ -18,6 +18,8 @@ PDFs of slides used in class:
 4. [`#scholarstrike`](./4-strike.pdf)
 5. [adjectives](./5-adjs.pdf)
 4. [*-ius* adjectives](./6-ius-adjs.pdf)
+1. [finite verbs](./9-verbs.pdf)
+1. [infinitives](./11-infins.pdf)
 
 ## Slides used in selected videos
 
