@@ -12,7 +12,7 @@ for REPONAME in $(cat repos.txt) ; do
   if [ ! -d $REPONAME ]
   then
     echo "Making directory " $REPONAME
-    mkdir $REPONAME
+    mkdir -p $REPONAME
     echo "Cloning " $REPOPATH
     (cd $ROOT/$REPONAME && $GIT clone $REPOPATH)
   else
