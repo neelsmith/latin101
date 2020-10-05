@@ -19,5 +19,5 @@ nav_order: 2
 |Sep. 14-Sep. 18 | [-ius adjectives](../../../assignments/adjectives-ius/) | [Demonstratives](../../../assignments/demonstratives/)| [Identify that character](../../../assignments/prosopography/)! |      |
 |Sep. 21-Sep. 25 | Translation 1 workshop: [small groups](../../../assignments/xlateworkshop1/) | [Introduction to verbs](../../../assignments/verbs/)| [Imperfect tense](../../../assignments/imperfect/) |      |
 |Sep. 28-Oct. 2 | [Sum, esse, fui](../../../assignments/sum/) | **no classes**| [Possum](../../../assignments/possum/) |   **No class on Wednesday**   |
-|Oct. 5-Oct. 9 | Composition 1 workshop: small groups (junior, seniors) | Translation 2 workshop: full class| Review and introduction to Unit 2 |   **All unit 1 requirements due Friday (11:59 pm Eastern)**   |
+|Oct. 5-Oct. 9 | [Workshop: small groups](../../../assignments/workshop2/) (junior, seniors) | Translation 2 workshop: full class| Review and introduction to Unit 2 |   **All unit 1 requirements due Friday (11:59 pm Eastern)**   |
 
