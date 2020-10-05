@@ -112,7 +112,9 @@ def articles = {
 
 def web = {
   for (a <- articles ) {
-    val dir = new File(a.nominative)
+    val alphadir = new File(a.nominative.head.toString)
+    if (! alphadir.exists) { alphadir.mkdir}
+    val dir = new File(alphadir, a.nominative)
     if (! dir.exists) { dir.mkdir}
     val f = dir + "/index.md"
     new PrintWriter(f){write(a.webPage); close;}
