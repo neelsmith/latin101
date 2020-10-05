@@ -17,7 +17,7 @@ grand_parent: Course schedule
 - find the verb of each clause
 - what kind of clause is it?  
     - if *linking* clause, look for *nominative subject* and *nominative predicate*
-    - if *intransitive*, chec for *nominative subject*
+    - if *intransitive*, check for *nominative subject*
     - if *transitive*, what voice is the verb?
         - if *passive*, look for *nominative subject* matching the fourth principle part (perfect passive participle) in gender and number
         - if *active*, check for *nominative subject* and *accusative direct object*
