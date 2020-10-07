@@ -4,6 +4,25 @@ layout: page
 parent: Nullus parens est
 ---
 
+
+# Oct. 7: breakout questions
+
+Compose Latin for the **emphasized** words and phrases.
+
+1. Adrastus, the son of Talaus, **had** two daughters. (Summarizing his life life as single event.)
+2. Odysseus came to Scylla; she **had** a  human upper body and the lower body of a dog. (Description of her state at the time Odysseus came to her.)
+3. Jason **was loved** by Medea, once.
+4. Pasiphae was jealous because another woman also **loved** the Minotaur.
+5. Hercules **was given** into slavery.
+6. The Greeks **made** a wooden horse.
+7. The Labyrinth (*labyrinthus, -i*, masculine) **was made by Daedalus** (*Daedalus, -i*, masculine.)
+8. Athamas **sent** a messenger to Delphi.
+9.  The Greeks frequenlty **sent** messengers to Delphi to make inquiries of the oracle there.
+10. Hercules **was sent by Zeus** to kill the eagle that tortured Prometheus.
+11. It **was not possible to capture** Troy without the aid of Telephus.
+12. Troy **could not be captured** without the aid of Telephus.
+
+
 # Sept. 18: breakout questions
 
 Compose Latin for the **emphasized** words and phrases.

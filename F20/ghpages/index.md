@@ -12,7 +12,7 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Announcements
 
-
+- **Oct. 7**: [breakout questions](./breakouts/)
 - **Oct. 7**: unit 1: [revised timeline of deadlines for assessment](./schedule/part1/timeline/)
 - **Oct. 7**: an approach to [reading a Latin text](./reading/)
 - **Oct. 7**: complete assignment for [translation 2](./assignments/translation2/) now available.
