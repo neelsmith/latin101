@@ -12,6 +12,10 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Announcements
 
+- **Save the date**!  Guest visit with Phuc Tran, **Tues. Oct. 20 at 4:45**.  (Zoom link will be shared later.)  Watch his TedX talk, "Grammar, Identity, and the Dark Side of the Subjunctive."  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zeSVMG4GkeQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - **Oct. 7**: [breakout questions](./breakouts/)
 - **Oct. 7**: unit 1: [revised timeline of deadlines for assessment](./schedule/part1/timeline/)
 - **Oct. 7**: an approach to [reading a Latin text](./reading/)
