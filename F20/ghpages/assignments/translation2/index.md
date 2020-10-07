@@ -5,33 +5,9 @@ parent: "Unit 1: an inflected language"
 grand_parent: Course schedule
 ---
 
-# Translation 2
+# Translation 2:  *Primi mortales*
 
 
-## Guide for reading
-
-You do not need to write out your answers to questions in this guide: these questions are to help you analyze any passage of Latin you approach for the first time.
-
-### Step 1: focus on the verb
-
-- find the verb of each clause
-- what kind of clause is it?  
-    - if *linking* clause, look for *nominative subject* and *nominative predicate*
-    - if *intransitive*, check for *nominative subject*
-    - if *transitive*, what voice is the verb?
-        - if *passive*, look for *nominative subject* matching the fourth principle part (perfect passive participle) in gender and number
-        - if *active*, check for *nominative subject* and *accusative direct object*
-
-### Step 2: review remaining nouns
-
-- after you have found any possible subjects and (for transitive active verbs) direct objects, are there any remaining nouns?
-- what case are they in?  (This is our guide to their function.)
-
-Further uses of cases we have seen:
-
-- genitive case to *describe another noun*
-- dative case for the *winner/loser* of the action (e.g., indirect object)
-- ablative or other cases with specific prepositions
 
 ## Concepts to review
 
