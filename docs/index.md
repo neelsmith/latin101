@@ -12,12 +12,11 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Announcements
 
-- **Oct. 2**: Monday, Oct. 5, is Zoom-free Monday for first-years and sophomores!
-- **Oct. 2**: Introduction to [second translation assignment](./assignments/translation2/)
-- **Sept. 25**:  First [composition assignment](./assignments/composition1/) available.
-- **Sept. 23**: first contributions to "Identify that character!" project [published as part of *Lingua Latina Legenda* course material](https://lingualatina.github.io/courses/)
-- **Sept. 21**: vocabulary quiz 1 available on Moodle
-- **Sept. 18**: breakout questions for [practice vocabulary exam](./breakouts/)
+- **Oct. 7**: [breakout questions](./breakouts/)
+- **Oct. 7**: unit 1: [revised timeline of deadlines for assessment](./schedule/part1/timeline/)
+- **Oct. 7**: an approach to [reading a Latin text](./reading/)
+- **Oct. 7**: complete assignment for [translation 2](./assignments/translation2/) now available.
+- **Oct. 6**: [slides from class](./slides/) updated
 - [Old news](./oldnews/)
 
 ## Current unit
@@ -29,7 +28,7 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Week at a glance
 
-- Week of **Sept. 21-25**: Introduction to verbs.  One self-corrected exercise (*currently being updated*).
+- Week of **Oct. 5-9**: Small-group and full-class workshops on composition assignment 1 and translation assignment 2.
 
 ## Contact
 

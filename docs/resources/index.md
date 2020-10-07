@@ -22,6 +22,7 @@ has_children: true
 
 ## Latin 101, section 1
 
+- a [guide to reading a Latin text](../reading/)
 - a guide to [short videos specific to our section](./videos/) (or go straight to a [youtube playlist for our section](https://www.youtube.com/playlist?list=PLUcfS6VHaxZDWuU6b7cz9fWV2S6UmH7Yy)). I will post *very* short videos on topics specific to our section of Latin 101 on this channel.
 - [slides](/slides/).  I will share any slides we use in class meetings here.
 

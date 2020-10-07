@@ -42,7 +42,8 @@ Graded versions of assignments for Unit 1 should be completed by **Friday, Oct. 
 ## Posted to your github portfolio
 
 - two translation and analysis assignments
-    - [first translation assignment](https://neelsmith.github.io/latin101/assignments/translation1/): *Primi Deorum*
+    - [first translation assignment](../../assignments/translation1/): *Primi Deorum*
+    - [second translation assignment](../../assignments/translation2/); *Primi mortales*
 - one [Latin composition](../../assignments/composition1/)
 
 ## Submitted on Moodle
