@@ -9,6 +9,7 @@ nav_order: 12
 
 ## Announcements
 
+- **Oct. 6**: [slides from class](./slides/) updated
 - **Oct. 2**: Monday, Oct. 5, is Zoom-free Monday for first-years and sophomores!
 - **Oct. 2**: Introduction to [second translation assignment](./assignments/translation2/)
 - **Sept. 25**:  First [composition assignment](./assignments/composition1/) available.
