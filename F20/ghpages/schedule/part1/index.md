@@ -48,19 +48,19 @@ Graded versions of assignments for Unit 1 should be completed by **Friday, Oct. 
 
 ## Submitted on Moodle
 
-Five self-corrected exercises:
+Four self-corrected exercises:
 
 1. [nouns](../../assignments/nouns/exercise/) (nominative and genitive cases)
 2. [nouns, 2](../../assignments/nouns2/exercise/)  (dative and accusative cases)
 3. [adjectives](../../assignments/adjectives/exercise/)
 4. [demonstratives and -*ius* adjectives](../../assignments/demonstratives/exercise/)
-5. [verbs](../../assignments/imperfect/exercise/) (imperfect and perfect indicative)
-
 
 Two vocabulary quizzes:
 
 1. vocabulary quiz 1: nouns, adjectives and prepositions (available on Moodle)
-2. vocabulary quiz 2: verbs
+2. vocabulary quiz 2: [verbs](../../assignments/imperfect/exercise/) (imperfect and perfect indicative)
+
+
 
 # Summary of vocabulary and forms
 
