@@ -19,7 +19,7 @@ Compose Latin for the **emphasized** words and phrases.
 8. Athamas **sent** a messenger to Delphi.
 9.  The Greeks frequenlty **sent** messengers to Delphi to make inquiries of the oracle there.
 10. Hercules **was sent by Zeus** to kill the eagle that tortured Prometheus.
-11. It **was not possible to capture** Troy without the aid of Telephus.
+11. The Greeks **could not capture** Troy without the aid of Telephus.
 12. Troy **could not be captured** without the aid of Telephus.
 
 

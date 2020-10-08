@@ -27,7 +27,6 @@ Moodle self-corrected exercises closing on Oct. 14:
 3. [adjectives](../../assignments/adjectives/exercise/)
 4. [demonstratives and -*ius* adjectives](../../assignments/demonstratives/exercise/)
 5. [verbs](../../assignments/imperfect/exercise/) (imperfect and perfect indicative)
-6. [*sum* and *possum*](../../assignments/possum/exercise/)
 1. vocabulary quiz 1: nouns, adjectives and prepositions (available on Moodle)
 
 Complete first draft of the following assignments must be submitted to your github portfolio by Oct. 14:

@@ -1,0 +1,28 @@
+$CATEGORY: vocab2
+
+//Some quiz questions for F20 version of course.
+
+
+::voc2.01::[markdown]Please translate the **highlighted** words and phrases into Latin.  Take account of how the words function in the English sentence to choose the appropriate case for nouns and adjectives.  Adrastus, the son of Talaus, **had** two daughters. (*A sentence summarizing his life life as single event*.) {=habuit}
+
+::voc2.02::[markdown] Odysseus came to Scylla; she **had** a human upper body and the lower body of a dog. (*A sentence describing her state at the time Odysseus came to her*.) {=habebat}
+
+::voc2.03::[markdown] Jason **was loved by Medea**, once. (*Medea, Medeae*, feminine) {=a Medea amatus est =amatus est a Medea}
+
+::voc2.04::[markdown]  Pasiphae was jealous because another woman also **loved** the Minotaur. {=amabat}
+
+::voc2.05::[markdown] Hercules **was given** into slavery. {=datus est}
+
+::voc2.06::[markdown] The Greeks **made** a wooden horse. {=fecerunt}
+
+::voc2.07::[markdown] The Labyrinth  **was made by Daedalus** (*labyrinthus, -i*, masculine; *Daedalus, -i*, masculine.) {=a Daedalo factus est}
+
+::voc2.08::[markdown] Athamas **sent** a messenger to Delphi. {=misit}
+
+::voc2.09::[markdown] The Greeks frequently **sent** messengers to Delphi to make inquiries of the oracle there. {=mittebant}
+
+::voc2.10::[markdown] Hercules **was sent** by  Zeus to kill the eagle that tortured Prometheus. {=missus est}
+
+::voc2.11::[markdown] The Greeks **could not capture** Troy without the aid of Telephus. {=non poterant capere =capere non poterant}
+
+::voc2.12::[markdown] Troy **could not be captured** without the aid of Telephus. (*Troia, Troiae*, feminine)  {=capi non poterat =non poterat capi}
