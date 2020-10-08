@@ -33,7 +33,7 @@ Translation 1 workshop: [small groups](../../../assignments/xlateworkshop1/)
 [Possum](../../../assignments/possum/)#
 
 
-Composition 1 workshop: small groups
+[Workshop: small groups](../../../assignments/workshop2/) (junior, seniors)
 Translation 2 workshop: full class#
 
 Review and introduction to Unit 2#
