@@ -12,6 +12,8 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Announcements
 
+
+- **Oct. 7**:  vocabulary quiz 2 now posted on Moodle: all self-corrected exercises for Unit 1 available
 - **Save the date**!  Guest visit with Phuc Tran, **Tues. Oct. 20 at 4:45**.  (Zoom link will be shared later.)  Watch his TedX talk, "Grammar, Identity, and the Dark Side of the Subjunctive."  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zeSVMG4GkeQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
