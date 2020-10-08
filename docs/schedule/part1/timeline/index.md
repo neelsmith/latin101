@@ -26,7 +26,6 @@ Moodle self-corrected exercises closing on Oct. 14:
 2. [nouns, 2](../../assignments/nouns2/exercise/)  (dative and accusative cases)
 3. [adjectives](../../assignments/adjectives/exercise/)
 4. [demonstratives and -*ius* adjectives](../../assignments/demonstratives/exercise/)
-5. [verbs](../../assignments/imperfect/exercise/) (imperfect and perfect indicative)
 1. vocabulary quiz 1: nouns, adjectives and prepositions (available on Moodle)
 
 Complete first draft of the following assignments must be submitted to your github portfolio by Oct. 14:
@@ -41,7 +40,7 @@ Complete first draft of the following assignments must be submitted to your gith
 
 Moodle self-corrected exercises closing on Oct. 19:
 
-1. vocabulary quiz 2: verbs
+1. vocabulary quiz 2: [verbs](../../assignments/imperfect/exercise/) (imperfect and perfect indicative)
 
 
 ## Friday, Oct. 23
