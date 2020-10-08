@@ -20,6 +20,7 @@ PDFs of slides used in class:
 4. [*-ius* adjectives](./6-ius-adjs.pdf)
 1. [finite verbs](./9-verbs.pdf)
 1. [infinitives](./11-infins.pdf)
+1. [review: ablative case, infinitive verbs](./13-review.pdf)
 
 ## Slides used in selected videos
 

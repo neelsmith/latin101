@@ -12,7 +12,7 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Announcements
 
-
+- **Oct. 8**:  revised version of all [slides in used unit 1](./slides/) available
 - **Oct. 7**:  vocabulary quiz 2 now posted on Moodle: all self-corrected exercises for Unit 1 available
 - **Save the date**!  Guest visit with Phuc Tran, **Tues. Oct. 20 at 4:45**.  (Zoom link will be shared later.)  Watch his TedX talk, "Grammar, Identity, and the Dark Side of the Subjunctive."  
 
@@ -22,7 +22,6 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 - **Oct. 7**: unit 1: [revised timeline of deadlines for assessment](./schedule/part1/timeline/)
 - **Oct. 7**: an approach to [reading a Latin text](./reading/)
 - **Oct. 7**: complete assignment for [translation 2](./assignments/translation2/) now available.
-- **Oct. 6**: [slides from class](./slides/) updated
 - [Old news](./oldnews/)
 
 ## Current unit
