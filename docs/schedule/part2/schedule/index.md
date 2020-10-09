@@ -10,7 +10,7 @@ nav_order: 4
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Oct. 12-Oct. 16 | Expressions of place and time | Gerunds and gerundives| More gerunds and gerundives |     Competency Quiz 3 |
+|Oct. 12-Oct. 16 | [Introduction to Unit 2](../../../assignments/unit2/) | Gerunds and gerundives| Week review |      |
 
 
 ## Present and future time
