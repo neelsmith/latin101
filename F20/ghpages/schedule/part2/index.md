@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Unit 2: expressing time and purpose"
+title: "Unit 2: time, place, purpose"
 nav_order: 3
 parent: Course schedule
 has_children: true

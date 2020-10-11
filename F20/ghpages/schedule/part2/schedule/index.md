@@ -10,12 +10,12 @@ nav_order: 4
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Oct. 12-Oct. 16 | Expressions of place and time | Gerunds and gerundives| More gerunds and gerundives |     Competency Quiz 3 |
+|Oct. 12-Oct. 16 | [Introduction to Unit 2](../../../assignments/unit2/) | [The gerundive](../../../assignments/gerundive/)| Week review |      |
 
 
-## Present and future time
+## Asking questions; more time and people
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Oct. 19-Oct. 23 | Interrogative adjectives and pronouns | Present active and passive indicative| Future active and passive indicative |      |
+|Oct. 19-Oct. 23 | Interrogative adjectives and pronouns | Present active and passive indicative| Verbs: review |      |
 

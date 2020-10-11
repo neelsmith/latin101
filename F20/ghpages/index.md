@@ -12,6 +12,10 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Announcements
 
+- **Oct. 10**:  you  may laugh or groan, but if you have no response to this tweet, you need to review the third declension.
+
+![chexmix](./imgs/chexmix.png)
+
 - **Oct. 8**:  revised version of all [slides in used unit 1](./slides/) available
 - **Oct. 7**:  vocabulary quiz 2 now posted on Moodle: all self-corrected exercises for Unit 1 available
 - **Save the date**!  Guest visit with Phuc Tran, **Tues. Oct. 20 at 4:45**.  (Zoom link will be shared later.)  Watch his TedX talk, "Grammar, Identity, and the Dark Side of the Subjunctive."  
