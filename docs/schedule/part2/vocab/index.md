@@ -11,7 +11,7 @@ nav_order: 0
 
 ## Adjectives
 
-- sacer, sacra, sacrum - dedicated to a deity, sacred; neuter singular *sacrum* used as a noun "a sacrifice thing" =  sacrifice or temple
+- sacer, sacra, sacrum - dedicated to a deity, sacred; neuter singular *sacrum* used as a noun "a sacrifice thing" =  sacrifice or temple, *sacrum facere* = "to sacrifice"
 
 
 ## Nouns
