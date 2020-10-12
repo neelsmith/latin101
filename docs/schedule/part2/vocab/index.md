@@ -13,7 +13,6 @@ nav_order: 0
 
 - sacer, sacra, sacrum - dedicated to a deity, sacred; neuter singular *sacrum* used as a noun "a sacrifice thing" =  sacrifice or temple, *sacrum facere* = "to sacrifice"
 
-
 ## Nouns
 
 - annus, anni, *masculine* - year
@@ -21,6 +20,7 @@ nav_order: 0
 - deus, dei, *masculine* - god, divinity
 - insula, insulae, *feminine* - island
 - numerus, numeri, *masculine* - number
+- sacrum, sacri, *neuter* -
 
 ## Verbs
 
