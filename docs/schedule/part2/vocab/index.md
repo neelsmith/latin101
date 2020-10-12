@@ -9,6 +9,11 @@ nav_order: 0
 
 # Unit 2 vocabulary
 
+## Adjectives
+
+- sacer, sacra, sacrum - dedicated to a deity, sacred; neuter singular *sacrum* used as a noun "a sacrifice thing" =  sacrifice or temple
+
+
 ## Nouns
 
 - annus, anni, *masculine* - year
