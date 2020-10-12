@@ -11,7 +11,7 @@ nav_order: 0
 
 ## Nouns
 
-
+- annus, anni, *masculine* - year
 - conjugium, conjugii, *neuter* - marriage
 - deus, dei, *masculine* - god, divinity
 - insula, insulae, *feminine* - island
