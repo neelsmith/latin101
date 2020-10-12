@@ -10,7 +10,7 @@ nav_order: 4
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Oct. 12-Oct. 16 | [Introduction to Unit 2](../../../assignments/unit2/) | [The gerundive](../../../assignments/gerundive/)| Week review |      |
+|Oct. 12-Oct. 16 | [Introduction to Unit 2](../../../assignments/unit2/) | [The gerundive](../../../assignments/gerundive/)| [The gerund](../../../assignments/gerund/) |      |
 
 
 ## Asking questions; more time and people
