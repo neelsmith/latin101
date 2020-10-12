@@ -5,6 +5,36 @@ parent: Nullus parens est
 ---
 
 
+# October 12: breakout questions
+
+## 1.  `67pr` Oedipus regnum filiis alternis annis dat
+
+*alternus, -a, -um* "alternate, every other one"
+
+## 2.  `125a` Calypso anno toto eum retinuit
+
+*totus, -a, -um* (an *-ius* adjective): "all"
+
+*retineo, retinēre, retinui, retentus*: "keep (retain)"
+
+
+## 3. `144a` aquilam post ⅩⅩⅩ annos Hercules interfecit
+
+*aquila, -ae*, feminine: "eagle"
+
+
+
+## 4. `2pr` huic quinto anno ludi gymnici fiunt
+
+*ludus, -i*, masculine: "game, competition"
+
+*gymnicus, -a, -um*: "athletic"
+
+*fiunt*: "happen" (3rd plural present indcitive of *fio*, "to become, come about")
+
+
+
+
 # Oct. 7: breakout questions
 
 Compose Latin for the **emphasized** words and phrases.
@@ -67,5 +97,11 @@ Vocabulary
 
 
 
+<style>
+  code {
+    color: silver;
+  }
+
+</style>
 
 <link rel="stylesheet" type="text/css" href="../css/latin101.css">

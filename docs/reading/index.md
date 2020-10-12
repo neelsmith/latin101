@@ -7,7 +7,7 @@ layout: page
 
 # Reading a Latin text
 
-
+We will expand this guide as we become familiar with a wider range of Latin syntax, but the steps in the basic approach will not change.
 
 ### Step 1: focus on the verb
 
@@ -21,11 +21,14 @@ layout: page
 
 ### Step 2: review remaining nouns
 
-- after you have found any possible subjects and (for transitive active verbs) direct objects, are there any remaining nouns?
+- after you have found any possible subjects,  direct objects (for transitive active verbs) or agents with *a/ab* (with transitive passive verbs), are there any remaining nouns?
 - what case are they in?  (This is our guide to their function.)
 
 Some important uses of cases we have seen:
 
 - genitive case to *describe another noun*
 - dative case for the *winner/loser* of the action (e.g., indirect object)
-- ablative or other cases with specific prepositions
+- ablative or other cases with *specific prepositions*
+- ablative or accusative case in expressions of time
+
+If the noun is modified by a *gerundive*, does it express purpose?

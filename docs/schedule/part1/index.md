@@ -29,7 +29,7 @@ You will learn to read simple Latin sentences in the imperfect and perfect tense
 
 # Checklist of assignments
 
-Graded versions of assignments for Unit 1 should be completed by **Friday, Oct. 9**.
+See a [timeline of when graded versions of assignments for Unit 1](./timeline/) should be completed.
 
 - [daily schedule with assignments](./schedule/)
 
