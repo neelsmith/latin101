@@ -12,32 +12,26 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Announcements
 
+- **Oct. 12**: [overview of unit 2](./schedule/part2/) available
+- **Oct. 12**: updated [guide to reading a Latin text](./reading/)
+- **Oct. 12**: interactive web page to test yourself on [recognizing forms from unit 1 vocabulary](https://observablehq.com/@neelsmith/lingua-latina-legenda-test-yourself-on-unit-1-vocabulary?collection=@neelsmith/l3)
 - **Oct. 10**:  you  may laugh or groan, but if you have no response to this tweet, you need to review the third declension.
 
 ![chexmix](./imgs/chexmix.png)
 
-- **Oct. 8**:  revised version of all [slides in used unit 1](./slides/) available
-- **Oct. 7**:  vocabulary quiz 2 now posted on Moodle: all self-corrected exercises for Unit 1 available
-- **Save the date**!  Guest visit with Phuc Tran, **Tues. Oct. 20 at 4:45**.  (Zoom link will be shared later.)  Watch his TedX talk, "Grammar, Identity, and the Dark Side of the Subjunctive."  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zeSVMG4GkeQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-- **Oct. 7**: [breakout questions](./breakouts/)
-- **Oct. 7**: unit 1: [revised timeline of deadlines for assessment](./schedule/part1/timeline/)
-- **Oct. 7**: an approach to [reading a Latin text](./reading/)
-- **Oct. 7**: complete assignment for [translation 2](./assignments/translation2/) now available.
 - [Old news](./oldnews/)
 
 ## Current unit
 
-- [unit 1: an inflected language](./schedule/part1/), including two translation and analysis assignments, and one Latin composition.
-- [daily schedule](./schedule/part1/schedule/) for unit 1.
-- summary of [new vocabulary in Unit 1](./schedule/part1/vocab/)
-- summary [new forms in Unit 1](./schedule/part1/forms/)
+- [unit 2: time, place, purpose](./schedule/part2/), including one vocabulary quiz, three self-corrected exercises, and one composition.
+- [daily schedule](./schedule/part2/schedule/) for unit 2.
+- summary of [new vocabulary in Unit 2](./schedule/part2/vocab/)
+- summary [new forms in Unit 2](./schedule/part2/forms/)
 
 ## Week at a glance
 
-- Week of **Oct. 5-9**: Small-group and full-class workshops on composition assignment 1 and translation assignment 2.
+- Week of **Oct. 12-16**:  prepositional phrases; the gerundive and expressions of purpose.
+- Week of **Oct. 19-25**:  the present indicative, and all three persons of present, imperfect and perfect indicative; verb synopses
 
 ## Contact
 
