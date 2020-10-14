@@ -10,6 +10,17 @@ nav_order: 0
 
 ## Forms
 
+### The present infinitive
+
+|  | Active | Passive |
+| --- | --- | --- |
+| 1st conjugation | laudāre | laudari |
+| 2nd conjugation | vidēre | videri |
+| 3rd conjugation | ducere | duci |
+| 4th conjugation | audīre | audiri |
+
+
+
 ### The gerundive
 
 
@@ -24,6 +35,10 @@ nav_order: 0
 
 **4th conjugation.** audio, audire -> audie-*nd*-us, -a, -um
 
+
+### The gerund
+
+The forms are identical to the *neuter singular* forms of the gerundive, and are used for cases other than the nominative.
 
 <style scoped>
   strong {
@@ -42,3 +57,5 @@ nav_order: 0
     - accusative: duration
     - ablative: time when, time within which
 - gerundive to express *purpose*    
+- infinitive can be used as a *neuter nominative singular* noun
+- gerund can be used as a neuter singular noun in other cases

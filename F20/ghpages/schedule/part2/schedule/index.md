@@ -10,12 +10,12 @@ nav_order: 4
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Oct. 12-Oct. 16 | [Introduction to Unit 2](../../../assignments/unit2/) | [The gerundive](../../../assignments/gerundive/)| [The gerund](../../../assignments/gerund/) |      |
+|Oct. 12-Oct. 16 | [Introduction to Unit 2](../../../assignments/unit2/) | [An adjective made from verbs: the gerundive](../../../assignments/gerundive/)| [Nouns made from verbs](../../../assignments/gerund/) |      |
 
 
 ## Asking questions; more time and people
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Oct. 19-Oct. 23 | Interrogative adjectives and pronouns | Present active and passive indicative| Verbs: review |      |
+|Oct. 19-Oct. 23 | Review: using nouns and adjectives made from verbs | Interrogative adjectives and pronouns| Present active and passive indicative |      |
 
