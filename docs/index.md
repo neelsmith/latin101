@@ -12,7 +12,7 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Announcements
 
-- **Oct. 14**: assignments and slides used in class updated;  try to complete and submit [self-corrected assignment on gerundives](./assignment/gerundive/exercise/index.md).
+- **Oct. 14**: assignments and slides used in class updated;  try to complete and submit [self-corrected assignment on gerundives](./assignments/gerundive/exercise/).
 - **Oct. 14**: reminder: no regular drop in hours on Thursday, Oct. 15.
 - [Old news](./oldnews/)
 
