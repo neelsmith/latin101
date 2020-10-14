@@ -21,8 +21,10 @@ PDFs of slides used in class:
 1. [finite verbs](./9-verbs.pdf)
 1. [infinitives](./11-infins.pdf)
 1. [review: ablative case, infinitive verbs](./13-review.pdf)
+1. [expressions of time and place](./15-time-place.pdf)
+1. [slides from video "nouns from verbs"](./16-video-nouns-from-verbs.pdf)
 
-## Slides used in selected videos
+## Slides used in selected L3 videos
 
 - the accusative and dative cases: [pdf](https://lingualatina.github.io/courses/youtube/slides/accusative-dative.pdf)
 - introduction to verbal inflection: [pdf](https://lingualatina.github.io/courses/youtube/slides/verbal-inflection.pdf)

@@ -9,6 +9,14 @@ nav_order: 12
 
 ## Announcements
 
+- **Oct. 14**: interactive web page to test yourself on [noun-adjective agreement](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-1-quiz-yourself-on-forms)
+- **Oct. 12**: [overview of unit 2](../schedule/part2/) available
+- **Oct. 12**: updated [guide to reading a Latin text](../reading/)
+- **Oct. 12**: interactive web page to test yourself on [recognizing forms from unit 1 vocabulary](https://observablehq.com/@neelsmith/lingua-latina-legenda-test-yourself-on-unit-1-vocabulary?collection=@neelsmith/l3)
+- **Oct. 10**:  you  may laugh or groan, but if you have no response to this tweet, you need to review the third declension.
+
+
+![chexmix](./imgs/chexmix.png)
 
 - **Oct. 8**:  revised version of all [slides in used unit 1](../slides/) available
 - **Oct. 7**:  vocabulary quiz 2 now posted on Moodle: all self-corrected exercises for Unit 1 available

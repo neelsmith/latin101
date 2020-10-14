@@ -12,15 +12,8 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Announcements
 
+
 - **Oct. 14**: reminder: no regular drop in hours on Thursday, Oct. 15.
-- **Oct. 14**: interactive web page to test yourself on [noun-adjective agreement](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-1-quiz-yourself-on-forms)
-- **Oct. 12**: [overview of unit 2](./schedule/part2/) available
-- **Oct. 12**: updated [guide to reading a Latin text](./reading/)
-- **Oct. 12**: interactive web page to test yourself on [recognizing forms from unit 1 vocabulary](https://observablehq.com/@neelsmith/lingua-latina-legenda-test-yourself-on-unit-1-vocabulary?collection=@neelsmith/l3)
-- **Oct. 10**:  you  may laugh or groan, but if you have no response to this tweet, you need to review the third declension.
-
-![chexmix](./imgs/chexmix.png)
-
 - [Old news](./oldnews/)
 
 ## Current unit
