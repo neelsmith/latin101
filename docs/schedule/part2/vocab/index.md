@@ -11,6 +11,7 @@ nav_order: 0
 
 ## Adjectives
 
+- cupidus, cupida, cupidum - eager or longing for, desiring ( *a thing* expressed in genitive case)
 - sacer, sacra, sacrum - dedicated to a deity, sacred; neuter singular *sacrum* used as a noun "a sacrifice thing" =  sacrifice or temple, *sacrum facere* = "to sacrifice"
 
 ## Nouns
@@ -24,6 +25,9 @@ nav_order: 0
 
 ## Verbs
 
+- ăgo, agere, ēgi, actum - to lead, drive; and compound
+    - cōgo, cogere, cŏēgi, cŏactum - force, compel
+- coepĭo, coepere, coepi, coeptum - to begin
 - neco, necāre, necavi, necatum - to slay, kill
 - pono, ponere, posui, positus - put, place; and compound
     - *expono* - set out, expose
