@@ -23,6 +23,7 @@ PDFs of slides used in class:
 1. [review: ablative case, infinitive verbs](./13-review.pdf)
 1. [expressions of time and place](./15-time-place.pdf)
 1. [slides from video "nouns from verbs"](./16-video-nouns-from-verbs.pdf)
+1. [more on "nouns from verbs"](./17-nouns-from-verbs.pdf)
 
 ## Slides used in selected L3 videos
 
