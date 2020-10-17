@@ -3,7 +3,7 @@ topic,question,answer
 ars legendī bona est homini.,What case is *legendi*?,genitive
 ars legendī bona est homini.,What noun does *legendi* describe?,ars
 ars legendī bona est homini.,What case is *homini*?,dative
-occasio ei regni recuperandi data est,Please give gender, case and number of *recuperandi*.,neuter genitive singular
+occasio ei regni recuperandi data est,Please give gender case number of *recuperandi*.,neuter genitive singular
 occasio ei regni recuperandi data est,What is the verb of this sentence?,data est
 occasio ei regni recuperandi data est,What is the subject of this sentence?,occasio
 occasio ei regni recuperandi data est,Identify the case and number of *ei*.,dative singular
@@ -17,7 +17,7 @@ sorores eius praeter Gorgen et Deianiram flendo deorum uoluntate in aues sunt fa
 sorores eius praeter Gorgen et Deianiram flendo deorum uoluntate in aues sunt factae,What case is *uoluntate*?,ablative
 sorores eius praeter Gorgen et Deianiram flendo deorum uoluntate in aues sunt factae,What case is *deorum*?,genitive
 sorores eius praeter Gorgen et Deianiram flendo deorum uoluntate in aues sunt factae,What noun does *deorum* describe?,uoluntate
-Hercules Antaeum occidit.  hic cogebat hospites secum luctari,What is the verb of the sentence?,cogebat
+Hercules Antaeum occidit.  hic cogebat hospites secum luctari,What is the verb of the second sentence?,cogebat
 Hercules Antaeum occidit.  hic cogebat hospites secum luctari,What tense and voice is *luctari*?,present passive
 Hercules Antaeum occidit.  hic cogebat hospites secum luctari,What person/number/tense/mood and voice is *cogebat*?,third singular imperfect indicative active
 Hercules Antaeum occidit.  hic cogebat hospites secum luctari,What gender/case and number is *hic*?,masculine nominative singular
