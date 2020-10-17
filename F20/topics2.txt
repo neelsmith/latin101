@@ -3,7 +3,7 @@
 
 [Introduction to Unit 2](../../../assignments/unit2/)#
 
-[An adjective made from verbs: the gerundive](../../../assignments/gerundive/)
+[The gerundive](../../../assignments/gerundive/)
 
 [Nouns made from verbs](../../../assignments/gerund/)
 
@@ -12,7 +12,7 @@
 
 ## Asking questions; more time and people
 
-Review: using nouns and adjectives made from verbs
+[Review, with self-corrected exercise](../../../assignments/review-verbal-nouns/)
 
 Interrogative adjectives and pronouns
 

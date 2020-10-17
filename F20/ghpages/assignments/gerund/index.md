@@ -16,6 +16,3 @@ See [this video](https://youtu.be/vDVTjIPCGpo)
 
 
 - in the L3 textbook, [read this section on the gerund](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/#gerunds)
-
-
-We'll look at an assignment using infintives and gerunds on Monday!
