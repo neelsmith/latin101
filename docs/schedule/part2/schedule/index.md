@@ -17,5 +17,5 @@ nav_order: 4
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Oct. 19-Oct. 23 | [Review, with self-corrected exercise](../../../assignments/review-verbal-nouns/) | Interrogative adjectives and pronouns| Present active and passive indicative |      |
+|Oct. 19-Oct. 23 | [Review, with self-corrected exercise](../../../assignments/review-verbal-nouns/) | Workshop: composition 2| Present active and passive indicative |      |
 
