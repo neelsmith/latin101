@@ -12,10 +12,9 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Announcements
 
-- **Oct. 17**:  [self-corrected practice for sentences with gerunds and infinitives](https://observablehq.com/d/a4859a22b000e66d?collection=@neelsmith/l3)
+- **Oct. 17**:  updated schedule includes
+[self-corrected assignment on gerund and infinitive](./assignments/review-verbal-nouns/)
 - **Oct. 16**: for breakout session: [first draft of assignment using gerunds and infinitives](./assignments/gerund/exercise/).
-- **Oct. 14**: assignments and slides used in class updated;  try to complete and submit [self-corrected assignment on gerundives](./assignments/gerundive/exercise/).
-- **Oct. 14**: reminder: no regular drop in hours on Thursday, Oct. 15.
 - [Old news](./oldnews/)
 
 ## Current unit
