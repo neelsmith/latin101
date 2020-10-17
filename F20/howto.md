@@ -1,5 +1,9 @@
 
-Publish course web site:
+## Format 3-column question in markdown
+
+Use the script `three-col-quiz.sc`
+
+## Publish course web site
 
 Within `ghpages` directory:
 
