@@ -1,0 +1,11 @@
+token,analysis,sequence
+one,nom,1
+one,gen,2
+two,dat,3
+three,nom,4
+three,acc,5
+three,voc,6
+four,prep,7
+five,indic,8
+five,subj,9
+five,infin,10
