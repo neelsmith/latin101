@@ -19,6 +19,7 @@ nav_order: 0
 - annus, anni, *masculine* - year
 - conjugium, conjugii, *neuter* - marriage
 - deus, dei, *masculine* - god, divinity
+- ignis, ignis, *masculine* - fire
 - insula, insulae, *feminine* - island
 - numerus, numeri, *masculine* - number
 - sacrum, sacri, *neuter* -
@@ -29,11 +30,13 @@ nav_order: 0
     - cōgo, cogere, cŏēgi, cŏactum - force, compel
 - coepĭo, coepere, coepi, coeptum - to begin
 - neco, necāre, necavi, necatum - to slay, kill
+- petō, petere, petīvī, petitus - to seek, attack
 - pono, ponere, posui, positus - put, place; and compound
     - *expono* - set out, expose
 - pugnō, pugnāre, pugnavi, pugnatus - fight, do battle; and compounds
     - *oppugno* - attack
     - *expugno* - capture, conquer
+- puniō, punīre, punīvī, punītus - to punish    
 - respondeo, respondēre, respondi, responsus - answer, reply    
 - quaero, quaerere, quaesivi, quaesitus - seek, inquire, ask
 - servo, servāre, servavi, servatus - save, preserve

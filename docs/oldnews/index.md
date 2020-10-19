@@ -55,7 +55,7 @@ nav_order: 12
 
 ## Week at a glance
 
-
+- Week of **Oct. 12-16**:  prepositional phrases; the gerundive and expressions of purpose.
 - Week of **Oct. 5-9**: Small-group and full-class workshops on composition assignment 1 and translation assignment 2.
 - Week of **Sept. 14-18**: Adjectives, pronouns and proper names in Hyginus. One self-corrected exercise ([adjectives and pronouns](../assignments/demonstratives/exercise/)); one exercise submitted as a Google form ([identify that character!](../assignments/prosopography/))
 - Week of Sept. 7-11: adjectives in  Latin, including two self-corrected exercises: [nouns (part 2) ](../assignments/nouns2/exercise/), and [adjectives](../assignments/adjectives/exercise/).
