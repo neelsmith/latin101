@@ -56,17 +56,12 @@ You will read simple Latin sentences in all persons and voices of the present, i
 
 ### Posted to your github portfolio
 
-One  composition
-
-### Submitted on Moodle
-
-Three self-corrected exercises:
-
-- [the gerundive](../../assignments/gerundive/exercise/)
-- the gerund
-- the present, imperfect and perfect indicative
-
-One vocabulary quiz
+- one  composition:  [Prometheus](../../assignments/composition2/)
+- three self-corrected exercises:
+    - [the gerundive](../../assignments/gerundive/exercise/)
+    - [the gerund and the infinitive]((../../assignments/gerund/exercise/))
+    - the present, imperfect and perfect indicative
+- one vocabulary quiz
 
 
 ## Summary of vocabulary and forms

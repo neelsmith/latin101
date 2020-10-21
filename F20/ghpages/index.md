@@ -26,8 +26,8 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Week at a glance
 
-- Week of **Oct. 12-16**:  prepositional phrases; the gerundive and expressions of purpose.
-- Week of **Oct. 19-25**:  the present indicative, and all three persons of present, imperfect and perfect indicative; verb synopses
+
+- Week of **Oct. 19-25**:  Workshop on composition 2. Introduce the present indicative, and all three persons of present, imperfect and perfect indicative; verb synopses.
 
 ## Contact
 
