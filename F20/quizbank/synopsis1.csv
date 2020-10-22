@@ -9,23 +9,23 @@ form,vocab,present,imperfect,perfect
 2nd singular passive,audio/audire/audivi/auditus,audiris,audiebaris,audita es
 2nd singular passive,capio/capere/cepi/captus,caperis,capiebaris,capta es
 2nd singular passive,video/videre/vidi/visus,videris,videbaris,visa es
-3nd singular passive,amo/amare/amavi/amatus,amatur,amabatur,amata est
-3nd singular passive,duco/ducere/duxi/ductus,ducitur,ducebatur,ducta est
-3nd singular passive,audio/audire/audivi/auditus,auditur,audiebatur,audita est
-3nd singular passive,capio/capere/cepi/captus,capitur,capiebatur,capta est
-3nd singular passive,video/videre/vidi/visus,videtur,videbatur,visa est
-3nd singular active,amo/amare/amavi/amatus,amat,amabat,amavit
-3nd singular active,duco/ducere/duxi/ductus,ducit,ducebat,duxit
-3nd singular active,audio/audire/audivi/auditus,audit,audiebat,audivit
-3nd singular active,capio/capere/cepi/captus,capit,capiebat,cepit
-3nd singular active,video/videre/vidi/visus,videt,videbat,vidit
-3nd plural passive,amo/amare/amavi/amatus,amantur,amabantur,amatae sunt
-3nd plural passive,duco/ducere/duxi/ductus,ducuntur,ducebantur,ductae sunt
-3nd plural passive,audio/audire/audivi/auditus,audiuntur,audiebantur,auditae sunt
-3nd plural passive,capio/capere/cepi/captus,capiuntur,capiebantur,captae sunt
-3nd plural passive,video/videre/vidi/visus,videntur,videbantur,visae sunt
-3nd plural active,amo/amare/amavi/amatus,amant,amabant,amaverunt
-3nd plural active,duco/ducere/duxi/ductus,ducunt,ducebant,duxerunt
-3nd plural active,audio/audire/audivi/auditus,audiunt,audiebant,audiverunt
-3nd plural active,capio/capere/cepi/captus,capiunt,capiebant,ceperunt
-3nd plural active,video/videre/vidi/visus,vident,videbant,viderunt
+3rd singular passive,amo/amare/amavi/amatus,amatur,amabatur,amata est
+3rd singular passive,duco/ducere/duxi/ductus,ducitur,ducebatur,ducta est
+3rd singular passive,audio/audire/audivi/auditus,auditur,audiebatur,audita est
+3rd singular passive,capio/capere/cepi/captus,capitur,capiebatur,capta est
+3rd singular passive,video/videre/vidi/visus,videtur,videbatur,visa est
+3rd singular active,amo/amare/amavi/amatus,amat,amabat,amavit
+3rd singular active,duco/ducere/duxi/ductus,ducit,ducebat,duxit
+3rd singular active,audio/audire/audivi/auditus,audit,audiebat,audivit
+3rd singular active,capio/capere/cepi/captus,capit,capiebat,cepit
+3rd singular active,video/videre/vidi/visus,videt,videbat,vidit
+3rd plural passive,amo/amare/amavi/amatus,amantur,amabantur,amatae sunt
+3rd plural passive,duco/ducere/duxi/ductus,ducuntur,ducebantur,ductae sunt
+3rd plural passive,audio/audire/audivi/auditus,audiuntur,audiebantur,auditae sunt
+3rd plural passive,capio/capere/cepi/captus,capiuntur,capiebantur,captae sunt
+3rd plural passive,video/videre/vidi/visus,videntur,videbantur,visae sunt
+3rd plural active,amo/amare/amavi/amatus,amant,amabant,amaverunt
+3rd plural active,duco/ducere/duxi/ductus,ducunt,ducebant,duxerunt
+3rd plural active,audio/audire/audivi/auditus,audiunt,audiebant,audiverunt
+3rd plural active,capio/capere/cepi/captus,capiunt,capiebant,ceperunt
+3rd plural active,video/videre/vidi/visus,vident,videbant,viderunt
