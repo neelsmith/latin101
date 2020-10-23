@@ -10,10 +10,11 @@ nav_order: 6
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Nov. 2-Nov. 6 | Imperfect active and passive subjunctive | Present active and passive subjunctive| Verb review |      |
-|Nov. 9-Nov. 13 | Verb competency quiz 1 | Verb competency quiz 2| Verbal competency quiz 3 |      |
-|Nov. 16-Nov. 20 | Deponent verbs, indirect statement | Personal pronouns and reflexives| Temporal clauses |      |
-|Nov. 23-Nov. 27 | Perfect and pluperfect active and passive subjunctive | Irregular Verbs: ferō, ferre, tulī, lātus; eō, īre, iī/īvī, itūrus| Irregular Verbs: volō, nōlō, and mālō |      |
-|Nov. 30-Dec. 4 | Composition workshop. | Review| Grammatical competency quiz 1 |     Translation 5 due. Composition 5 due |
-|Dec. 7-Dec. 11 | Grammatical competency quiz 2 | Grammatical competency quiz 3| **study period** |      |
+|Oct. 26-Oct. 30 | [Asking questions](../../../assignments/questions/), and review of indicative | Translation 3 workshop| Imperfect active and passive subjunctive |      |
+|Nov. 2-Nov. 6 | Present active and passive subjunctive | Composition 3 workshop| Deponent verbs, indirect statement |      |
+|Nov. 9-Nov. 13 | Personal pronouns and reflexives | Temporal clauses| Translation/composition workshop |      |
+|Nov. 16-Nov. 20 | Perfect and pluperfect active and passive subjunctive | Irregular Verbs: ferō, ferre, tulī, lātus; eō, īre, iī/īvī, itūrus| Translation 5 workshop. |      |
+|Nov. 23-Nov. 27 | **Thanksgiving break:  no class** | **Thanksgiving break:  no class**| **Thanksgiving break:  no class** |   **Thanksgiving break**   |
+|Nov. 30-Dec. 4 | Irregular Verbs: volō, nōlō, and mālō | Composition 5 workshop| Semester 1 review |      |
+|Dec. 7-Dec. 11 | CBL "digital poster session" | Preparing for Latin 102| **study period: no class** |      |
 
