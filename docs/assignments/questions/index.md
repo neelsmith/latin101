@@ -31,12 +31,12 @@ Rewrite each of the following statements as a question that is answered by the h
 Statements to convert to questions:
 
 1. Prometheus homines ex <span class="highlight">luto</span> fingebat.
-1. Vulcanus ex luto feminam fecit.
-1. Minerva huic feminae animam dedit.
-1. Omnes dei dona ei miserunt.
-1. ob id nomen 'Pandora' ei datum est.
-1. Pandora ab Iove in coniugium Epimetheo data est.
-1. Filia eorum erat Pyrrha.
+1. Vulcanus ex luto <span class="highlight">feminam</span> fecit.
+1. Minerva <span class="highlight">huic feminae</span> animam dedit.
+1. <span class="highlight">Omnes</span> dei dona ei miserunt.
+1. ob id nomen '<span class="highlight">Pandora</span>' ei datum est.
+1. Pandora ab <span class="highlight">Iove</span> in coniugium Epimetheo data est.
+1. Filia <span class="highlight">eorum</span> erat Pyrrha.
 
 
 ## Submitting your work
