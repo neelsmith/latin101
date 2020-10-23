@@ -14,7 +14,7 @@ nav_order: 1
 - Memorize the forms of the interrogative pronoun and adjective
 
 
-## Self-corrected exerise
+## Self-corrected exercise
 
 Rewrite each of the following statements as a question that is answered by the highlighted word.  You may keep the word order the same as the original statement.
 
