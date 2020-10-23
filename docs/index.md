@@ -12,6 +12,8 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Announcements
 
+
+- **Oct. 23**: for breakout sessions, complete *synopses* in the *third person*: both singular and plural, active and passive, and test yourself with [this self-correcting notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-2-verb-synopsis?collection=@neelsmith/l3)
 - **Oct. 17**:  updated schedule includes
 [self-corrected assignment on gerund and infinitive](./assignments/review-verbal-nouns/)
 - **Oct. 16**: for breakout session: [first draft of assignment using gerunds and infinitives](./assignments/gerund/exercise/).
