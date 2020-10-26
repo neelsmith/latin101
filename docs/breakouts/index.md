@@ -5,6 +5,10 @@ parent: Nullus parens est
 ---
 
 
+# October 23: breakout questions
+
+- complete *synopses* in the *third person*: both singular and plural, active and passive, and test yourself with [this self-correcting notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-2-verb-synopsis?collection=@neelsmith/l3)
+
 # October 12: breakout questions
 
 ## 1.  `67pr` Oedipus regnum filiis alternis annis dat
