@@ -9,6 +9,11 @@ nav_order: 12
 
 ## Announcements
 
+
+- **Oct. 23**: for breakout sessions, complete *synopses* in the *third person*: both singular and plural, active and passive, and test yourself with [this self-correcting notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-2-verb-synopsis?collection=@neelsmith/l3)
+- **Oct. 17**:  updated schedule includes
+[self-corrected assignment on gerund and infinitive](../assignments/review-verbal-nouns/)
+- **Oct. 16**: for breakout session: [first draft of assignment using gerunds and infinitives](../assignments/gerund/exercise/).
 - **Oct. 14**: assignments and slides used in class updated;  try to complete and submit [self-corrected assignment on gerundives](../assignments/gerundive/exercise/).
 - **Oct. 14**: reminder: no regular drop in hours on Thursday, Oct. 15.
 - **Oct. 14**: interactive web page to test yourself on [noun-adjective agreement](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-1-quiz-yourself-on-forms)

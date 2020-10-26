@@ -9,7 +9,10 @@ nav_order: 5
 
 # The present indicative
 
-- made from first two parts
+- In the L3 textbook, read the introduction to [the present indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/present/)
+- review the comparisons of forms in the charts below.
+- submit the assignment completing a *synopsis*.
+
 
 
 ## Third person
@@ -50,6 +53,42 @@ Second person ("you" forms)
 | :---  | :--- | :--- |  :--- | :---|  :---|  :--- |
 | Singular | ama-**s** | ama-**ris** | amaba-**s** | amaba-**ris** | amavi-**s** | amatus/a/um **es** |
 | Plural | ama-**tis** | ama-**mini** | amaba-**tis** | amaba-**mini** | amav-**istis** | amati/ae/a **estis** |
+
+
+
+## Self-corrected assignment
+
+For each of the five verbs listed below, please enter the present indicative, imperfect indicative and perfect indicative in the forms listed here.  For perfect passive forms, assume that the subject is feminine gender.
+
+
+- third singular active
+- third singular passive
+- second singular active
+- second singular passive
+- third plural active
+- third plural passive
+
+
+Verbs to use:
+
+
+1. amo, amāre, amavi, amatus
+2. video, vidēre, vidi, visus
+3. duco, ducere, duxi, ductus
+4. capio, capere, cepi, captus
+5. audio audīre, audivi, auditus
+
+
+To submit your work, please create a file in your repository named `synopsis1.md`.  For each of the five verbs below, enter the requested forms of the present, imperfect and perfect indicative on a single line, separated by commas.
+
+**Example**
+
+Given *1st singular active* for `amo, amāre, amavi, amatus`, you would enter
+
+`amo,amabam,amavi`
+
+Use [this interactive notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-2-verb-synopsis?collection=@neelsmith/l3) to correct your self.
+
 
 
 <style scoped>
