@@ -21,8 +21,8 @@ for REPONAME in $(cat $REPOLIST) ; do
     echo "Cloning " $REPOPATH
     (cd $ROOT/$UNAME && $GIT clone $REPOPATH)
   else
-    echo "Pulling in " $ROOT/$UNAME
-    (cd $ROOT/$UNAME && $GIT pull)
+    echo "Pulling in " $ROOT/$REPONAME
+    (cd $ROOT/$REPONAME && $GIT pull)
   fi
   cd $ROOT
 done;
