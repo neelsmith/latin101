@@ -17,15 +17,16 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Current unit
 
-- [unit 2: time, place, purpose](./schedule/part2/), including one vocabulary quiz, three self-corrected exercises, and one composition.
-- [daily schedule](./schedule/part2/schedule/) for unit 2.
-- summary of [new vocabulary in Unit 2](./schedule/part2/vocab/)
-- summary [new forms in Unit 2](./schedule/part2/forms/)
+- [unit 3: subordination](./schedule/part3/), including three compositions and three translations, plus self-corrected exercises.
+- [daily schedule](./schedule/part3/schedule/) for unit 3.
+- summary of [new vocabulary in Unit 2](./schedule/part3/vocab/)
+- summary [new forms in Unit 2](./schedule/part3/forms/)
+
 
 ## Week at a glance
 
 
-- Week of **Oct. 19-25**:  Workshop on composition 2. Introduce the present indicative, and all three persons of present, imperfect and perfect indicative; verb synopses.
+- Week of **Oct. 26-30**: Questions, including deliberative questions with the subjunctive. 
 
 ## Contact
 

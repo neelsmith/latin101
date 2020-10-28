@@ -10,8 +10,8 @@ nav_order: 6
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Oct. 26-Oct. 30 | [Asking questions](../../../assignments/questions/), and review of indicative | [Translation 3 workshop](../../../assignments/translation3/)| Imperfect subjunctive, active and passive |      |
-|Nov. 2-Nov. 6 | Present active and passive subjunctive | Composition 3 workshop| Deponent verbs, indirect statement |      |
+|Oct. 26-Oct. 30 | [Asking questions](../../../assignments/questions/), and review of indicative | [Translation 3 workshop](../../../assignments/translation3/)| [Deliberative questions with the subjunctive](../../../assignments/deliberative/) |      |
+|Nov. 2-Nov. 6 | Subjunctive: review and practice | Composition 3 workshop| Deponent verbs, indirect statement |      |
 |Nov. 9-Nov. 13 | Personal pronouns and reflexives | Temporal clauses| Translation/composition workshop |      |
 |Nov. 16-Nov. 20 | Perfect and pluperfect active and passive subjunctive | Irregular Verbs: ferō, ferre, tulī, lātus; eō, īre, iī/īvī, itūrus| Translation 5 workshop. |      |
 |Nov. 23-Nov. 27 | **Thanksgiving break:  no class** | **Thanksgiving break:  no class**| **Thanksgiving break:  no class** |   **Thanksgiving break**   |
