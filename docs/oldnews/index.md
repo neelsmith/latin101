@@ -60,6 +60,8 @@ nav_order: 12
 
 ## Week at a glance
 
+
+- Week of **Oct. 19-25**:  Workshop on composition 2. Introduce the present indicative, and all three persons of present, imperfect and perfect indicative; verb synopses.
 - Week of **Oct. 12-16**:  prepositional phrases; the gerundive and expressions of purpose.
 - Week of **Oct. 5-9**: Small-group and full-class workshops on composition assignment 1 and translation assignment 2.
 - Week of **Sept. 14-18**: Adjectives, pronouns and proper names in Hyginus. One self-corrected exercise ([adjectives and pronouns](../assignments/demonstratives/exercise/)); one exercise submitted as a Google form ([identify that character!](../assignments/prosopography/))
