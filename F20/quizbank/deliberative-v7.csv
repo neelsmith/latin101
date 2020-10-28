@@ -1,6 +1,6 @@
-statement,present,past
+statement,presentverb,presentquestion,pastverb,pastquestion
 
-Hercules leonem Nemeum necauit.,necet,necaret
+Hercules leonem Nemeum necauit.,necet,Hercules leonem Nemeum necet?,necaret,Hercules leonem Nemeum necaret?
 pellem eius pro tegumento habuit.,pellem eius pro tegumento habeat?,pellem eius pro tegumento haberet?
 Hydram Lernaeam cum capitibus nouem interfecit.,Hydram Lernaeam cum capitibus nouem interficiat?,Hydram Lernaeam cum capitibus nouem interficeret?
 aprum Erymanthium occidit.,aprum Erymanthium occidat?,aprum Erymanthium occideret?
