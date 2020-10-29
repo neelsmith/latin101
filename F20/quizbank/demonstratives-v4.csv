@@ -1,0 +1,26 @@
+passage,question,answer
+4pr1,What gender is ea?,feminine
+4pr1,What case is ea?,ablative
+4pr1,What kind of object is ea: direct or indirect or preposition?,preposition
+9pr1,What gender is ipsi?,masculine
+9pr1,What case is ipsi?,nominative
+9pr1,WhatWhat number is ipsi?,plural
+9pr1,What is the grammatical function of ipsi: direct object or indirect object or subject?,subject
+4pr5,What gender is ipsa?feminine
+4pr5,What  case is ipsa?,nominative
+4pr5,What number is ipsa?,singular
+4pr5,What is the grammatical function of ipsa: direct object or indirect object or subject?,subject
+4pr5,What gender is id?,neuter
+4pr5,What case is id?,accusative
+4pr5,What number is id?,singular
+15pr6,What gender is eorum?,masculine
+15pr6,What case is eorum?,genitive
+15pr6,What number is eorum?,plural
+15pr6,What word in the sentence "Lemniades filios ex Argonautis conceperunt." is the antecedent for eorum?,filios
+31pr9,What gender is eius?,masculine
+31pr9,What case is eius?,genitive
+31pr9,What number is eius?,singular
+31pr9,What gender is ille?,masculine
+31pr9,What case is ille?,nominative
+31pr9,What number is ille?,singular
+31pr9,Who does ille refer to?,Hercules
