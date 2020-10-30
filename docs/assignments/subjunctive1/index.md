@@ -62,14 +62,24 @@ The following sentences are taken from Hyginus' summary of Hercules' labors in c
 1.  pellem eius pro tegumento habuit.
 1.  Hydram Lernaeam cum capitibus nouem interfecit.
 1.  aprum Erymanthium occidit.
-1.  ceruum in conspectu Eurysthei regis adduxit.
+1.  ceruum Eurystheo regi adduxit.
 1.  aues Stymphalides sagittis interfecit.
 1.  Augeae regis stercus bouum uno die purgauit.
 
 
 ## Vocabulary
 
-**Being added**!
+
+
+- aper, apri, *masculine* - "wild boar"
+- auis, auis, *feminine* - "bird"
+- bos, bovis, *masculine* - "ox, bull, cow"
+- cervus, cervi, *masculine* - "deer, stag"
+- die - ablative case from the noun for "day"
+- nouem - indeclinable, "nine"
+- pellis, pellis, *feminine* - "skin, hide"
+- stercus, stercoris, *neuter* - "dung"
+- tegumentum, tegumenti, *neuter*  - "covering, cover"
 
 ## Submitting your work
 
