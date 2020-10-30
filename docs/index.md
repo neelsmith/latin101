@@ -27,7 +27,7 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 
 - Week of **Oct. 26-30**: Questions, including deliberative questions with the subjunctive.
-- **New forms**:  pay attention to how the stem vowel changes from indicative to subjunctive in this comparison of third-singular active forms. Color key:
+- **New forms**:  pay attention to how the stem vowel changes from indicative to subjunctive in this comparison of third-singular active forms of the present tense. Color key:
     - (second principal part) vowel identifying <span class="infinitive">which conjugation the verb belongs to</span>
     - stem vowel used <span class="indicative">only in indicative</span>
     - stem vowel used <span class="subjunctive">only in subjunctive</span>
