@@ -22,7 +22,7 @@ The first six assignments were originally available on Moodle.  I'll make self-c
 Assignments 7-18 are submitted to your github repository.  Each assignment has instructions and an accompanying self-correcting notebook where you can test yourself on the assignment.
 
 1. reading Roman coins:  [self-correcting notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-1-reading-roman-coins?collection=@neelsmith/l3)
-1. more noun forms
+1. more noun forms:  [self-correcting notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-1-quiz-yourelf-on-noun-forms?collection=@neelsmith/l3)
 1. adjectives
 1. demonstrative pronouns: [self-correcting notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-1-demonstratives?collection=@neelsmith/l3)
 1. nouns, adjectives, prepositions
