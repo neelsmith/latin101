@@ -12,7 +12,7 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Announcements
 
-- **Oct. 26**: please post a draft of [translation 3](./assignments/translation3/) before coming to Wednesday's class, when we'll workshop the assignment in groups
+- **Oct 30**: [checklist with due dates of all assignments](./checklist/)
 - [Old news](./oldnews/)
 
 ## Current unit
@@ -26,7 +26,7 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 ## Week at a glance
 
 
-- Week of **Oct. 26-30**: Questions, including deliberative questions with the subjunctive. 
+- Week of **Oct. 26-30**: Questions, including deliberative questions with the subjunctive.
 
 ## Contact
 

@@ -5,6 +5,8 @@ layout: page
 
 # Checklist of assignments for Fall '20
 
+Final deadlines for all revised assignments:  **Dec. 10**.
+
 ## Google forms
 
 (Deadlines past: forms now closed)
