@@ -11,7 +11,7 @@ nav_order: 6
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
 |Oct. 26-Oct. 30 | [Asking questions](../../../assignments/questions/), and review of indicative | [Translation 3 workshop](../../../assignments/translation3/)| [Deliberative questions with the subjunctive](../../../assignments/deliberative/) |      |
-|Nov. 2-Nov. 6 | Subjunctive: review and practice | Introduction to composition 3, "Venus and Mars"| Deponent verbs, indirect statement |      |
+|Nov. 2-Nov. 6 | [Subjunctive: review and practice](../../../assignments/subjunctive1/) | Introduction to composition 3, "Venus and Mars"| Deponent verbs, indirect statement |      |
 |Nov. 9-Nov. 13 | Personal pronouns and reflexives | Temporal clauses| Introduction to translation 4 |   **Draft of composition 3 due Mon.**   |
 |Nov. 16-Nov. 20 | Perfect and pluperfect active and passive subjunctive | Irregular Verbs: ferō, ferre, tulī, lātus; eō, īre, iī/īvī, itūrus, and introduction to translation 5.| Introduction to composition 4 |   **Draft of translation 4 due Wed.**   |
 |Nov. 23-Nov. 27 | **Thanksgiving break:  no class** | **Thanksgiving break:  no class**| **Thanksgiving break:  no class** |   **Thanksgiving break**   |
