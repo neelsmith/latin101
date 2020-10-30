@@ -67,7 +67,9 @@ The following sentences are taken from Hyginus' summary of Hercules' labors in c
 1.  Augeae regis stercus bouum uno die purgauit.
 
 
+## Vocabulary
 
+**Being added**!
 
 ## Submitting your work
 
