@@ -19,8 +19,8 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 - [unit 3: subordination](./schedule/part3/), including three compositions and three translations, plus self-corrected exercises.
 - [daily schedule](./schedule/part3/schedule/) for unit 3.
-- summary of [new vocabulary in Unit 2](./schedule/part3/vocab/)
-- summary [new forms in Unit 2](./schedule/part3/forms/)
+- summary of [new vocabulary in Unit 3](./schedule/part3/vocab/)
+- summary [new forms in Unit 3](./schedule/part3/forms/)
 
 
 ## Week at a glance
