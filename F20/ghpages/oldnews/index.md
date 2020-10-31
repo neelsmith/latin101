@@ -9,7 +9,7 @@ nav_order: 12
 
 ## Announcements
 
-
+- **Oct. 26**: please post a draft of [translation 3](../assignments/translation3/) before coming to Wednesday's class, when we'll workshop the assignment in groups
 - **Oct. 23**: for breakout sessions, complete *synopses* in the *third person*: both singular and plural, active and passive, and test yourself with [this self-correcting notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-2-verb-synopsis?collection=@neelsmith/l3)
 - **Oct. 17**:  updated schedule includes
 [self-corrected assignment on gerund and infinitive](../assignments/review-verbal-nouns/)

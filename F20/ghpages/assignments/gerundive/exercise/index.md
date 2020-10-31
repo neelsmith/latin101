@@ -48,7 +48,7 @@ For each sentence, answer the following four questions:
 
 You can test yourself using [this interactive page](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-2-analyze-sentences-using-the-ge?collection=@neelsmith/l3)
 
-When you want to submit your work, create a new file in your github repository named `gerundive1.txt` with contents formatted as follows:
+When you want to submit your work, create a new file in your github repository named `gerundive1.md` with contents formatted as follows:
 
 
 - only one answer per line
