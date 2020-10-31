@@ -12,9 +12,7 @@ crjarchow/cjlatin101
 josephhklier/josephLatin
 AvaLicht/Latin101portfolio
 RonanMarrinan/latin101portfolio
-pjmcar23/translation1.md
-pjmcar23/translation2.md
-pjmcar23/composition.md
+pjmcar23/latin101profile
 allisonmolski/latin101portfolio
 michaeloneil-lang/
 Nicktormey/Latin101portfolio
