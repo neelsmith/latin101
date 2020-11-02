@@ -23,10 +23,10 @@ Assignments 7-18 are submitted to your github repository.  Each assignment has i
 
 1. reading Roman coins:  [self-correcting notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-1-reading-roman-coins?collection=@neelsmith/l3)
 1. more noun forms:  [self-correcting notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-1-quiz-yourelf-on-noun-forms?collection=@neelsmith/l3)
-1. adjectives
+1. adjectives on coins
 1. demonstrative pronouns: [self-correcting notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-1-demonstratives?collection=@neelsmith/l3)
-1. nouns, adjectives, prepositions
-1. verb forms
+1. nouns, adjectives, prepositions on coins
+1. verb forms (stores about Hercules)
 1. [the gerundive](../assignments/gerundive/exercise/), with  [self-correcting notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-2-analyze-sentences-using-the-ge?collection=@neelsmith/l3)
 1. [the gerund and the infinitive](../assignments/review-verbal-nouns/exercise/), with  [self-correcting notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-2-analyze-sentences-using-gerun?collection=@neelsmith/l3)
 1. [present, imperfect and perfect indicative](../assignments/present-indicative/), with  [self-correcting notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-2-verb-synopsis?collection=@neelsmith/l3)
@@ -54,6 +54,6 @@ Assignments 7-18 are submitted to your github repository.  Each assignment has i
 
 1. [The Olympian gods](../assignments/composition1/)
 1. [Prometheus](../assignments/composition2/)
-1. Venus and Mars: draft due Nov. 9.
+1. [Venus and Mars](../assignments/composition3/): draft due Nov. 9.
 1. Composition 4: draft due Nov. 30.
 1. Composition 5: draft due Dec. 9.

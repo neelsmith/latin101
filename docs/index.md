@@ -12,6 +12,10 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Announcements
 
+
+- **Nov. 2**: See [breakout room challenge for today's class](./breakouts/)
+- **Nov. 2**:  No classes on Tuesday, Nov. 3, so **no practicum** this week (Monday, Nov. 2, or Tuesday, Nov.3)!
+- **Nov. 2**:  [master vocabulary list for F20](https://lingualatina.github.io/textbook/vocabulary/00-master/)
 - **Oct 30**: [checklist with due dates of all assignments](./checklist/)
 - [Old news](./oldnews/)
 

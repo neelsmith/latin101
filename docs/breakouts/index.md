@@ -5,6 +5,29 @@ parent: Nullus parens est
 ---
 
 
+# November 2: breakout challenge
+
+
+- aper, apri,*masculine* - "wild boar"
+- Erymanthius, Erymanthia, Erymanthium - "Erymanthian" (a mountain range in Arcadia)
+- occido, occidere, occidi, occisus - "kill"
+
+
+Use the above vocabulary to restate one of Hercules' adventures:
+
+- in the active voice
+- in the passive voice with no agent
+- in the passive voice with an agent
+- using the gerundive to express it *had* to be done (no agent)
+- using the gerundive to express he *had* to do it (with agent)
+- as a factual question using the active voice
+-  as a factual question using the passive voice
+- as a deliberative question using the active voice
+- as a deliberative question using the passive voice (no agent)
+- as a deliberative question using the passive voice (with agent)
+
+
+
 # October 23: breakout questions
 
 - complete *synopses* in the *third person*: both singular and plural, active and passive, and test yourself with [this self-correcting notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-2-verb-synopsis?collection=@neelsmith/l3)
