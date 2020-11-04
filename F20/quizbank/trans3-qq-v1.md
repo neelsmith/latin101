@@ -1,0 +1,2 @@
+question#answer
+In the sentence *illō tempōre, Eumolpus, Neptūnī fīlius, vēnit ad Athēnās oppugnandās*, what case is *illo tempore* and why is it in that case?#ablative expressing *time when* something happened
