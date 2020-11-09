@@ -8,7 +8,15 @@ nav_order: 6
 
 # Indirect statement
 
+In the L3 textbook, please read:
 
+- an introduction to [indirect statement](https://lingualatina.github.io/textbook/presentation/06-indirect-statement/)
+- the [reflexive pronoun](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#reflexive-pronouns)
+
+You need to recognize:
+
+- the [*present* and *perfect* tenses of the infinitive](https://lingualatina.github.io/textbook/reference/verbs-paradigms/#infinitives) (both active and passive voices)
+- the forms of the [reflexive pronoun](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#reflexive)
 
 ## Practice identifying infinitives
 
