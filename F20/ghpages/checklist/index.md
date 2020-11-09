@@ -54,6 +54,6 @@ Assignments 7-18 are submitted to your github repository.  Each assignment has i
 
 1. [The Olympian gods](../assignments/composition1/)
 1. [Prometheus](../assignments/composition2/)
-1. Venus and Mars: draft due Nov. 9.
+1. [Venus and Mars](../assignments/composition3/): draft due Nov. 9.
 1. Composition 4: draft due Nov. 30.
 1. Composition 5: draft due Dec. 9.
