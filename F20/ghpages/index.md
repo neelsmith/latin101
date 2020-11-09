@@ -13,13 +13,10 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 ## Announcements
 
 
+- **Nov. 9**:  [Checklist of due dates](./checklist/) has been revised to reflect cancelled class.
+- **Nov. 9**:  No homework for today's class.  Please use [this reading assignment for today](./assignments/indirect/) to review material presented in class.
 - **Nov. 6**:  I'm continuing to revise the course schedule to account for our cancelled class. Please [complete a first draft of composition 3](./assignments/composition3/) for **Wed., Nov. 11**.
-- **Nov. 4**: CLASS CANCELLED. Assume that Friday's class (Nov. 6) will be the introduction to our next composition originally planned for today. (Further details shared by email.)
-- **Nov. 2**: See [breakout room challenge for today's class](./breakouts/)
-- **Nov. 2**:  No classes on Tuesday, Nov. 3, so **no practicum** this week (Monday, Nov. 2, or Tuesday, Nov.3)!
-- **Nov. 2**:  [master vocabulary list for F20](https://lingualatina.github.io/textbook/vocabulary/00-master/)
-- **Oct 30**: [checklist with due dates of all assignments](./checklist/)
-- [Old news](./oldnews/)
+
 
 ## Current unit
 
@@ -31,20 +28,17 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Week at a glance
 
-
-- Week of **Oct. 26-30**: Questions, including deliberative questions with the subjunctive.
-- **New forms**:  pay attention to how the stem vowel changes from indicative to subjunctive in this comparison of third-singular active forms of the present tense. Color key:
-    - (second principal part) vowel identifying <span class="infinitive">which conjugation the verb belongs to</span>
-    - stem vowel used <span class="indicative">only in indicative</span>
-    - stem vowel used <span class="subjunctive">only in subjunctive</span>
-    - *warning!*  stem vowel used <span class="warn">in either subjunctive or indicative</span>, depending on the conjugation
+- Week of **Nov 9-13**: Indirect statement.
+- **New forms**: the perfect infinitive
 
 
-|  | 1     | 2     | 3 | 3-io | 4 |
-| :------------- | :------------- | :------------- | :------------- | :------------- | :------------- |
-| *Infinitive* |am<span class="infinitive">ā</span>re	| mon<span class="infinitive">ē</span>re | 	reg<span class="infinitive">e</span>re (short) | 	cap<span class="infinitive">e</span>re (short) | 	aud<span class="infinitive">ī</span>re |
-| *Indicative* |am-<span class="warn">a</span>t	| mon-<span class="warn">e</span>t | 	reg-<span class="indicative">i</span>t | 	cap-<span class="indicative">i</span>t | 	aud-<span class="indicative">i</span>t |
-| *Subjunctive* | am-<span class="warn">e</span>t | 	mon-<span class="subjunctive">ea</span>t	| reg-<span class="warn">a</span>t | 	cap-<span class="subjunctive">ia</span>t	| aud-<span class="subjunctive">ia</span>t |
+| Principal parts | Active | Passive     |
+| :------------- | :------------- | :------------- |
+| *amo, amāre, amavi, amatus*       | amav<span class="infinitive">isse</span>    | amatus, -a, -um esse |
+| *duco, ducere, duxi, ductus* | dux<span class="infinitive">isse</span> | ductus, -a, -um esse |
+
+- **New constructions**: indirect statement using infinitive with accusative subject
+
 
 <style scoped>
 

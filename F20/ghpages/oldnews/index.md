@@ -9,6 +9,12 @@ nav_order: 12
 
 ## Announcements
 
+- **Nov. 4**: CLASS CANCELLED. Assume that Friday's class (Nov. 6) will be the introduction to our next composition originally planned for today. (Further details shared by email.)
+- **Nov. 2**: See [breakout room challenge for today's class](./breakouts/)
+- **Nov. 2**:  No classes on Tuesday, Nov. 3, so **no practicum** this week (Monday, Nov. 2, or Tuesday, Nov.3)!
+- **Nov. 2**:  [master vocabulary list for F20](https://lingualatina.github.io/textbook/vocabulary/00-master/)
+- **Oct 30**: [checklist with due dates of all assignments](./checklist/)
+- [Old news](./oldnews/)
 - **Oct. 26**: please post a draft of [translation 3](../assignments/translation3/) before coming to Wednesday's class, when we'll workshop the assignment in groups
 - **Oct. 23**: for breakout sessions, complete *synopses* in the *third person*: both singular and plural, active and passive, and test yourself with [this self-correcting notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-2-verb-synopsis?collection=@neelsmith/l3)
 - **Oct. 17**:  updated schedule includes
@@ -61,6 +67,8 @@ nav_order: 12
 ## Week at a glance
 
 
+
+- Week of **Oct. 26-30**: Questions, including deliberative questions with the subjunctive.
 - Week of **Oct. 19-25**:  Workshop on composition 2. Introduce the present indicative, and all three persons of present, imperfect and perfect indicative; verb synopses.
 - Week of **Oct. 12-16**:  prepositional phrases; the gerundive and expressions of purpose.
 - Week of **Oct. 5-9**: Small-group and full-class workshops on composition assignment 1 and translation assignment 2.

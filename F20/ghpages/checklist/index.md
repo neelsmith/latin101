@@ -33,8 +33,7 @@ Assignments 7-18 are submitted to your github repository.  Each assignment has i
 1. [asking questions](../assignments/questions/), with [self-correcting notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-2-statements-to-questions?collection=@neelsmith/l3)
 1. [recognizing indicative and subjunctive forms](../assignments/deliberative/), with [self-correcting notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-3-recognizing-subjunctive-form?collection=@neelsmith/l3)
 1. [deliberative questions](../assignments/subjunctive1/) with [self-correcting notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-3-quiz-yourself-on-deliberative?collection=@neelsmith/l3): draft due Nov. 2.
-1. indirect statement:  draft due Nov. 6.
-1. personal pronouns:  draft due Nov. 9.
+1. indirect statement and personal pronouns:  draft due Nov. 13.
 1. temporal clauses:  draft due Nov. 11.
 1. subjunctive perfect and pluperfect:  draft due Nov. 16.
 1. fero and eo:  draft due Nov. 18.
