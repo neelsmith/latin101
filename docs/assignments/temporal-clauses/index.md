@@ -28,13 +28,7 @@ Once you have a correct answer, break the form down:
 - stem *am-*
 - ending *-et*
 
-<iframe width="100%" height="378" frameborder="0"
-  src="https://observablehq.com/embed/@l3/identify-subjunctive-forms?cell=viewof+quizdata&cell=question&cell=viewof+answer&cell=verified&cell=css"></iframe>
+Practice with the randomly selected forms below until you can confidently step through ten in a row.
 
-
-
-  <style scoped>
-    .highlight {
-      background-color: yellow;
-    }
-  </style>
+<iframe width="100%" height="527" frameborder="0"
+      src="https://observablehq.com/embed/@l3/identify-subjunctive-forms?cell=resetscore&cell=score&cell=viewof+quizdata&cell=question&cell=viewof+answer&cell=viewof+submit&cell=verified&cell=css"></iframe>
