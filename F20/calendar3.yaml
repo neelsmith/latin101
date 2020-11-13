@@ -12,8 +12,5 @@ totalWeeks : 14
 
 fixedDates:
   - 2020-11-23 == Thanksgiving break
-  - 2020-11-18 == Draft of translation 4 due Wed.
-  - 2020-11-09 == Draft of composition 3 due Mon.
-  - 2020-11-30 == Draft of composition 4 due Mon.
-  - 2020-12-02 == Draft of translation 5 due Wed.
-  - 2020-12-09 == Draft of composition 5 due Wed.
+  - 2020-12-02 == Draft of translation 4 due Wed.
+  - 2020-12-07 == Draft of composition 4 due Mon.
