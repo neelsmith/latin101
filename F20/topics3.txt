@@ -14,10 +14,10 @@ CLASS CANCELED
 
 [Indirect statement](../../../assignments/indirect/)
 Applying indirect statement to composition 3 (See [breakout exercise, "Some people say that..."](../../../breakouts/))
-Forming further tenses of the subjunctive
+[Forming further tenses of the subjunctive](../../../assignments/subjunctive2/)
 
 
-Temporal clauses
+[Temporal clauses](../../../assignments/temporal-clauses/)
 Translation workshop
 Composition workshop#
 
