@@ -13,7 +13,7 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 ## Announcements
 
 
-
+- **Nov. 13**: we will work together on [this assignment](./assignments/subjunctive2/) in class
 - **Nov. 11**: see [breakout questions for today](./breakouts/)
 
 
