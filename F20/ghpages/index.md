@@ -12,9 +12,8 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Announcements
 
+- Hang in there: 1 week until Thanksgiving break! 
 
-
-- **Nov. 11**: see [breakout questions for today](./breakouts/)
 
 
 ## Current unit
