@@ -9,6 +9,11 @@ nav_order: 12
 
 ## Announcements
 
+
+
+- **Nov. 9**:  [Checklist of due dates](./checklist/) has been revised to reflect cancelled class.
+- **Nov. 9**:  No homework for today's class.  Please use [this reading assignment for today](./assignments/indirect/) to review material presented in class.
+- **Nov. 6**:  I'm continuing to revise the course schedule to account for our cancelled class. Please [complete a first draft of composition 3](./assignments/composition3/) for **Wed., Nov. 11**.
 - **Nov. 4**: CLASS CANCELLED. Assume that Friday's class (Nov. 6) will be the introduction to our next composition originally planned for today. (Further details shared by email.)
 - **Nov. 2**: See [breakout room challenge for today's class](./breakouts/)
 - **Nov. 2**:  No classes on Tuesday, Nov. 3, so **no practicum** this week (Monday, Nov. 2, or Tuesday, Nov.3)!

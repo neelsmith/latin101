@@ -5,6 +5,21 @@ parent: Nullus parens est
 ---
 
 
+# November 11: breakout challenge. "Some people say that..."
+
+For each of the following English sentences:
+
+- compose a Latin sentence expressing the idea
+- put it into indirect statement following the phrase *nonnulli dicunt...*
+
+(Consult vocabulary notes for composition if you need vocabulary help!)
+
+1. They were not able to escape from the bed!
+2. The gods were called to see them.
+3. Mars felt shame.
+4. To love is divine, but to err is also divine.
+
+
 # November 2: breakout challenge
 
 
