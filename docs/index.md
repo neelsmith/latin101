@@ -12,7 +12,9 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Announcements
 
-- Hang in there: 1 week until Thanksgiving break! 
+
+- [Breakout exercise](./breakouts/):  the Argonauts and the Stymphalian birds (Hyginus, section 20)
+- Hang in there: 1 week until Thanksgiving break!
 
 
 
