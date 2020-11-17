@@ -10,16 +10,20 @@ parent: "Temporal clauses"
 
 Please create a file in your github repository named `temporal-clauses.md`.
 
-Please answer the following questions: enter one answer per line.
+Please answer the following questions about each of the following setences.  Enter one answer per line.
+
+- *a*. Does the main verb refer to present or past time?
+- *b*. What is the mood of the verb in the temporal clause?
+- *c*. What is the tense of the verb in the temporal clause?
+- *d*. Is the temporal clause contemporary with or earlier than the main verb?
 
 
+1. Cum Achivi Troiam capere non possent, equum ligneum fecērunt.
+1. Cum Hercules infans erat, duos serpentes necavit.
+1. Argonautae cum errarent, uoluntate Iunonis delati sunt ad insulam Diam.
+1. Iuno cum ad flumen Euhenum uenisset, Iason Aesonis filius eam transtulit.
 
-> **1**. Cum Achivi Troiam capere non possent, equum ligneum fecērunt,
 
-1. Does the main verb refer to present or past time?
-1. What is the mood of the verb in the temporal clause?
-1. What is the tense of the verb in the temporal clause?
-1. Is the temporal clause contemporary with or earlier than the main verb?
 
 
 
