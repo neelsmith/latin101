@@ -5,6 +5,25 @@ parent: Nullus parens est
 ---
 
 
+# November 16
+
+
+> Argonautae
+>
+>> cum ad insulam Diam uenissent
+>
+>> cum resistere non possent
+>
+> aues sonitu fugauerunt.
+
+Vocabulary:
+
+- *resisto, resistere, restiti, restatus* - resist, withstand
+- *avis, avis* (fem.) - bird
+- *sonitun* - (ablative) sound, noise
+- *fugo, fugare, fugavi, fugatus* - put to flight, drive away
+
+
 # November 11: breakout challenge. "Some people say that..."
 
 For each of the following English sentences:

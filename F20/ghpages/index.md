@@ -12,7 +12,9 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Announcements
 
-- Hang in there: 1 week until Thanksgiving break! 
+
+
+- Friday, Nov. 20:   [optional Zoom](./assignments/optional1/). 
 
 
 
