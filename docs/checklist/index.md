@@ -33,9 +33,8 @@ Assignments 7-18 are submitted to your github repository.  Each assignment has i
 1. [asking questions](../assignments/questions/), with [self-correcting notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-2-statements-to-questions?collection=@neelsmith/l3)
 1. [recognizing indicative and subjunctive forms](../assignments/deliberative/), with [self-correcting notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-3-recognizing-subjunctive-form?collection=@neelsmith/l3)
 1. [deliberative questions](../assignments/subjunctive1/) with [self-correcting notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-3-quiz-yourself-on-deliberative?collection=@neelsmith/l3): draft due Nov. 2.
-1. subjunctive perfect and pluperfect:  draft due Nov. 18.
-1. temporal clauses:  draft due Nov. 30.
-1. fero eo, volo:  draft due Dec. 2.
+1. [temporal clauses](../assignments/temporal-clauses/exercise/):  draft due Nov. 30.
+1. [irregular verbs](../assignments/irregulars/exercise/):  draft due Dec. 2.
 
 
 
@@ -44,7 +43,7 @@ Assignments 7-18 are submitted to your github repository.  Each assignment has i
 1. *[Primi deorum](../assignments/translation1/)*
 1. *[Primi mortales](../assignments/translation2/)*
 1. *[Erechtheus](../assignments/translation3/)*
-1. Translation 4: draft due Dec 4.
+1. *[Equus Troianus](../assignments/translation4/)*: draft due Dec 4.
 
 
 
@@ -53,4 +52,4 @@ Assignments 7-18 are submitted to your github repository.  Each assignment has i
 1. [The Olympian gods](../assignments/composition1/)
 1. [Prometheus](../assignments/composition2/)
 1. [Venus and Mars](../assignments/composition3/): draft due Nov. 9.
-1. Composition 4: draft due Dec. 7.
+1. [Hercules and Megara](../assignments/composition4/): draft due Dec. 7.
