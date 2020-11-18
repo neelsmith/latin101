@@ -74,7 +74,16 @@ nav_order: 12
 ## Week at a glance
 
 
+- Week of **Nov 9-13**: Indirect statement.
+- **New forms**: the perfect infinitive
 
+
+| Principal parts | Active | Passive     |
+| :------------- | :------------- | :------------- |
+| *amo, amāre, amavi, amatus*       | amav<span class="infinitive">isse</span>    | amatus, -a, -um esse |
+| *duco, ducere, duxi, ductus* | dux<span class="infinitive">isse</span> | ductus, -a, -um esse |
+
+- **New constructions**: indirect statement using infinitive with accusative subject
 - Week of **Oct. 26-30**: Questions, including deliberative questions with the subjunctive.
 - Week of **Oct. 19-25**:  Workshop on composition 2. Introduce the present indicative, and all three persons of present, imperfect and perfect indicative; verb synopses.
 - Week of **Oct. 12-16**:  prepositional phrases; the gerundive and expressions of purpose.
