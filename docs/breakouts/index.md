@@ -15,6 +15,13 @@ Keeping person, number, tense and mood the same, transform active to passive or 
   <iframe width="100%" height="459" frameborder="0"
   src="https://observablehq.com/embed/@neelsmith/active-passive?cell=viewof+chosenCol1&cell=viewof+col1tocol2&cell=answer1&cell=viewof+chosenCol2&cell=viewof+col2tocol1&cell=answer2&cell=css"></iframe>
 
+Keeping person, number, tense and voice the same, transform indicative to subjunctive or subjunctive to indicative.
+
+
+  <iframe width="100%" height="459" frameborder="0"
+    src="https://observablehq.com/embed/@neelsmith/indicative-subjunctive?cell=viewof+chosenCol1&cell=viewof+col1tocol2&cell=answer1&cell=viewof+chosenCol2&cell=viewof+col2tocol1&cell=answer2&cell=css"></iframe>
+
+
 # November 16
 
 
