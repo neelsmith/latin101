@@ -9,6 +9,8 @@ Final deadlines for all revised assignments:  **Dec. 10**.
 
 ## Google forms
 
+You will receive full credit for submission of a complete assignment.  Revisions not required.
+
 (Deadlines past: forms now closed)
 
 1. course registration
@@ -17,9 +19,9 @@ Final deadlines for all revised assignments:  **Dec. 10**.
 
 ## Self-corrected assignments
 
-The first six assignments were originally available on Moodle.  I'll make self-correcting notebooks available for anyone who wants to revise any of those assignments for full credit.
+### Graded satisfactory (full credit) only
 
-Assignments 7-18 are submitted to your github repository.  Each assignment has instructions and an accompanying self-correcting notebook where you can test yourself on the assignment.
+You will receive full credit for submission of a complete assignment.  Revisions not required.
 
 1. reading Roman coins:  [self-correcting notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-1-reading-roman-coins?collection=@neelsmith/l3)
 1. more noun forms:  [self-correcting notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-1-quiz-yourelf-on-noun-forms?collection=@neelsmith/l3)
@@ -32,6 +34,12 @@ Assignments 7-18 are submitted to your github repository.  Each assignment has i
 1. [present, imperfect and perfect indicative](../assignments/present-indicative/), with  [self-correcting notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-2-verb-synopsis?collection=@neelsmith/l3)
 1. [asking questions](../assignments/questions/), with [self-correcting notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-2-statements-to-questions?collection=@neelsmith/l3)
 1. [recognizing indicative and subjunctive forms](../assignments/deliberative/), with [self-correcting notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-3-recognizing-subjunctive-form?collection=@neelsmith/l3)
+
+### Graded half credit of full credit
+
+You will receive half credit for submitting a complete assignment, and full credit for submitting a perfect assignment.
+
+
 1. [deliberative questions](../assignments/subjunctive1/) with [self-correcting notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-3-quiz-yourself-on-deliberative?collection=@neelsmith/l3): draft due Nov. 2.
 1. [temporal clauses](../assignments/temporal-clauses/exercise/):  draft due Nov. 30.
 1. [irregular verbs](../assignments/irregulars/exercise/):  draft due Dec. 2.
@@ -39,6 +47,9 @@ Assignments 7-18 are submitted to your github repository.  Each assignment has i
 
 
 ## Translations
+
+You will receive half credit for submitting a complete assignment, and full credit for submitting a perfect assignment.
+
 
 1. *[Primi deorum](../assignments/translation1/)*
 1. *[Primi mortales](../assignments/translation2/)*
@@ -49,7 +60,15 @@ Assignments 7-18 are submitted to your github repository.  Each assignment has i
 
 ## Compositions
 
+You will receive half credit for submitting a complete assignment, and full credit for submitting a perfect assignment.
+
+
 1. [The Olympian gods](../assignments/composition1/)
 1. [Prometheus](../assignments/composition2/)
 1. [Venus and Mars](../assignments/composition3/): draft due Nov. 9.
 1. [Hercules and Megara](../assignments/composition4/): draft due Dec. 7.
+
+
+## Reflection
+
+One brief (one-page) reflection.  (Detailed prompt TBA.)

@@ -13,8 +13,9 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 ## Announcements
 
 
-
-- Friday, Nov. 20:   [optional Zoom](./assignments/optional1/). 
+- **Nov. 20**: [exercises for optional class](./breakouts/): transforming verb forms using verbs in final translation assignment
+- **Nov. 18**:  links to final assignments added to [checklist of assignments](./checklist/)
+- Friday, Nov. 20:   [optional Zoom](./assignments/optional1/).
 
 
 
@@ -22,22 +23,10 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 - [unit 3: subordination](./schedule/part3/), including three compositions and three translations, plus self-corrected exercises.
 - [daily schedule](./schedule/part3/schedule/) for unit 3.
-- summary of [new vocabulary in Unit 3](./schedule/part3/vocab/)
 - summary [new forms in Unit 3](./schedule/part3/forms/)
 
 
-## Week at a glance
 
-- Week of **Nov 9-13**: Indirect statement.
-- **New forms**: the perfect infinitive
-
-
-| Principal parts | Active | Passive     |
-| :------------- | :------------- | :------------- |
-| *amo, amāre, amavi, amatus*       | amav<span class="infinitive">isse</span>    | amatus, -a, -um esse |
-| *duco, ducere, duxi, ductus* | dux<span class="infinitive">isse</span> | ductus, -a, -um esse |
-
-- **New constructions**: indirect statement using infinitive with accusative subject
 
 
 <style scoped>
