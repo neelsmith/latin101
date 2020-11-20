@@ -10,7 +10,10 @@ parent: Nullus parens est
 
 The following exercises practice transforming verb forms, using all the verbs that occur in your final translation exercise.
 
+Keeping person, number, tense and mood the same, transform active to passive or passive to active.
 
+  <iframe width="100%" height="459" frameborder="0"
+  src="https://observablehq.com/embed/@neelsmith/active-passive?cell=viewof+chosenCol1&cell=viewof+col1tocol2&cell=answer1&cell=viewof+chosenCol2&cell=viewof+col2tocol1&cell=answer2&cell=css"></iframe>
 
 # November 16
 
