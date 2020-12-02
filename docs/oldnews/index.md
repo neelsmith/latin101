@@ -10,18 +10,19 @@ nav_order: 12
 ## Announcements
 
 
-
-- **Nov. 13**: we will work together on [this assignment](./assignments/subjunctive2/) in class
-- **Nov. 11**: see [breakout questions for today](./breakouts/)
-- **Nov. 9**:  [Checklist of due dates](./checklist/) has been revised to reflect cancelled class.
-- **Nov. 9**:  No homework for today's class.  Please use [this reading assignment for today](./assignments/indirect/) to review material presented in class.
-- **Nov. 6**:  I'm continuing to revise the course schedule to account for our cancelled class. Please [complete a first draft of composition 3](./assignments/composition3/) for **Wed., Nov. 11**.
+- Friday, Nov. 20:   [optional Zoom](../assignments/optional1/)
+- **Nov. 20**: [exercises for optional class](../breakouts/): transforming verb forms using verbs in final translation assignment
+- **Nov. 13**: we will work together on [this assignment](../assignments/subjunctive2/) in class
+- **Nov. 11**: see [breakout questions for today](../breakouts/)
+- **Nov. 9**:  [Checklist of due dates](../checklist/) has been revised to reflect cancelled class.
+- **Nov. 9**:  No homework for today's class.  Please use [this reading assignment for today](../assignments/indirect/) to review material presented in class.
+- **Nov. 6**:  I'm continuing to revise the course schedule to account for our cancelled class. Please [complete a first draft of composition 3](../assignments/composition3/) for **Wed., Nov. 11**.
 - **Nov. 4**: CLASS CANCELLED. Assume that Friday's class (Nov. 6) will be the introduction to our next composition originally planned for today. (Further details shared by email.)
-- **Nov. 2**: See [breakout room challenge for today's class](./breakouts/)
+- **Nov. 2**: See [breakout room challenge for today's class](../breakouts/)
 - **Nov. 2**:  No classes on Tuesday, Nov. 3, so **no practicum** this week (Monday, Nov. 2, or Tuesday, Nov.3)!
 - **Nov. 2**:  [master vocabulary list for F20](https://lingualatina.github.io/textbook/vocabulary/00-master/)
-- **Oct 30**: [checklist with due dates of all assignments](./checklist/)
-- [Old news](./oldnews/)
+- **Oct 30**: [checklist with due dates of all assignments](../checklist/)
+- [Old news](../oldnews/)
 - **Oct. 26**: please post a draft of [translation 3](../assignments/translation3/) before coming to Wednesday's class, when we'll workshop the assignment in groups
 - **Oct. 23**: for breakout sessions, complete *synopses* in the *third person*: both singular and plural, active and passive, and test yourself with [this self-correcting notebook](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-2-verb-synopsis?collection=@neelsmith/l3)
 - **Oct. 17**:  updated schedule includes

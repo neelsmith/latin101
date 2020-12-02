@@ -12,10 +12,8 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Announcements
 
-
-- **Nov. 20**: [exercises for optional class](./breakouts/): transforming verb forms using verbs in final translation assignment
+- **Dec. 2**: [Revised  scale for final grades](./grades/) accounting for dropped assignments. 
 - **Nov. 18**:  links to final assignments added to [checklist of assignments](./checklist/)
-- Friday, Nov. 20:   [optional Zoom](./assignments/optional1/).
 
 
 

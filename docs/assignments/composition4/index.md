@@ -15,7 +15,7 @@ grand_parent: Course schedule
 
 Instructions: Using the story above as inspiration, compose a paragraph of Latin according to the instructions below. DO NOT TRANSLATE THE PARAGRAPH ABOVE. All vocabulary words that you will need can be found either below or in the master vocabulary list.
 
-1. Use each word in the given vocabulary list (next page) at least once.
+1. Use each word in the given vocabulary list (below) at least once.
 1. Your first sentence should use an indirect statement to state that when Hercules was sent to fight Cerberus, Lycus thought he had died.
 1. Your second sentence should express that Lycus wanted to steal Hercules’ kingdom and kill his family.
 1. Your third sentence should use a cum clause with the correct tense of the subjunctive to say that when Hercules heard of Lycus’ plan he returned and killed him.
