@@ -53,7 +53,7 @@ grand_parent: Course schedule
 Highlighting <span class="query">like this</span> indicates words or phrases referred to in grammatical questions.
 
 
-> Erechtheus, Pandīonis fīlius, habuit fīliās quattuor.  <span class="query">illō tempōre</span>, Eumolpus, Neptūnī fīlius, vēnit ad Athēnās <span class="query">oppugnandās</span>, sed hic victus est. Neptūnus, infestus quod fīlius ab Erechtheō <span class="query">interfectus est</span>, dīxit “Erecthei fīlia <span class="query">immolanda est</span>.” itaque Chthonia, fīliārum ūna, immolāta est. <span class="query">ceterae sorōrēs</span> sē interfēcērunt; ipse Erechtheus <span class="query">ab fulmine</span> ictus est.
+> Erechtheus, Pandīonis fīlius, habuit fīliās quattuor.  <span class="query">illō tempōre</span>, Eumolpus, Neptūnī fīlius, vēnit ad Athēnās <span class="query">oppugnandās</span>, sed hic victus est. Neptūnus, infestus quod fīlius ab Erechtheō <span class="query">interfectus est</span>, dīxit “Erecthei fīlia <span class="query">immolanda est</span>.” itaque Chthonia, fīliārum ūna, immolāta est. <span class="query">ceterae sorōrēs</span> sē interfēcērunt; ipse Erechtheus <span class="query">fulmine</span> ictus est.
 
 ## A. Grammatical Analysis
 
@@ -67,7 +67,7 @@ Surround all the verbs with two asterisks. (These will display as bold text.) Su
 6. Parse (PNTMV) *interfectus est*.
 7. What kind of construction is *immolanda est*?
 8. Parse (GCN) *ceterae sorōrēs*.
-9. What type of construction is *ab fulmine*?
+9. What type of construction is *fulmine*?
 
 
 ## C. Translation
