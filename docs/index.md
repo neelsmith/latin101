@@ -12,7 +12,9 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Announcements
 
-- **Dec. 2**: [Revised  scale for final grades](./grades/) accounting for dropped assignments. 
+
+- **Dec. 4**:  Instructions for [final reflection](./assignments/reflection/)
+- **Dec. 2**: [Revised  scale for final grades](./grades/) accounting for dropped assignments.
 - **Nov. 18**:  links to final assignments added to [checklist of assignments](./checklist/)
 
 
