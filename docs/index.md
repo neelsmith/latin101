@@ -17,16 +17,39 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 - **Dec. 2**: [Revised  scale for final grades](./grades/) accounting for dropped assignments.
 - **Nov. 18**:  links to final assignments added to [checklist of assignments](./checklist/)
 
-
-
-## Current unit
-
-- [unit 3: subordination](./schedule/part3/), including three compositions and three translations, plus self-corrected exercises.
-- [daily schedule](./schedule/part3/schedule/) for unit 3.
-- summary [new forms in Unit 3](./schedule/part3/forms/)
+## Summary of Latin covered
 
 
 
+### Morphology (forms)
+
+- three declensions of nouns, and all adjective declensions
+- finite verbs in present, imperfect, perfect indicative
+- finite verbs in present, imperfect, perfect, pluperfect subjunctive
+- gerundive
+- gerund
+- present and perfect infinitive
+
+### Syntax (constructions)
+
+- noun-adjective agreement
+- clause types:  
+    - transitive active and passive
+    - intransitive
+    - linking
+- case uses:
+    - direct object (accusative)
+    - indirect object (dative)
+    - time expressions (accusative and ablative)
+    - instrument or means (ablative)
+    - with prepositions (ablative, accusative)
+- agency with passive expressions
+    - *a/ab* + ablative  with finite verbs
+    - dative with gerundive
+- purpose expressions with *ad* + accusative noun described by a gerundive
+- necessity expressed by gerundive + *sum* ("passive periphrastic")
+- indirect statement
+- temporal clauses (indicative and subjunctive)
 
 
 <style scoped>
