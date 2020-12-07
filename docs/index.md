@@ -17,7 +17,7 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 - **Dec. 2**: [Revised  scale for final grades](./grades/) accounting for dropped assignments.
 - **Nov. 18**:  links to final assignments added to [checklist of assignments](./checklist/)
 
-## Summary of Latin covered
+## Summary of Latin covered in fall semester
 
 
 
