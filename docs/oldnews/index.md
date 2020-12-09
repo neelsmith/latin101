@@ -73,6 +73,13 @@ nav_order: 12
 
 
 ## Week at a glance
+## Current unit
+
+- [unit 3: subordination](./schedule/part3/), including three compositions and three translations, plus self-corrected exercises.
+- [daily schedule](./schedule/part3/schedule/) for unit 3.
+- summary [new forms in Unit 3](./schedule/part3/forms/)
+
+
 
 
 - Week of **Nov 9-13**: Indirect statement.

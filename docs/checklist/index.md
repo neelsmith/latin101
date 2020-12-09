@@ -71,4 +71,4 @@ You will receive half credit for submitting a complete assignment, and full cred
 
 ## Reflection
 
-One brief (one-page) reflection.  (Detailed prompt TBA.)
+One brief (one-two pages) [reflection](../assignments/reflection/).  
