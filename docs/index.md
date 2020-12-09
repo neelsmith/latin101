@@ -12,7 +12,9 @@ In Latin 101, you encounter a historical language and culture, and engage with h
 
 ## Announcements
 
-
+- Extra drop-in hours this week:
+    - Thursday, Dec. 10: 1:00-3:00 ([on regular Thursday link](https://holycross.zoom.us/j/99712991817))
+    - Friday, Dec. 11:  2:00-3:30 (on [this one-time Zoom link](https://holycross.zoom.us/j/95110422929))
 - **Dec. 4**:  Instructions for [final reflection](./assignments/reflection/)
 - **Dec. 2**: [Revised  scale for final grades](./grades/) accounting for dropped assignments.
 - **Nov. 18**:  links to final assignments added to [checklist of assignments](./checklist/)
