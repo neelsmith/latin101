@@ -36,7 +36,7 @@ grand_parent: Course schedule
 17. imperō, imperāre, imperāvī, imperatus - to order
 18. vātēs, vātis m. - prophet
 19. Cassandra, Cassandrae - Cassandra (proper name)
-20. fidēs = nominative masculine singular of “faith”
+20. fidēs = feminine nominative singular of “faith, trust”
 21. ponō, pōnere, posui, positus - to place
 22. exeō, exīre, exiī, exitus - to go out
 23. porta, portae f. - gate
