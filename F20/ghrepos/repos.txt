@@ -1,7 +1,7 @@
 brennena10/latin101-portfolio
 aattea14/allisonattea
 jadabrenon/latin101portfolio
-Cordcallahan/Translation-1-Callahan
+Cordcallahan/LatinSemester1
 atconl21/latin101
 lyrrra/latin101
 sbduff21/LatinOnePortfolio
@@ -14,5 +14,5 @@ AvaLicht/Latin101portfolio
 RonanMarrinan/latin101portfolio
 pjmcar23/latin101profile
 allisonmolski/latin101portfolio
-michaeloneil-lang/
+michaeloneil-lang/Latin101
 Nicktormey/Latin101portfolio
