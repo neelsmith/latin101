@@ -1,0 +1,5 @@
+Manifest.toml
+*.lock
+docs/Gemfile
+.jekyll-cache/
+_site/
