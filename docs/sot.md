@@ -1,7 +1,3 @@
----
-layout: page
-title: Sequence of tenses
----
 
 Get your sequence of tenses here!
 
