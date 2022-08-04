@@ -6,7 +6,7 @@ title: Sequence of tenses
 Get your sequence of tenses here!
 
 ```mermaid
-graph TD
+flowchart TD
 
     root[Temporal clause] --> Q1{Time or circumstance?}
     Q1 --> circumstancial[/Circumstance/]
