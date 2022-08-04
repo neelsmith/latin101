@@ -1,5 +1,6 @@
 Manifest.toml
-docs/Gemfile
 *.lock
-_site
-docs/.jekyll-cache/
+docs/Gemfile
+.jekyll-cache/
+_site/
+
