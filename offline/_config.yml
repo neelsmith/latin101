@@ -1,0 +1,12 @@
+theme: "just-the-docs"
+
+title: "Latin 101-02,  F'22"
+
+
+aux_links:
+  "L3 textbook":
+    - "https://lingualatina.github.io/textbook/"
+
+
+
+footer_content: "Latin 101, Fall 2022.  Encounter a historical language and culture, and engage with how they continue to shape structures of power today.<br/>All material on this web site is available under the Creative Commons Attribution Share-Alike license <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0 <img height=\"15\" width=\"80\" src=\"https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by-sa.png\" /></a> on <a href=\"https://github.com/neelsmith/latin101\">github</a>."
