@@ -1,42 +1,51 @@
 ---
+title: "Policies"
 layout: page
-title: Course policies
-parent: "Course overview (syllabus)"
-nav_order: 3
+parent:  Syllabus
+nav_order: 10
 ---
 
-# Course policies
-
-## College policies
-
-Holy Cross maintains a list of [links to many college policies and procedures](https://hcconnect.holycross.edu/policies-procedures/).  Please be sure that you understand the college's [policy on Academic Integrity](https://cdn.uconnectlabs.com/wp-content/uploads/sites/43/2019/09/academic_integrity_policy.pdf).
+# Policies
 
 
-## Remote work
 
-This semester, all of us are experimenting with new ways to learn, and each of us is in a unique set of circumstances.  We'll all need to be  patient with each other, and more flexible than ever before.
+## Class attendance
 
-Since we are not able to share the same physical campus and classroom, the most important thing you can do to help me help you is to stay in touch.   Hang around for a minute after a class Zoom, [stop by my drop-in hours](../contact/), or send me an email so we can schedule a one-on-one Zoom or phone call.
+Active participation in class is one of the most effective ways to learn ancient Greek.  My expectations for your class attendance follow the college policies posted at [https://catalog.holycross.edu/requirements-policies/academic-policies/#coursepoliciestext](https://catalog.holycross.edu/requirements-policies/academic-policies/#coursepoliciestext).
 
-Most of our scheduled class meetings on MWF will be organized for the entire class.  Some days on the daily schedule will be set aside for work in small-group workshops.  Participation in scheduled meetings is required, but if, for any reason, it's hard for you to attend, please let me know ahead of time or as soon as possible afterwards.  
+If at some point in the semester you are unable to complete the required preparation for a single class, please come anyway: staying away only compounds the difficulty of catching up.  If you let me know that you're not prepared, I will not call on you in class.
 
 
-## Academic accommodations
+If you are experiencing symptoms of a communicable disease, please let me know and do *not* come to class.  If you are are unable to attend class for whatever reason, for a shorter or longer period of time, please get in touch with me so we can work out a plan to get you caught up.
 
-If you are already registered with the college's Office of Accessibility Services, please let me know.
+## Masking and testing
 
-If you feel that you need accommodation based on the impact of a disability, you should contact the [Office of Accessibility Services](https://www.holycross.edu/health-wellness-and-access/office-accessibility-services) to discuss support services available.  You can reach the office by phone at (508) 793-3693.
+It is impossible to foresee how the ongoing global pandemic will develop this semester, and we continue to teach and learn in ways we did not anticipate. We will monitor the spread of the virus and re-evaluate our masking practices periodically throughout the semester.
 
-## Diversity and inclusion
+Because even a "mild" case can have serious consequences for at-risk populations,  as the semester begins, medical-grade or better masks are required in class and in drop-in hours until further notice. 
 
-Studying the ancient Mediterrean world at Holy Cross is one way to challenge a centuries-long tradition that reserved that study for a privileged elite. The challenge goes beyond simply welcoming students however they identify their race, ethnicity, gender identity and expression, religious or spiritual tradition, or socioeconomic background. As we work to understand the multicultural world of the ancient Mediterranean, we reflect on and actively explore how this can help us recognize and respond to structures of power and privilege in our own lives.
+Masking is equally uncomfortable for us all, but feeling unsafe creates a poor learning environment so please do your part. Please continue to proactively monitor, test, and isolate at the onset of COVID-19 symptoms and close contact with any individuals with known infections. We will continue to closely monitor viral surges and current College recommendations in regards to COVID-19 and any other infectious diseases (e.g., monkeypox) that might emerge as we move through the semester.
 
-This work is especially important today, when historically false images of the ancient world are being invoked to support particular political viewpoints. Studying Classics helps us see through erroneous assertions about the “whiteness” of the ancient Mediterranean, and reject claims that the Greco-Roman world is the special province of any ethnic or political group.
 
-## Confidentiality and mandatory reporting.
 
-All instructors are mandatory reporters. This means that while, whenever legally possible,  I will keep any information you share about your life experiences in classroom discussions, written work, or one-on-one meetings confidential, I am required to share any information you disclose about sexual misconduct, a prior suicide attempt or an intention to attempt suicide.
+## Diversity and Inclusivity
 
-I am expected to share information about sexual misconduct with the College’s Office of Title IX Initiatives. You can also get in touch with Title IX directly at 508-793-3336 or `titleix@holycross.edu`. For more information, please visit <https://www.holycross.edu/sexual-respect-and-title-ix>. If you would like to discuss the matter confidentially, the following confidential resources are available to you: the Chaplains’ Office, 508-793-2448; Counseling Center, 508-793-3363; Health Services, 508-793-2276.
+The study of the ancient Mediterranean world belongs to all of us: if you have chosen to study Latin, then you belong here. The diversity that our student body brings to this class is a resource, a strength and a shared benefit for all of us.
 
-Following the College’s Suicide Protocol, if you disclose a prior suicide attempt or an intention or plan to attempt suicide, I will share that information with the Chair of our student CARE Team, who will engage in appropriate outreach.
+In developing this course, our aim has been to make the course materials and our interactions with each other respectful of diversity of all kinds: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture.  If you have suggestions about how to improve the effectiveness of the course for you personally, or for other students or student groups, please share them.
+
+
+
+
+## Accommodations for disabilities
+
+Any student who feels the need for accommodation based on the impact of a disability should contact the Office of Disability Services to discuss support services available. The office can be reached by calling 508 793-3693 or by visiting Hogan Campus Center, room 215A.
+
+If you are already registered with Disability Services, please let me know as soon as possible, so that I can take account of this in planning for tests or other course activities.
+
+
+## Academic integrity
+
+You should be familiar with the College’s policy on Academic Integrity posted at
+[https://catalog.holycross.edu/requirements-policies/academic-policies/#academicintegritytext](https://catalog.holycross.edu/requirements-policies/academic-policies/#academicintegritytext)
+
