@@ -1,51 +1,29 @@
-## Unit 1: an inflected language
 
 *no classes*
-[Introduction to course](../../../assignments/intro/)
+[Introduction](../../../assignments/intro/) to course
 ✏️Introduction to verbs: [the perfect tense](../../../assignments/verbs/)
 
 
 [✏️The imperfect tense](../../../assignments/imperfect/)
+[Sum, esse, fui](../../../assignments/sum/)
+[Possum](../../../assignments/possum/)
 
 
 [Nouns](../../../assignments/nouns/)
-
 [Nouns: further cases](../../../assignments/nouns2/)
-
-
 [Adjectives](../../../assignments/adjectives/)
 
 [-ius adjectives](../../../assignments/adjectives-ius/)
-
 [Demonstratives](../../../assignments/demonstratives/)
-
-
 [Identify that character](../../../assignments/prosopography/)!
 
 
 Translation 1 workshop: [small groups](../../../assignments/xlateworkshop1/)
-
-
-
-
-[Sum, esse, fui](../../../assignments/sum/)
-
-[Possum](../../../assignments/possum/)
-
-
-
-
-
-
-
 [Workshop: small groups](../../../assignments/workshop2/) (junior, seniors)
 Translation 2 workshop: full class
 
 Review and introduction to Unit 2
-
-
-## Unit 2: expressing time and purpose
-
+A class
 [Introduction to Unit 2](../../../assignments/unit2/)
 
 
@@ -58,11 +36,11 @@ Review and introduction to Unit 2
 [Nouns made from verbs](../../../assignments/gerund/)
 
 
+A class
 
 
-## Asking questions; more time and people
 
-[Review, with self-corrected exercise](../../../assignments/review-verbal-nouns/)
+[Review](../../../assignments/review-verbal-nouns/), with self-corrected exercise
 
 Workshop: [composition 2](../../../assignments/composition2/)
 
@@ -70,36 +48,43 @@ Workshop: [composition 2](../../../assignments/composition2/)
 
 
 
-# Unit 3: subordination
-
 [Asking questions](../../../assignments/questions/), and review of indicative
 [Translation 3 workshop](../../../assignments/translation3/)
-[Deliberative questions with the subjunctive](../../../assignments/deliberative/)
+[Deliberative questions](../../../assignments/deliberative/) with the subjunctive
 
 
 
-[Subjunctive: review and practice](../../../assignments/subjunctive1/)
+[Subjunctive](../../../assignments/subjunctive1/): review and practice
 
-[Introduction to composition 3](../../../assignments/composition3-intro/), "Venus and Mars"
+Introduction to [composition 3](../../../assignments/composition3-intro/), "Venus and Mars"
 
 [Indirect statement](../../../assignments/indirect/)
-Applying indirect statement to composition 3 (See [breakout exercise, "Some people say that..."](../../../breakouts/))
-[Forming further tenses of the subjunctive](../../../assignments/subjunctive2/)
+Applying indirect statement to composition 3. See breakout exercise("Some [people say that..."](../../../breakouts/))
+Forming further [tenses of the subjunctive](../../../assignments/subjunctive2/)
 
 
 [Temporal clauses](../../../assignments/temporal-clauses/)
-Translation workshop
-Composition workshop#
 
+
+Translation workshop
 **Thanksgiving break:  no class**
 **Thanksgiving break:  no class**
-**Thanksgiving break:  no class**
+
+
+
+Composition workshop
+
+
 
 Irregular Verbs: ferō, ferre, tulī, lātus; eō, īre, iī/īvī, itūrus
 
-Composition #
+Composition 
 Work
 
 Semester 1 review
 Preparing for Latin 102
-**study period: no class**
+
+
+*study period*
+*exam period*
+*exam period*

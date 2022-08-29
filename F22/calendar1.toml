@@ -27,23 +27,27 @@ fixedDates = [
   ["2022-09-30",  "📜 Reading assignment 1 due."],
   ["2022-10-07",  "📜 Composition 1 due."],
 
-  ["2022-10-06",  "📜 Mastering unit 2 forms due."],
-  ["2022-10-20",  "📜 Reading assignment 2 due."],
-  ["2022-10-27",  "📜 Composition 2 due."],
-
-  ["2022-11-03",  "📜 Mastering unit 3 forms due."],
-  ["2022-11-10",  "📜 Reading assignment 3 due."],
-  ["2022-11-17",  "📜 Composition 3 due."],
-
-
-  ["2022-10-21",  "⚠️ **Last day to submit revisions of Module 1 assignments**."],
-  ["2022-12-02",  "⚠️ **Last day to submit revisions of Module 2 assignments**."],
-  ["2022-12-12",  "⚠️ **Last day to submit revisions of Module 3 and 4 assignments**.."],
 
 
 
+  ["2022-10-24",  "⚠️ **Last day to submit revisions of unit 1 assignments**."],
 
-  ["2020-10-09", "All unit 1 requirements due Friday (11:59 pm Eastern)"]
+
+  ["2023-10-06",  "📜 Mastering unit 2 forms due."],
+  ["2023-10-20",  "📜 Reading assignment 2 due."],
+  ["2023-10-27",  "📜 Composition 2 due."],
+
+  ["2023-11-03",  "📜 Mastering unit 3 forms due."],
+  ["2023-11-10",  "📜 Reading assignment 3 due."],
+  ["2023-11-17",  "📜 Composition 3 due."],
+  ["2023-12-02",  "⚠️ **Last day to submit revisions of Module 2 assignments**."],
+
+
+
+
+
+  ["2020-10-09", "All unit 1 requirements due Friday (11:59 pm Eastern)"],
+    ["2022-12-12",  "⚠️ **Last day to submit revisions of Module 3 and 4 assignments**"]
 
 ]
 
