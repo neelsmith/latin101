@@ -19,9 +19,9 @@ has_children: true
 
 Deadlines to note:
 
-- ✏️ Class preparation includes written preparation to be submitted the previous day by 5:00 pm
+- ✏️ Class preparation includes written preparation to be posted to your github repository before class
 - 📜  Portfolio assignment due
-- ⚠️ Last day to revise submissions for a course module
+- ⚠️ Last day to revise submissions for a course unit
 
 
 """

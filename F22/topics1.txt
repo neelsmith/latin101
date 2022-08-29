@@ -1,86 +1,89 @@
 
+# Unit 1: an inflected language
+
+
 *no classes*
 [Introduction](../../../assignments/intro/) to course
-✏️Introduction to verbs: [the perfect tense](../../../assignments/verbs/)
+✏️Introduction to verbs: [the perfect active](../../../assignments/verbs/)
 
-
+✏️The perfect passive
 [✏️The imperfect tense](../../../assignments/imperfect/)
+Practice with verbs
+
+
+[✏️Nouns](../../../assignments/nouns/): the nominative and genitive cases
+[✏️Adjectives](../../../assignments/adjectives/): the nominative and genitive cases
+[Demonstratives](../../../assignments/demonstratives/): nominative and genitive cases
+
+The agent of passive verbs: the ablative case
+✏️Direct and indirect [objects](../../../assignments/nouns2/)
+Adjectives and demonstratives: dative accusative, and ablative cases
+
+Practice
+In-class workshop: reading assignment for unit 1
+Sentence structures
+
+
+
 [Sum, esse, fui](../../../assignments/sum/)
-[Possum](../../../assignments/possum/)
-
-
-[Nouns](../../../assignments/nouns/)
-[Nouns: further cases](../../../assignments/nouns2/)
-[Adjectives](../../../assignments/adjectives/)
-
-[-ius adjectives](../../../assignments/adjectives-ius/)
-[Demonstratives](../../../assignments/demonstratives/)
-[Identify that character](../../../assignments/prosopography/)!
-
-
-Translation 1 workshop: [small groups](../../../assignments/xlateworkshop1/)
-[Workshop: small groups](../../../assignments/workshop2/) (junior, seniors)
-Translation 2 workshop: full class
-
-Review and introduction to Unit 2
-A class
-[Introduction to Unit 2](../../../assignments/unit2/)
-
+In-class workshop: composition 1
+Sight-reading strategies
 
 *fall break*
 *fall break*
 *fall break*
 
-[The gerundive](../../../assignments/gerundive/)
 
-[Nouns made from verbs](../../../assignments/gerund/)
+# Unit 2: richer sentences
 
-
-A class
-
-
-
-[Review](../../../assignments/review-verbal-nouns/), with self-corrected exercise
-
-Workshop: [composition 2](../../../assignments/composition2/)
-
+Intensive and reflexive pronouns
+Time and place
 [Present indicative](../../../assignments/present-indicative/)
 
 
 
+[The gerundive](../../../assignments/gerundive/)
+Nouns made [from verbs](../../../assignments/gerund/)
+[Possum](../../../assignments/possum/)
+
+
+
+
+Workshop: reading 2
 [Asking questions](../../../assignments/questions/), and review of indicative
-[Translation 3 workshop](../../../assignments/translation3/)
+Workshop: [composition 2](../../../assignments/composition2/)
+
+
+
+
+# Unit 3: subordination
+
 [Deliberative questions](../../../assignments/deliberative/) with the subjunctive
 
 
-
-[Subjunctive](../../../assignments/subjunctive1/): review and practice
+Irregular Verbs: ferō, ferre, tulī, lātus; eō, īre, iī/īvī, itūrus
 
 Introduction to [composition 3](../../../assignments/composition3-intro/), "Venus and Mars"
 
 [Indirect statement](../../../assignments/indirect/)
-Applying indirect statement to composition 3. See breakout exercise("Some [people say that..."](../../../breakouts/))
-Forming further [tenses of the subjunctive](../../../assignments/subjunctive2/)
+
+Forming further tenses of the [subjunctive](../../../assignments/subjunctive2/)
 
 
 [Temporal clauses](../../../assignments/temporal-clauses/)
 
 
 Translation workshop
-**Thanksgiving break:  no class**
-**Thanksgiving break:  no class**
+*Thanksgiving break:  no class*
+*Thanksgiving break:  no class*
 
 
 
 Composition workshop
 
+In-class workshop: composition 3
 
-
-Irregular Verbs: ferō, ferre, tulī, lātus; eō, īre, iī/īvī, itūrus
-
-Composition 
-Work
-
+Review of requested topics or sight-reading practice
 Semester 1 review
 Preparing for Latin 102
 
