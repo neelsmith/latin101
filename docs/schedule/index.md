@@ -32,14 +32,14 @@ Deadlines to note:
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
 | *Oct 17*, *Oct 19*, *Oct 21* | Intensive and reflexive pronouns | Time and place | [Present indicative](../../../assignments/present-indicative/) | **Mon**: *Classes resume.* |
-| *Oct 24*, *Oct 26*, *Oct 28* | [The gerundive](../../../assignments/gerundive/) | Nouns made [from verbs](../../../assignments/gerund/) | [Possum](../../../assignments/possum/) | **Fri**: *📜 Mastering unit 2 forms due.* |
+| *Oct 24*, *Oct 26*, *Oct 28* | Irregular Verbs: ferō, ferre, tulī, lātus; eō, īre, iī/īvī, itūrus | Nouns made [from verbs](../../../assignments/gerund/) | [Possum](../../../assignments/possum/) | **Fri**: *📜 Mastering unit 2 forms due.* |
 | *Oct 31*, *Nov 2*, *Nov 4* | Workshop: reading 2 | [Asking questions](../../../assignments/questions/), and review of indicative | Workshop: [composition 2](../../../assignments/composition2/) | **Wed**: *📜 Reading assignment 2 due.* **Fri**: *📜 Composition 2 due.* |
 
 # Unit 3: subordination
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Nov 7*, *Nov 9*, *Nov 11* | [Deliberative questions](../../../assignments/deliberative/) with the subjunctive | Irregular Verbs: ferō, ferre, tulī, lātus; eō, īre, iī/īvī, itūrus | Introduction to [composition 3](../../../assignments/composition3-intro/), "Venus and Mars" |  |
+| *Nov 7*, *Nov 9*, *Nov 11* | [Deliberative questions](../../../assignments/deliberative/) with the subjunctive | [The gerundive](../../../assignments/gerundive/) | Introduction to [composition 3](../../../assignments/composition3-intro/), "Venus and Mars" |  |
 | *Nov 14*, *Nov 16*, *Nov 18* | [Indirect statement](../../../assignments/indirect/) | Forming further tenses of the [subjunctive](../../../assignments/subjunctive2/) | [Temporal clauses](../../../assignments/temporal-clauses/) | **Fri**: *📜 Mastering unit 3 forms due.* |
 | *Nov 21*, *Nov 23*, *Nov 25* | Translation workshop | *Thanksgiving break:  no class* | *Thanksgiving break:  no class* | **Tue**: *Last class before Thanksgiving break.* **Mon**: *📜 Reading assignment 3 due.* |
 | *Nov 28*, *Nov 30*, *Dec 2* | Composition workshop | In-class workshop: composition 3 | Review of requested topics or sight-reading practice | **Mon**: *Classes resume.* **Fri**: *📜 Composition 3 due.* |

@@ -22,3 +22,8 @@ Applying indirect statement to composition 3. See breakout exercise("Some [peopl
 
 
 [Subjunctive](../../../assignments/subjunctive1/): review and practice
+
+
+
+[The gerundive](../../../assignments/gerundive/)
+
