@@ -1,29 +1,18 @@
 ---
+title: "Goals and objectives"
 layout: page
-title: Goals and objectives
-parent: "Course overview (syllabus)"
-nav_order: 1
+parent:  Syllabus
+nav_order: 2
 ---
 
-# Course goals and objectives
+# Goals
 
+Latin 101 is the first semester of a two-semester sequence to introduce you to the study of Latin.  We will use a curriculum recently developed by several members of our Classics department at Holy Cross, led by [Professor Machado](https://dominicmachado.github.io). By the end of this course, you will be able to:
 
+- identify ways that  language structures our understanding of the world we live in
+- articulate how Latin has shaped and continues to shape structures of power in the modern world
+- read and pronounce Latin with confidence and accuracy
+- analyze syntax and sentence structure in Latin and English
+- express complex ideas in written composition both in Latin and in English
+- read authentic, unaltered Latin texts with minimal glossing
 
-## Goals
-
-During this two-semester sequence, you will learn to read unaltered Latin texts, focusing especially on the mythological handbook of Hyginus, the *Fabulae*. You will explain how myths convey values, and serve as both entertainment and a way to explore difficult questions.  
-
-You will compare how Latin texts use language to organize a view of the world with how our use of English today.
-
-You will articulate how the study of texts in Latin has shaped structures of power, and how people continue to use Latin to make claims to authority or privilege.
-
-## Objectives
-
-You can see a more detailed breakdown of concrete objectives in the [introduction to each of the three major units of the course](http://localhost:4000/schedule/), as well as in the introductions to individual assignments. In summary, you will:
-
-
-- recognize and identify core vocabulary and all inflectional forms in a real Latin text
-- read extended passages of real Latin texts with minimal glossing
-- read aloud and pronounce Latin with confidence and accuracy
-- analyze syntax and sentence structure in both Latin and English
-- translate complex ideas and sentences into Latin and English

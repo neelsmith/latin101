@@ -21,7 +21,31 @@ fixedDates = [
   ["2022-12-10",  "Study period begins."],
   ["2022-12-13",  "Final examinations begin."],
   
-  ["2020-10-09", "All unit 1 requirements due Friday (11:59 pm Eastern)"]
+
+
+  ["2022-09-28",  "📜 Mastering unit 1 forms due."],
+  ["2022-09-30",  "📜 Reading assignment 1 due."],
+  ["2022-10-07",  "📜 Composition 1 due."],
+
+
+  ["2022-10-28",  "📜 Mastering unit 2 forms due."],
+  ["2022-11-02",  "📜 Reading assignment 2 due."],
+  ["2022-11-04",  "📜 Composition 2 due."],
+
+
+  ["2022-11-18",  "📜 Mastering unit 3 forms due."],
+  ["2022-11-21",  "📜 Reading assignment 3 due."],
+  ["2022-12-02",  "📜 Composition 3 due."],
+
+
+
+
+
+  ["2023-10-24",  "⚠️ **Last day to submit revisions of unit 1 assignments**."],
+  ["2023-12-02",  "⚠️ **Last day to submit revisions of unit 2 assignments**."],
+
+
+    ["2022-12-12",  "⚠️ **Last day to submit revisions of unit 3 assignments**"]
 
 ]
 
