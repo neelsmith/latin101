@@ -8,11 +8,14 @@ nav_order: 3
 
 # Community-based learning
 
-Community-based learning (CBL) is an essential part of our course.  We are privileged to be be able to study Greek together in our MWF class meetings.  In your CBL work, you will share some of that experience with others. Community-based learning helps us to understand our language study in a broader context. The active engagement it requires also will improve your development of the language skills required for your study of Greek.
+Community-based learning (CBL) is an essential part of our course. In this part of the course, you will work under the supervision of a mentor with elementary and middle schoolers in Worcester and Marlborough on collaborative projects about the texts we are reading. (Note that we have already developed a curriculum you can use in this work). 
 
-Your CBL work will include a weekly CBL section meeting on campus, and a small-group project that will include work in the community.
+Off-campus work will begin after fall break.  For seven weeks, you should anticipate spending roughly two hours per week (including travel) on the CBL part of your course.  We have included that time in our course plans as part of the 8-10 hours weekly  that Holy Cross expects students to 
+devote to work outside of our 150 minutes of meeting time.
 
-In the fall semester of 2022, our community partner will be the Worcester Art Museum.
+Scheduling for off-campus work will be coordinated in conjunction with the CBL office.
+
+
 
 
 

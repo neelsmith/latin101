@@ -11,7 +11,7 @@ nav_order: 10
 
 ## Class attendance
 
-Active participation in class is one of the most effective ways to learn ancient Greek.  My expectations for your class attendance follow the college policies posted at [https://catalog.holycross.edu/requirements-policies/academic-policies/#coursepoliciestext](https://catalog.holycross.edu/requirements-policies/academic-policies/#coursepoliciestext).
+Active participation in class is one of the most effective ways to learn Latin.  My expectations for your class attendance follow the college policies posted at [https://catalog.holycross.edu/requirements-policies/academic-policies/#coursepoliciestext](https://catalog.holycross.edu/requirements-policies/academic-policies/#coursepoliciestext).
 
 If at some point in the semester you are unable to complete the required preparation for a single class, please come anyway: staying away only compounds the difficulty of catching up.  If you let me know that you're not prepared, I will not call on you in class.
 

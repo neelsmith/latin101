@@ -7,25 +7,25 @@
 ✏️Introduction to verbs: [the perfect active](../../../assignments/verbs/)
 
 ✏️The perfect passive
-[✏️The imperfect tense](../../../assignments/imperfect/)
+✏️The imperfect tense
 Practice with verbs
 
 
-[✏️Nouns](../../../assignments/nouns/): the nominative and genitive cases
-[✏️Adjectives](../../../assignments/adjectives/): the nominative and genitive cases
-[Demonstratives](../../../assignments/demonstratives/): nominative and genitive cases
+✏️Nouns: genitive cases
+✏️Adjectives: nominative and genitive cases
+Demonstratives: nominative and genitive cases
 
 The agent of passive verbs: the ablative case
-✏️Direct and indirect [objects](../../../assignments/nouns2/)
+✏️Direct and indirect objects using the accusative and dative cases
 Adjectives and demonstratives: dative accusative, and ablative cases
 
-Practice
+Practice with complex noun phrases
 In-class workshop: reading assignment for unit 1
-Sentence structures
+Recognizing sentence structures
 
 
 
-[Sum, esse, fui](../../../assignments/sum/)
+Sum, esse, fui
 In-class workshop: composition 1
 Sight-reading strategies
 
@@ -36,52 +36,55 @@ Sight-reading strategies
 
 # Unit 2: richer sentences
 
-Intensive and reflexive pronouns
+✏️Intensive and reflexive pronouns
 Time and place
-[Present indicative](../../../assignments/present-indicative/)
+✏️Prepositions
+
+✏️Present indicative
+Irregular verbs: ferō, ferre, tulī, lātus; eō, īre, iī/īvī, itūrus
 
 
-Irregular Verbs: ferō, ferre, tulī, lātus; eō, īre, iī/īvī, itūrus
-Nouns made [from verbs](../../../assignments/gerund/)
-[Possum](../../../assignments/possum/)
-
-
-
-
+Practice with pronouns
 Workshop: reading 2
-[Asking questions](../../../assignments/questions/), and review of indicative
-Workshop: [composition 2](../../../assignments/composition2/)
+Workshop: composition 2
 
 
+
+
+
+Asking questions, and review of indicative
 
 
 # Unit 3: subordination
 
-[Deliberative questions](../../../assignments/deliberative/) with the subjunctive
+Temporal clauses with the subjunctive
+✏️The imperfect and pluperfect subjunctive
 
-Class
-
-Introduction to [composition 3](../../../assignments/composition3-intro/), "Venus and Mars"
-
-[Indirect statement](../../../assignments/indirect/)
-
-Forming further tenses of the [subjunctive](../../../assignments/subjunctive2/)
+✏️Sequence of tenses: practice and review
+✏️Indirect
+Possum
+✏️Complementary infinitive with volo and nolo
 
 
-[Temporal clauses](../../../assignments/temporal-clauses/)
 
 
-Translation workshop
+
+
+
+
+In-class workshop: reading assignment 3
 *Thanksgiving break:  no class*
 *Thanksgiving break:  no class*
 
 
 
-Composition workshop
+
 
 In-class workshop: composition 3
-
 Review of requested topics or sight-reading practice
+Review of CBL experience
+
+In-class workshop: trouble-shooting final assignments
 Semester 1 review
 Preparing for Latin 102
 

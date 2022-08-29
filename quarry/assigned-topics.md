@@ -27,3 +27,14 @@ Applying indirect statement to composition 3. See breakout exercise("Some [peopl
 
 [The gerundive](../../../assignments/gerundive/)
 
+
+Nouns made [from verbs](../../../assignments/gerund/)
+
+
+[Deliberative questions](../../../assignments/deliberative/) with the subjunctive
+
+
+Introduction to [composition 3](../../../assignments/composition3-intro/), "Venus and Mars"
+
+
+Forming further tenses of the [subjunctive](../../../assignments/subjunctive2/)

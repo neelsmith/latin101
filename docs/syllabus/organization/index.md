@@ -10,26 +10,24 @@ nav_order: 4
 
 ## Textbook
 
-The fall semester course is organized in four modules centered on four major ideas about the ancient Greek language. On our course website, each module identifies concrete objectives that will help you achieve the broader course goals summarized above.
+The fall semester course is organized in three units. On our course website, each unit identifies concrete objectives that will help you achieve the broader course goals summarized above.  The three units correspond closely to the first three units of the online textbook we are revising for this year's course.  You can always find a current on-line version at [https://lingualatina.github.io/textbook/](https://lingualatina.github.io/textbook/).
 
 
-The four modules correspond closely to modules 1-4 in the textbook we will be using, which you can purchase directly from the Classics Department office. The text will be available this fall in two installments:  packet 1 will be available the first week of classes; packet 2 will be available after fall break.  In addition, you can always find a current on-line version at [https://hellenike.github.io/textbook/](https://hellenike.github.io/textbook/), and can always download a current PDF of the textbook from [https://github.com/hellenike/textbook/raw/main/pdf/hellenike.pdf](https://github.com/hellenike/textbook/raw/main/pdf/hellenike.pdf).
+In addition to introducing new features of Latin, each unit will include reading that connects the topics you are studying to contemporary experience, and will conclude with a reading selection from an authentic ancient text.  This year, our reading selections will be drawn from a mythological handbook attributed to Gaius Julius Hyginus.
+
+The textbook also has an accompanying youtube channel and playlist at [https://www.youtube.com/channel/UCyA2aidE3BiD3idsxrJr5Hg/videos](https://www.youtube.com/channel/UCyA2aidE3BiD3idsxrJr5Hg/videos).
 
 
-After introducing features of the ancient Greek language, each module of the textbook includes reading that connects the topics you are studying to contemporary experience, and concludes with a reading selection from an authentic ancient text.  This year, our reading selections will be drawn from a defense speech composed by the orator Lysias in a murder trial.
-
-
-Read sections 1 ("Hellênikê / ἑλληνική: an open-source introduction to ancient Greek") and 2 ("About this textbook") of the textbook to learn more about how the textbook is organized.
-
-
-The textbook also has an accompanying youtube channel and playlist at [https://www.youtube.com/playlist?list=PLhhpSgbqjgokrwa4HmReaGEptvqURz6Ns](https://www.youtube.com/playlist?list=PLhhpSgbqjgokrwa4HmReaGEptvqURz6Ns).
+.
 
 
 
 ## Technologies and mechanics of submitting assignments
 
+We will use three technologies for managing course material this year.
 
 
-All course material will be available on the course web site at [https://neelsmith.github.io/greek101/](https://neelsmith.github.io/greek101/).  You can use Canvas to submit written assignments, and to review your progress in completing graded assignments.
+1. All course material will be available on the **course web site** at [https://neelsmith.github.io/latin101/](https://neelsmith.github.io/latin101/).
+2. Grades will be recorded in **Canvas**. You can check Canvas to review your progress in completing graded assignments.
+3. [**Github**](https://github.com/) is the world's most widely used service for hosting projects with *version control* -- that is, tracking drafts and modifications to documents.  We'll use github to collaborate on drafts of your class preparation and portfolio assignments. Every github repository also includes the option of hosting a free web site on `github.io`, so you'll have the choice of sharing your entire portfolio or selections from it on a publicly visible website. This can be valuable beyond Latin 101:  many employers now are accustomed to finding a link to a github site as a standard part of job applications.  
 
-Written assignments should be written clearly and legibly in dark pencil on paper.  You can submit the assignments directly to Canvas if you have the Canvas Student app on a cell phone. If you do not have access to the Canvas Student app on a phone, please get in touch with me, and we can make arrangements for submitting your homework on paper.  If you have technical problems submitting an assignment, please get in touch with Educational Technology Services and ask for help.
