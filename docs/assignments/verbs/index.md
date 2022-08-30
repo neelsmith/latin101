@@ -2,8 +2,9 @@
 layout: page
 title: Verbs
 grand_parent: Course schedule
-parent: "Unit 1: an inflected language"
 nav_order: 7
+grand_parent: Schedule
+parent: "Unit 1: an inflected language"
 ---
 
 

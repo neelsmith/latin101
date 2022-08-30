@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introduction to course
-grand_parent: Course schedule
+grand_parent: Schedule
 parent: "Unit 1: an inflected language"
 nav_order: 0
 ---
@@ -15,8 +15,7 @@ nav_order: 0
 As background for our first class meeting, please:
 
 - find our course website at <https://neelsmith.github.io/latin101/>
-- read the page on "[Technologies we'll use](https://neelsmith.github.io/latin101/technologies/)," and create an account on github
-- watch Prof. Machado's [video introducing inflection in Latin](https://www.youtube.com/watch?v=5g1sz9qRNJ0&feature=youtu.be)
+
 
 ## Assignment
 
