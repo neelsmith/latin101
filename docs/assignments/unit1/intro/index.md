@@ -17,6 +17,9 @@ As background for our first class meeting, please:
 - find our course website at <https://neelsmith.github.io/latin101/>
 
 
+In class, we will introduce the pronounciation of classical Latin.  Review that material by readint the [Preliminaries](https://lingualatina.github.io/textbook/preliminaries/) section of our textbook.
+
+
 ## Assignment
 
 Your assignment for today (which counts as one of 20 short assignments you will complete this semester) is to [fill out this brief Google form](https://forms.gle/EbBtosoLM6oc4phDA).  (You'll need to login to Google with your Holy Cross ID to get access to the form.)
