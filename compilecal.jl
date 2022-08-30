@@ -2,6 +2,10 @@ using Pkg
 Pkg.activate(".")
 Pkg.instantiate()
 using CourseCalendar
+using Dates
+
+rightnow = now()
+datestr = string(monthname(rightnow), " ", day(rightnow), ", ", year(rightnow))
 
 calfile = joinpath(pwd(), "F22", "calendar1.toml")
 topics = joinpath(pwd(), "F22", "topics1.txt")
@@ -14,6 +18,8 @@ layout: page
 nav_order: 1
 has_children: true
 ---
+
+Last updated:  *$(datestr)*
 
 # Class schedule
 
