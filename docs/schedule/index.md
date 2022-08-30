@@ -21,7 +21,7 @@ Deadlines to note:
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Aug 29*, *Aug 31*, *Sep 2* | *no classes* | [Introduction](../../../assignments/unit1/intro/) to course | ✏️Introduction to verbs: [the perfect active](../../../assignments/unit1/verbs/) | **Mon**: *Advising: no classes.* |
+| *Aug 29*, *Aug 31*, *Sep 2* | *no classes* | [Introduction](../../assignments/unit1/intro/) to course | ✏️Introduction to verbs: [the perfect active](../../assignments/unit1/verbs/) | **Mon**: *Advising: no classes.* |
 | *Sep 5*, *Sep 7*, *Sep 9* | ✏️The perfect passive | ✏️The imperfect tense | Practice with verbs |  |
 | *Sep 12*, *Sep 14*, *Sep 16* | ✏️Nouns: genitive cases | ✏️Adjectives: nominative and genitive cases | Demonstratives: nominative and genitive cases |  |
 | *Sep 19*, *Sep 21*, *Sep 23* | The agent of passive verbs: the ablative case | ✏️Direct and indirect objects using the accusative and dative cases | Adjectives and demonstratives: dative accusative, and ablative cases |  |
