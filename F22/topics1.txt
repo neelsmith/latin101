@@ -3,8 +3,8 @@
 
 
 *no classes*
-[Introduction](../../../assignments/intro/) to course
-✏️Introduction to verbs: [the perfect active](../../../assignments/verbs/)
+[Introduction](../../../assignments/unit1/intro/) to course
+✏️Introduction to verbs: [the perfect active](../../../assignments/unit1/verbs/)
 
 ✏️The perfect passive
 ✏️The imperfect tense
