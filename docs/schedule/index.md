@@ -5,6 +5,8 @@ nav_order: 1
 has_children: true
 ---
 
+Last updated:  *August 30, 2022*
+
 # Class schedule
 
 Deadlines to note:
