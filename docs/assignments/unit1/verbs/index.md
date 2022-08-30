@@ -12,6 +12,7 @@ parent: "Unit 1: an inflected language"
 
 ## Assignment
 
+
 Read the following (brief!) sections of our course textbook:
 
 - [inflection](https://lingualatina.github.io/textbook/topics/unit1/inflection/)
@@ -26,9 +27,19 @@ Memorize the endings for the third person in the *perfect active indicative*:
 | third | -it | -ērunt |
 
 
+
+### Written assignment
+
+Answer the questions on [this page](https://lingualatina.github.io/textbook/practice/unit1/principal-parts/) *using full sentences*.  E.g., if the question is, "What time is your first class today?," don't just anwer "9:00"; answer "My first class is at 9:00."
+
+To submit your assignment:
+
+- In your github repository, create a new file named `hw1.md`
+- Type or paste your answers in this file, and use the green `Commit` button to save your content in your repository.
+
+
 ## Optional
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3W-s_L82MLc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Watch the following video:
 
-1. watch the video above
-2. [read this section](https://lingualatina.github.io/textbook/presentation/02-verbs/overview/) of our on-line textbook
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3W-s_L82MLc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
