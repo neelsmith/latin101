@@ -4,3 +4,5 @@ docs/Gemfile
 .jekyll-cache/
 _site/
 printable/syllabus.md
+F20/slides/classes/*.html
+F22/slides/classes/*.html
