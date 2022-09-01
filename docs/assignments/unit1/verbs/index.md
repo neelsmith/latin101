@@ -18,6 +18,7 @@ Read the following (brief!) sections of our course textbook:
 - [inflection](https://lingualatina.github.io/textbook/topics/unit1/inflection/)
 - [Latin verbs](https://lingualatina.github.io/textbook/topics/unit1/verbs/)
 - [finite verb forms](https://lingualatina.github.io/textbook/topics/unit1/finiteverbs/)
+- [principal parts](https://lingualatina.github.io/textbook/topics/unit1/principalparts/)
 - [the perfect active indicative](https://lingualatina.github.io/textbook/topics/unit1/perfectactive/)
 
 Memorize the endings for the third person in the *perfect active indicative*:
