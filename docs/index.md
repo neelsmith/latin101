@@ -11,18 +11,18 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
 
 ## Announcements
 
-- Brief introduction to [pronouncing Latin](https://lingualatina.github.io/textbook/preliminaries/)
-- To prepare for the beginning of the semester, please complete [this confidential Google form](https://forms.gle/Wm1tyXVYTfzhTb8q7) by **Tuesday, Aug. 30, at 5:00 pm**. You’ll receive credit for satisfactory completion of 1 homework assignment if you do so.
+
+- Monday: check-in on memorization of first 6 verbs in [unit 1 vocabulary list](./assignments/unit1/vocab1/).
+- For review: brief introduction to [pronouncing Latin](https://lingualatina.github.io/textbook/preliminaries/)
+- **Tues., Sept. 20**, change in office hours for this date only: 10:45-12:30
 
 
 
-## Week at a glance: Aug. 31 - Sept. 2
+## Week at a glance: Sept. 5-9
 
-- introduction to the course
-- we learn about **inflection**, and learn to read Latin verbs in the **perfect tense**
-
+- we add the passive voice of the perfect tense, and learn a second way to talk about the past:  the **imperfect** tense
+- Friday's class includes a visit from the Classics Department Peer Tutors
 
 ## Due dates
 
-- confidential informational survey due by 5:00, Aug. 30
-- first written homework due by 5:00, Sept. 2
+- written class preparation due Sept. 5, Sept. 7
