@@ -6,8 +6,8 @@
 [Introduction](../assignments/unit1/intro/) to course
 ✏️Introduction to verbs: [the perfect active](../assignments/unit1/verbs/)
 
-✏️The perfect passive
-✏️The imperfect tense
+✏️The [perfect passive](../assignments/unit1/pftpassive/)
+✏️The [imperfect tense](../assignments/unit1/imperfect/)
 Practice with verbs
 
 

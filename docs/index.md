@@ -12,7 +12,7 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
 ## Announcements
 
 
-- Monday: check-in on memorization of first 6 verbs in [unit 1 vocabulary list](./assignments/unit1/vocab1/).
+- **Monday, Sept. 5**: check-in on memorization of first 6 verbs in [unit 1 vocabulary list](./assignments/unit1/vocab1/).
 - For review: brief introduction to [pronouncing Latin](https://lingualatina.github.io/textbook/preliminaries/)
 - **Tues., Sept. 20**, change in office hours for this date only: 10:45-12:30
 
