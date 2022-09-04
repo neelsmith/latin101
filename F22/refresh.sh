@@ -6,18 +6,17 @@ export CP=`which cp`
 export CAT=`which cat`
 
 export ROOT=`pwd`/repos
-
+echo "Root directory for repos is " $ROOT
 export REPOLIST=repos.txt
-#export REPOLIST=ava.txt
 
 for REPONAME in $(cat $REPOLIST) ; do
   REPOPATH=https://github.com/$REPONAME
   UNAME=${REPONAME%/*}
-  echo $REPOPATH
-  if [ ! -d $REPONAME ]
+  echo $REPONAME
+  if [ ! -d $ROOT/$REPONAME ]
   then
     echo "Making directory " $REPONAME
-    mkdir -p $REPONAME
+    mkdir -p $ROOT/$UNAME
     echo "Cloning " $REPOPATH
     (cd $ROOT/$UNAME && $GIT clone $REPOPATH)
   else
