@@ -57,7 +57,7 @@ Your course grade will be recorded from this table.  In the row for each grade, 
 | --- | --- | --- | --- |
 | A | 18 | 26 |  11 | 
 | A- | 18 | 25 |  10 | 
-| B+ | 18 | 25 |  10 | 
+| B+ | 17 | 25 |  10 | 
 | B | 16 | 24 |  9| 
 | B- | 15 | 23 |   2 | 
 | C+ | 14 | 23 |   2 | 
