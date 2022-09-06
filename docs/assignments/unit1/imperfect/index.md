@@ -11,7 +11,15 @@ parent: "Unit 1: an inflected language"
 
 In your online textbook, read "[The imperfect indicative](https://lingualatina.github.io/textbook/topics/unit1/imperfect/)".
 
-Complete the following chart (called a *synopsis*) with the **third-person singular** forms of *amo*:
+
+
+
+### Written assigment
+
+Please create a file named `hw3.md` in your github repository, and answer the following questions.  
+
+
+Complete the following chart (called a *synopsis*) with the **third-person singular** forms of *amo*.  (In your homework, you may simply list the "tense/mood" label and then the correct Latin form, or if you prefer you may format a table in markdown.)
 
 | Tense/mood | form |
 | --- | --- |
