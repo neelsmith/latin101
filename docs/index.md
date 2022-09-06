@@ -12,7 +12,6 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
 ## Announcements
 
 
-- **Mon., Sept. 5**: Classics Department Open House, 3-5 in Stein Courtyard. Join us for food and a chance to meet other people who love learning Latin!
 - **Wed., Sept. 7**: check-in on memorization of first 6 verbs in [unit 1 vocabulary list](./modules/unit1/vocab1/).
 - **Fri., Sept. 9**: summer research symposium in Hogan Ballroom, 12:00-3:00. Visit a poster on research with Greek manuscripts by Rose Kaczmarek ‘23!
 - **Tues., Sept. 20**, change in office hours for this date only: 10:45-12:30
