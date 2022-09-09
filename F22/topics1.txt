@@ -11,7 +11,7 @@
 [Practice](../assignments/unit1/verbs-practice/) with verbs
 
 
-✏️Nouns: genitive cases
+✏️[Nouns](../assignments/unit1/nouns/): nominative and genitive cases
 ✏️Adjectives: nominative and genitive cases
 Demonstratives: nominative and genitive cases
 

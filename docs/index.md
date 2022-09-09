@@ -11,11 +11,9 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
 
 ## Announcements
 
-
-- **Wed., Sept. 7**:check-in on how to identify a finite verb form: 5 pieces of information plus first principal part.
-- **Fri., Sept. 9**: check-in on memorization of first 6 verbs in [unit 1 vocabulary list](./modules/unit1/vocab1/).
-- **Fri., Sept. 9**: summer research symposium in Hogan Ballroom, 12:00-3:00. Visit a poster on research with Greek manuscripts by Rose Kaczmarek ‘23!
-- **Mon., Sept. 14**: class will include brief orientation to CBL work led by CBL office
+- **Mon., Sept. 12**: check-in on recognizing conjugation of first 6 verbs in [unit 1 vocabulary list](./modules/unit1/vocab1/).
+- **Wed., Sept. 14**: class will include brief orientation to CBL work led by CBL office
+- **Fri., Sept. 16**: check-in on recognizing conjugation of all verbs in [unit 1 vocabulary list](./modules/unit1/vocab1/).
 - **Tues., Sept. 20**, change in office hours for this date only: 10:45-12:30
 
 
