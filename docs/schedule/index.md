@@ -5,7 +5,7 @@ nav_order: 1
 has_children: true
 ---
 
-Last updated:  *September 5, 2022*
+Last updated:  *September 9, 2022*
 
 # Class schedule
 
@@ -23,7 +23,7 @@ Deadlines to note:
 | ---: | :--- | :--- | :--- | :--- |
 | *Aug 29*, *Aug 31*, *Sep 2* | *no classes* | [Introduction](../assignments/unit1/intro/) to course | ✏️Introduction to verbs: [the perfect active](../assignments/unit1/verbs/) | **Mon**: *Advising: no classes.* |
 | *Sep 5*, *Sep 7*, *Sep 9* | ✏️The [perfect passive](../assignments/unit1/pftpassive/) | ✏️The [imperfect tense](../assignments/unit1/imperfect/) | [Practice](../assignments/unit1/verbs-practice/) with verbs |  |
-| *Sep 12*, *Sep 14*, *Sep 16* | ✏️Nouns: genitive cases | ✏️Adjectives: nominative and genitive cases | Demonstratives: nominative and genitive cases |  |
+| *Sep 12*, *Sep 14*, *Sep 16* | ✏️[Nouns](../assignments/unit1/nouns/): nominative and genitive cases | ✏️Adjectives: nominative and genitive cases | Demonstratives: nominative and genitive cases |  |
 | *Sep 19*, *Sep 21*, *Sep 23* | The agent of passive verbs: the ablative case | ✏️Direct and indirect objects using the accusative and dative cases | Adjectives and demonstratives: dative accusative, and ablative cases |  |
 | *Sep 26*, *Sep 28*, *Sep 30* | Practice with complex noun phrases | In-class workshop: reading assignment for unit 1 | Recognizing sentence structures | **Wed**: *📜 Mastering unit 1 forms due.* **Fri**: *📜 Reading assignment 1 due.* |
 | *Oct 3*, *Oct 5*, *Oct 7* | Sum, esse, fui | In-class workshop: composition 1 | Sight-reading strategies | **Fri**: *Last class before fall break.* **Fri**: *📜 Composition 1 due.* |
