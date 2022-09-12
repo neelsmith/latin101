@@ -17,16 +17,11 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
 - **Tues., Sept. 20**, change in office hours for this date only: 10:45-12:30
 
 
+## Week at a glance: Sept. 12-16
 
-
-## Week at a glance: Sept. 5-9
-
-
-
-- For review: brief introduction to [pronouncing Latin](https://lingualatina.github.io/textbook/preliminaries/)
-- we add the *passive voice* of the perfect tense, and learn a second way to talk about the past:  the **imperfect** tense
-- Friday's class includes a visit from the Classics Department Peer Tutors
+- we learn how to describe one noun with another noun using the **genitive case**
+- we how to use **nouns**, **adjectives** and **demonstrative pronouns** together
 
 ## Due dates
 
-- written class preparation due Sept. 5, Sept. 7
+- written class preparation due Sept. 12, Sept. 16
