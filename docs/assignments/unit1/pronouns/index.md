@@ -53,7 +53,26 @@ Memorize the nominative and genitive forms of these three pronouns:
 
 ##  Written assignment
 
-In your github repository, create a file named `hw5.md`.  Copy the English sentences into your file, and express the **highlighted phrases** with a Latin expression.
+In your github repository, create a file named `hw5.md`.  Copy the English sentences into your file, and express the **highlighted phrases** with a Latin expression using nouns and adjectives from the [unit 1 vocabulary list](https://neelsmith.github.io/latin101/modules/unit1/vocab1/). In addition, use the Latin forms of these names, and the irregular imperfect tense forms of the verb "to be" *erat* (third singular imperfect indicative active) and *erant* (third plural imperfect indicative active)
 
+- Caludon, Caludonis, f., "Calydon" (a Greek town)
+- Hercules, Herculis, m. "Hercules"
+- Meleager, Meleagri, m. "Meleager"
 
-1. 
+Regular first declension feminine names:
+
+- Deianira
+- Althaea
+
+Regular second declension masculine names:
+
+- Oineus
+- Thestius
+- Dexamenus
+
+1. **Meleager was the son of Oineus, king of Calydon**.
+1. **His mother was Althaea**.
+1. **That woman was the daughter of Thestius**.
+1. **The brothers of Althaea were killed** by Meleager.
+2. **A large number of his sisters** were changed into birds, but not **the beautiful Deianira**.
+3. **She was the daughter of Dexamenus**, according to some stories, but **the daughter of Oineus** in other versions.
