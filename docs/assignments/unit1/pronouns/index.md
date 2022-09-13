@@ -53,7 +53,7 @@ Memorize the nominative and genitive forms of these three pronouns:
 
 ##  Written assignment
 
-In your github repository, create a file named `hw5.md`.  Copy the English sentences into your file, and express the **highlighted phrases** with a Latin expression.
+In your github repository, create a file named `hw5.md`.  Copy the English sentences into your file, and express the **highlighted phrases** with a Latin expression using nouns and adjectives from the [unit 1 vocabulary list](https://neelsmith.github.io/latin101/modules/unit1/vocab1/).
 
 
 1. 
