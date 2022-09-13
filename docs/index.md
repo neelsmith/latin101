@@ -25,3 +25,11 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
 ## Due dates
 
 - written class preparation due Sept. 12, Sept. 16
+
+
+## Review
+
+Use this video to review the formation of the perfect and imperfect tenses:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ghll0S0AxsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
