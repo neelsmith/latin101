@@ -11,6 +11,7 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
 
 ## Announcements
 
+- **unit 1 vocabulary** updated with nouns and adjectives as well as verbs
 - **Wed., Sept. 14**: class will include brief orientation to CBL work led by CBL office
 - **Fri., Sept. 16**: check-in on recognizing conjugation of all verbs in [unit 1 vocabulary list](./modules/unit1/vocab1/).
 - **Mon., Sept. 19**: check-in on vocabulary: nouns for family relationships (father, mother, son, daugther, *et cetera*)
