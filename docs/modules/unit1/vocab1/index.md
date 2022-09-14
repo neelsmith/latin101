@@ -40,11 +40,11 @@ The only long vowel mark you need to memorize are in the **second principal part
 - frater, fratris, m. "brother"
 - homo, hominis, m. "person, human being"
 - insula, insulae, f. "island"
-- mare, maris, n. "sea"
+- mare, maris, n. "sea" (*-i stem*)
 - mater, matris, f. "mother"
 - mons, montis, m. "mountain"
 - mors, mortis, f. "death"
-- nauis, nauis, f. "ship"
+- nauis, nauis, f. "ship" (*-i stem*)
 - numerus, numeri, m. "number"
 - nomen, nominis, n. "name"
 - pater, patris, m. "father"
