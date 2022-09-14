@@ -11,7 +11,7 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
 
 ## Announcements
 
-
+- **Mon., Sept. 19**: check-in on vocabulary: nouns for family relationships (father, mother, son, daugther, *et cetera*)
 - **Wed., Sept. 14**: class will include brief orientation to CBL work led by CBL office
 - **Fri., Sept. 16**: check-in on recognizing conjugation of all verbs in [unit 1 vocabulary list](./modules/unit1/vocab1/).
 - **Tues., Sept. 20**, change in office hours for this date only: 10:45-12:30
@@ -22,20 +22,29 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
 - we learn how to describe one noun with another noun using the **genitive case**
 - we how to use **nouns**, **adjectives** and **demonstrative pronouns** together
 
-Summary of noun endings, first-declension
+New content to memorize:  
+
+- memorize all the nouns for family relations in the [unit 1 vocabulary list](./modules/unit1/vocab1/)
+- memorize the nominative and genitive case endings summarized here, and the nominative and genitive cases of the pronous *is/ea/id*, *hic/haec/hoc* and *ille, illa, illud*.
+
+
+Summary of noun endings: endings marked ‼️ represent more than one  value for case+number.
+
+
+First-declension:
 
 
 | Case | Singular | Plural |
 | --- | --- | --- |
-| Nominative | -a | -ae |
-| Genitive | -ae | -arum |
+| Nominative | -a | -ae‼️ |
+| Genitive | -ae‼️ | -arum |
 
 Second declension:
 
 | Case | Singular | Plural |
 | --- | --- | --- |
-| Nominative | -us *or* - (m.), -um (n.) | -i (m.), -a (n.) |
-| Genitive | -i | -orum |
+| Nominative | -us *or* - (m.), -um‼️ (n.) | -i (m.)‼️, -a (n.) |
+| Genitive | -i‼️ | -orum |
 
 Third declension:
 
@@ -43,7 +52,7 @@ Third declension:
 | Case | Singular | Plural |
 | --- | --- | --- |
 | Nominative | (varies) | -es (m., f.), -a (n.), -ia (n. i-stem) |
-| Genitive | -is | -um, -ium (i-stem) |
+| Genitive | -is | -um‼️, -ium (i-stem) |
 
 ## Due dates
 
