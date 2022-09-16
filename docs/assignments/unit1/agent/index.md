@@ -11,7 +11,45 @@ parent: "Unit 1: an inflected language"
 # Agent with passive verbs
 
 
-In your textbook, read the section on the [personal agent of passive verbs](https://lingualatina.github.io/textbook/topics/unit1/agent/),  memorize the ablative endings for each declension.
 
-Read this article about the [passive voice and expressions for agent in English and Latin](https://eidolon.pub/object-ifying-language-fd8d3d75cb6f).
+First, read this article about the [passive voice and expressions for agent in English and Latin](https://eidolon.pub/object-ifying-language-fd8d3d75cb6f).
+
+
+Then, in your textbook, read the section on the [personal agent of passive verbs](https://lingualatina.github.io/textbook/topics/unit1/agent/),  memorize the ablative endings for each declension.
+
+In class, we will sight-read an unaltered passage of Hyginus!
+
+## Endings to memorize
+
+
+
+First declension:
+
+| Singular | Plural |
+| --- | --- |
+| -ā | is |
+
+Second declension:
+
+| Singular | Plural |
+| --- | --- |
+| -o | is |
+
+
+Third declension:
+
+| Singular | Plural |
+| --- | --- |
+| -e | ibus |
+
+
+Third declension i-stems:
+
+
+| Singular | Plural |
+| --- | --- |
+| -i | ibus |
+
+
+
 
