@@ -15,7 +15,7 @@
 [Adjectives](../assignments/unit1/adjectives/): nominative and genitive cases
 ✏️[Demonstratives](../assignments/unit1/pronouns/): nominative and genitive cases
 
-The agent of passive verbs: the ablative case
+The [agent](../assignments/unit1/agent/) of passive verbs: the ablative case
 ✏️Direct and indirect objects using the accusative and dative cases
 Adjectives and demonstratives: dative accusative, and ablative cases
 
