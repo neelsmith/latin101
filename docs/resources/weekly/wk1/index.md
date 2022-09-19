@@ -1,3 +1,13 @@
+---
+title: "Week at a glance: Aug. 31 - Sept. 2"
+
+parent: "Other resources and review"
+layout: page
+nav_order: 1
+has_children: true
+---
+
+
 
 ## Week at a glance: Aug. 31 - Sept. 2
 
