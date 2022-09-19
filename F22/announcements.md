@@ -2,6 +2,8 @@
 
 
 
+- **unit 1 vocabulary** updated with nouns and adjectives as well as verbs
+- **Fri., Sept. 16**: check-in on recognizing conjugation of all verbs in [unit 1 vocabulary list](./modules/unit1/vocab1/).
 - **Wed., Sept. 14**: class will include brief orientation to CBL work led by CBL office
 - **Mon., Sept. 12**: check-in on recognizing conjugation of first 6 verbs in [unit 1 vocabulary list](./modules/unit1/vocab1/).
 - **Fri., Sept. 9**: check-in on memorization of first 6 verbs in [unit 1 vocabulary list](./modules/unit1/vocab1/).
