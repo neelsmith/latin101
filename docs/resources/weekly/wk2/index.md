@@ -1,3 +1,13 @@
+---
+title: "Week at a glance: Sept. 5-9"
+
+parent: "Other resources and review"
+layout: page
+nav_order: 2
+has_children: true
+---
+
+
 
 ## Week at a glance: Sept. 5-9
 

@@ -16,7 +16,7 @@
 ✏️[Demonstratives](../assignments/unit1/pronouns/): nominative and genitive cases
 
 The [agent](../assignments/unit1/agent/) of passive verbs: the ablative case
-✏️Direct and indirect objects using the accusative and dative cases
+✏️Direct and indirect [objects](../assignments/unit1/objects/) using the accusative and dative cases
 Adjectives and demonstratives: dative accusative, and ablative cases
 
 Practice with complex noun phrases
