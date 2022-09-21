@@ -111,3 +111,29 @@ Plural
 | Dative |	illīs |	illīs |	illīs |
 | Accusative |	illōs |	illās |	illa |
 | Ablative |	illīs |	illīs |	illīs |
+
+
+## *hic, haec, hoc*
+
+Singular 
+
+| Case |	Masculine |	Feminine |	Neuter |
+| --- | --- | --- | --- |
+| Nominative | 	hic | 	haec | 	hoc |
+| Genitive | 	huius | 	huius | 	huius |
+| Dative | 	huic | 	huic | 	huic |
+| Accusative | 	hunc | 	hanc | 	hoc |
+| Ablative | 	hōc | 	hāc | 	hōc |
+
+
+Plural
+
+| Case |	Masculine |	Feminine |	Neuter |
+| --- | --- | --- | --- |
+| Nominative | 	hī | 	hae | 	haec |
+| Genitive | 	hōrum | 	hārum | 	hōrum |
+| 	hīs | 	hīs | 	hīs | 
+| | Accusative | 	hōs | 	hās | 	haec |
+| Ablative | 	hīs | 	hīs | 	hīs |
+
+
