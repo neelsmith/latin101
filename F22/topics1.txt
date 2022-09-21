@@ -17,7 +17,7 @@
 
 The [agent](../assignments/unit1/agent/) of passive verbs: the ablative case
 ✏️Direct and indirect [objects](../assignments/unit1/objects/) using the accusative and dative cases
-Adjectives and demonstratives: dative accusative, and ablative cases
+[Adjectives](../assignments/unit1/adjectives-all/) and demonstratives: dative accusative, and ablative cases
 
 Practice with complex noun phrases
 In-class workshop: reading assignment for unit 1
