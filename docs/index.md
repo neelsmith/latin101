@@ -12,6 +12,10 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
 ## Announcements
 
 - Deadlines for first two portfolio assignments extended: see revised schedule
+- Links to Unit 1 portfolio assignments:
+    - [mastery of forms](./assignments/unit1/mastery/)
+    - [analysis and translation](./assignments/unit1/reading/)
+    - [composition](./assignments/unit1/composition/)
 
 
 ## Week at a glance: Sept. 26 - Sept. 30

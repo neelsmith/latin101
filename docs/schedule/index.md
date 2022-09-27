@@ -25,8 +25,8 @@ Deadlines to note:
 | *Sep 5*, *Sep 7*, *Sep 9* | ✏️The [perfect passive](../assignments/unit1/pftpassive/) | ✏️The [imperfect tense](../assignments/unit1/imperfect/) | [Practice](../assignments/unit1/verbs-practice/) with verbs |  |
 | *Sep 12*, *Sep 14*, *Sep 16* | ✏️[Nouns](../assignments/unit1/nouns/): nominative and genitive cases | [Adjectives](../assignments/unit1/adjectives/): nominative and genitive cases | ✏️[Demonstratives](../assignments/unit1/pronouns/): nominative and genitive cases |  |
 | *Sep 19*, *Sep 21*, *Sep 23* | The [agent](../assignments/unit1/agent/) of passive verbs: the ablative case | ✏️Direct and indirect [objects](../assignments/unit1/objects/) using the accusative and dative cases | [Adjectives](../assignments/unit1/adjectives-all/) and demonstratives: dative accusative, and ablative cases |  |
-| *Sep 26*, *Sep 28*, *Sep 30* | Practice with complex noun phrases | In-class workshop: reading assignment for unit 1 | Recognizing sentence structures | **Fri**: *📜 Mastering unit 1 forms due.* |
-| *Oct 3*, *Oct 5*, *Oct 7* | The verb "to be" (*sum*) | In-class workshop: composition 1 | Sight-reading strategies | **Fri**: *Last class before fall break.* **Mon**: *📜 Reading assignment 1 due.* **Fri**: *📜 Composition 1 due.* |
+| *Sep 26*, *Sep 28*, *Sep 30* | Practice with complex noun phrases | In-class workshop: reading assignment for unit 1 | Recognizing sentence structures | **Fri**: *📜 Mastering [unit 1 forms](../assignments/unit1/mastery/) due.* |
+| *Oct 3*, *Oct 5*, *Oct 7* | The verb "to be" (*sum*) | In-class workshop: composition 1 | Sight-reading strategies | **Fri**: *Last class before fall break.* **Mon**: *📜 [Reading](../assignments/unit1/reading/)  assignment 1 due.* **Fri**: *📜 [Composition](../assignments/unit1/composition/)  1 due.* |
 | *Oct 10*, *Oct 12*, *Oct 14* | *fall break* | *fall break* | *fall break* |  |
 
 # Unit 2: richer sentences
