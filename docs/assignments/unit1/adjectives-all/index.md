@@ -132,8 +132,8 @@ Plural
 | --- | --- | --- | --- |
 | Nominative | 	hī | 	hae | 	haec |
 | Genitive | 	hōrum | 	hārum | 	hōrum |
-| 	hīs | 	hīs | 	hīs | 
-| | Accusative | 	hōs | 	hās | 	haec |
+| 	Dative | hīs | 	hīs | 	hīs | 
+|  Accusative | 	hōs | 	hās | 	haec |
 | Ablative | 	hīs | 	hīs | 	hīs |
 
 
