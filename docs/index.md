@@ -11,24 +11,18 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
 
 ## Announcements
 
-- Lewis-Short *[Latin Dictionary](http://folio2.furman.edu/lewis-short/index.html)*
-- **Mon., Sept. 19**:  bring a laptop to class: we'll be looking up and making background notes on some of the content we'll see in sight reading today.
-- **Mon., Sept. 19**: check-in on vocabulary: nouns for family relationships (father, mother, son, daugther, *et cetera*)
-- **Tues., Sept. 20**, change in office hours for this date only: 10:45-12:30
+- Deadlines for first two portfolio assignments extended: see revised schedule
 
 
+## Week at a glance: Sept. 26 - Sept. 30
 
+We introduce the use of the ablative to express *instrument* or *means*.
 
-## Week at a glance: Sept. 19-25
+We continue to review unit 1 material, and workshop portfolio assignments in class, with special emphasis on:
 
-This week we complete our introduction to nouns.  We learn the following constructions:
+- use of cases to express function of nouns
+- agreement of adjectives and nouns
 
-- expressing the agent of passive verbs using *ab* + the *ablative* case
-- direct objects using the *accusative* case
-- indirect objects using the *dative* case
+### Due dates
 
-This will be the last new grammar we introduce in Unit 1.
-
-## Due dates
-
-Daily assignments: Sept. 21, direct and indirect objects.
+Portfolio assignment: mastering unit 1 forms: Friday, Sept. 30

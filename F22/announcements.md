@@ -1,7 +1,9 @@
 # Announcements - archive
 
 
-
+- **Mon., Sept. 19**:  bring a laptop to class: we'll be looking up and making background notes on some of the content we'll see in sight reading today.
+- **Mon., Sept. 19**: check-in on vocabulary: nouns for family relationships (father, mother, son, daugther, *et cetera*)
+- **Tues., Sept. 20**, change in office hours for this date only: 10:45-12:30
 - **unit 1 vocabulary** updated with nouns and adjectives as well as verbs
 - **Fri., Sept. 16**: check-in on recognizing conjugation of all verbs in [unit 1 vocabulary list](./modules/unit1/vocab1/).
 - **Wed., Sept. 14**: class will include brief orientation to CBL work led by CBL office

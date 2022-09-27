@@ -1,22 +1,11 @@
----
-layout: page
-title: "Adjectives and pronouns: all cases"
-grand_parent: Course schedule
-nav_order: 28
-grand_parent: Schedule
-parent: "Unit 1: an inflected language"
----
+
 
 # Adjectives and pronouns: all cases
 
-You've already seen that adjectives use the same endings as nouns in the nominative and genitive: this is true in all the other cases, too.  
-
-The pronouns *is/ea/id*, *ille/illa/illud* and *hic/haec/hoc* also predominantly show the same forms as 2-1-2 adjectives.  Review the endings for 2-1-2 and third-declension adjectives, then memorize the forms of the pronouns that depart from those regular endings.
 
 
 ## 2-1-2 adjectives
  
-The full declension of the 2-1-2 adjective *magnus, magna, magnum* is:
 
 | Case |	Masculine |	Feminine |	Neuter |
 | --- | --- | --- | --- |
@@ -26,7 +15,8 @@ The full declension of the 2-1-2 adjective *magnus, magna, magnum* is:
 | Accusative |	magn-um |	magn-am |	magn-um |
 | Ablative |	magn-ō |	magn-ā |	magn-ō |
 
-| Case |	Masculine	Feminine |	Neuter
+| Case |	Masculine	| Feminine |	Neuter
+| --- | --- | --- | --- |
 | Nominative |	magn-ī |	magn-ae |	magn-a |
 | Genitive |	magn-ōrum |	magn-ārum |	magn-ōrum |
 | Dative |	magn-īs |	magn-īs |	magn-īs |
