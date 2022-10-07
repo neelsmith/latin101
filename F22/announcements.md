@@ -1,6 +1,7 @@
 # Announcements - archive
 
 
+- Deadlines for first two portfolio assignments extended: see revised schedule
 - **Mon., Sept. 19**:  bring a laptop to class: we'll be looking up and making background notes on some of the content we'll see in sight reading today.
 - **Mon., Sept. 19**: check-in on vocabulary: nouns for family relationships (father, mother, son, daugther, *et cetera*)
 - **Tues., Sept. 20**, change in office hours for this date only: 10:45-12:30

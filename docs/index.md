@@ -11,22 +11,17 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
 
 ## Announcements
 
-- Deadlines for first two portfolio assignments extended: see revised schedule
 - Links to Unit 1 portfolio assignments:
     - [mastery of forms](./assignments/unit1/mastery/)
     - [analysis and translation](./assignments/unit1/reading/)
     - [composition](./assignments/unit1/composition/)
 
 
-## Week at a glance: Sept. 26 - Sept. 30
 
-We introduce the use of the ablative to express *instrument* or *means*.
+## Week at a glance: Oct. 17 - Oct. 21
 
-We continue to review unit 1 material, and workshop portfolio assignments in class, with special emphasis on:
-
-- use of cases to express function of nouns
-- agreement of adjectives and nouns
+This week we learn how to use the familiar forms of substantives to express ideas about time and place, including with prepositions.  We also learn two new pronouns, the *intensive* and *reflexive* pronouns.
 
 ### Due dates
 
-Portfolio assignment: mastering unit 1 forms: Friday, Sept. 30
+- written class preparation Oct. 19, Oct. 21
