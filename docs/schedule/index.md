@@ -5,7 +5,7 @@ nav_order: 1
 has_children: true
 ---
 
-Last updated:  *September 27, 2022*
+Last updated:  *October 7, 2022*
 
 # Class schedule
 
@@ -33,7 +33,7 @@ Deadlines to note:
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Oct 17*, *Oct 19*, *Oct 21* | ✏️Intensive and reflexive pronouns | Time and place | ✏️Prepositions | **Mon**: *Classes resume.* |
+| *Oct 17*, *Oct 19*, *Oct 21* | Time and place | ✏️Intensive and reflexive pronouns | ✏️Prepositions | **Mon**: *Classes resume.* |
 | *Oct 24*, *Oct 26*, *Oct 28* | ✏️Present indicative | Irregular verbs: ferō, ferre, tulī, lātus; eō, īre, iī/īvī, itūrus | Practice with pronouns | **Fri**: *📜 Mastering unit 2 forms due.* **Mon**: *⚠️ **Last day to submit revisions of unit 1 assignments**.* |
 | *Oct 31*, *Nov 2*, *Nov 4* | Workshop: reading 2 | Workshop: composition 2 | Asking questions, and review of indicative | **Wed**: *📜 Reading assignment 2 due.* **Fri**: *📜 Composition 2 due.* |
 
