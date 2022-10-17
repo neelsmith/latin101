@@ -8,7 +8,7 @@ parent: "Unit 2: richer sentences"
 ---
 
 
-# Reflexive Pronouns
+# The reflexive pronoun
 
 When a pronoun *not* in  the nominative case refers back to the subject of the sentence, we call this a *reflexive pronoun* (from the Latin verb *reflecto* “to turn back”). In English, reflexive pronouns are usually expressed with the suffix "-self" or "-selves." For example, in the English sentence "She loved her," *her* refers to someone other than the subject of the sentence. The subject and the direct object are different people.  But in the sentence "She loved *herself*," *herself* refers to the same person as the subject.  The subject (which would in the nominative case in Latin) and the direct object (which would be in the accusative case in Latin) refer to the same person.
 
@@ -41,3 +41,27 @@ Although it might at first glance seem confusing that the same forms are used fo
 - Amat sē. (“She loves herself,” or "He loves himself").  *se* must be singular
 - Amant sē. (“They love themselves.”) *se* can only be plural because it refers to the subject of a plural verb.
 
+
+
+## Written assignment
+
+In your github repository, create a file named `hw7.md`.  Identify the pronouns in the following sentences, and translate into English, using the following vocabulary notes:
+
+- *penna, pennae*, f., "feather, wing"
+- *Ariadnen*: Greek name, "Ariadne," in accusative singular.
+- *gladium, gladii*, n., "sword"
+- *uindico* (regular 1st conjugation): "lay claim to"
+- *iacto* (regular 1st conjugation): "toss about"
+- *fluctibus* ablative plural of a noun meaning "wave"
+- *vincio, vincīre, vinxi, vinctum*, "bind about, attach*
+- *pectus, pectoris*, n. , "chest"
+- *figura, figurae* f., "shape, figure"
+- *immuto* (regular 1st conjugation): "change (a thing into something = *in* + accusative)"
+- *taurus, tauri*, m., "bull"
+
+1. Daedalus pennas sibi et Icaro filio  fecit.
+2. Bacchus Ariadnen amauit et sibi in coniugium abduxit.
+3.  Pelopia gladium eripuit, et in pectus sibi detrusit.
+4. Iuno Venus Minerua formam sibi uindicauerunt.
+5. Ulysses fluctibus iactabatur; Leucothea balteum ei dedit et sibi pectus uinciret.
+6. Achelous fluuius in omnes figuras se immutabat. hic cum Hercule propter Deianirae coniugium pugnauit, et in taurum se conuertit.
