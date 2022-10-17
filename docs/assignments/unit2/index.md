@@ -2,7 +2,7 @@
 title: "Introduction to unit 2"
 layout: page
 grand_parent: Course schedule
-parent: "Unit 2: time, place, purpose"
+parent: "Unit 2: richer sentences"
 nav_order: 1
 ---
 
