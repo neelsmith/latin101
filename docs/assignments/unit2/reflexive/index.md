@@ -2,7 +2,7 @@
 layout: page
 title: "Reflexive pronouns"
 grand_parent: Course schedule
-nav_order: 20
+nav_order: 2
 grand_parent: Schedule
 parent: "Unit 2: richer sentences"
 ---
