@@ -24,4 +24,4 @@ This week we learn how to use the familiar forms of substantives to express idea
 
 ### Due dates
 
-- written class preparation Oct. 19, Oct. 21
+- written class preparation Oct. 19
