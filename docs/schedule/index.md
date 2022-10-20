@@ -5,7 +5,7 @@ nav_order: 1
 has_children: true
 ---
 
-Last updated:  *October 19, 2022*
+Last updated:  *October 20, 2022*
 
 # Class schedule
 
@@ -34,7 +34,7 @@ Deadlines to note:
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
 | *Oct 17*, *Oct 19*, *Oct 21* | Review [module 1](../assignments/unit2/review1/) portfolio | ✏️The [reflexive](../assignments/unit2/reflexive/) pronoun | Practice with [pronouns](../assignments/unit2/pronouns-practice/) | **Mon**: *Classes resume.* |
-| *Oct 24*, *Oct 26*, *Oct 28* | ✏️Prepositions and time expressions | ✏️Present indicative | Irregular verbs: ferō, ferre, tulī, lātus; eō, īre, iī/īvī, itūrus | **Fri**: *📜 Mastering unit 2 forms due.* **Mon**: *⚠️ **Last day to submit revisions of unit 1 assignments**.* |
+| *Oct 24*, *Oct 26*, *Oct 28* | [✏️Prepositions](../assignments/unit2/prepositions/) and time expressions | ✏️Present indicative | Irregular verbs: ferō, ferre, tulī, lātus; eō, īre, iī/īvī, itūrus | **Fri**: *📜 Mastering unit 2 forms due.* **Mon**: *⚠️ **Last day to submit revisions of unit 1 assignments**.* |
 | *Oct 31*, *Nov 2*, *Nov 4* | Workshop: reading 2 | Workshop: composition 2 | Asking questions, and review of indicative | **Wed**: *📜 Reading assignment 2 due.* **Fri**: *📜 Composition 2 due.* |
 
 # Unit 3: subordination
