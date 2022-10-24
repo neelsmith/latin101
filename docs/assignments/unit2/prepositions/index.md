@@ -10,4 +10,8 @@ parent: "Unit 2: richer sentences"
 
 # Prepositions and time expressions
 
-- review the prepositions [listed here](http://localhost:4001/vocabulary/prepositions/)
+
+- read this section of your textbook on [prepositions and time expressions](https://lingualatina.github.io/textbook/topics/unit2/time-prepositions/)
+- learn these prepositions [listed here](https://lingualatina.github.io/textbook/vocabulary/prepositions/)
+
+## Written assignment

@@ -11,6 +11,7 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
 
 ## Announcements
 
+- **Oct. 24**: Extra drop-in hours for review of Unit 1 assignments will be posted here later today.
 - Links to Unit 1 portfolio assignments:
     - [mastery of forms](./assignments/unit1/mastery/)
     - [analysis and translation](./assignments/unit1/reading/)
