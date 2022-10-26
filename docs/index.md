@@ -11,7 +11,7 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
 
 ## Announcements
 
-- **Oct. 25**: Drop in hours today:  9:45-10:30, 11:45-2:00.  Review any unit 1 assignments for full credit.
+
 - Links to Unit 1 portfolio assignments:
     - [mastery of forms](./assignments/unit1/mastery/)
     - [analysis and translation](./assignments/unit1/reading/)
