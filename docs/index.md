@@ -11,18 +11,6 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
 
 ## Announcements
 
+- Wednesday, **Nov. 2**: go over revised schedule, introduce Module 2 portfolio assignments.
 
-- Links to Unit 1 portfolio assignments:
-    - [mastery of forms](./assignments/unit1/mastery/)
-    - [analysis and translation](./assignments/unit1/reading/)
-    - [composition](./assignments/unit1/composition/)
-
-
-
-## Week at a glance: Oct. 17 - Oct. 21
-
-This week we learn how to use the familiar forms of substantives to express ideas about time and place, including with prepositions.  We also learn two new pronouns, the *intensive* and *reflexive* pronouns.
-
-### Due dates
-
-- written class preparation Oct. 19
+## Week at a glance: Oct. 31 - Nov. 4

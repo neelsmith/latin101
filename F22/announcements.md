@@ -1,5 +1,11 @@
 # Announcements - archive
 
+
+
+- Links to Unit 1 portfolio assignments:
+    - [mastery of forms](./assignments/unit1/mastery/)
+    - [analysis and translation](./assignments/unit1/reading/)
+    - [composition](./assignments/unit1/composition/)
 - **Oct. 25**: Drop in hours today:  9:45-10:30, 11:45-2:00.  Review any unit 1 assignments for full credit.
 - Deadlines for first two portfolio assignments extended: see revised schedule
 - **Mon., Sept. 19**:  bring a laptop to class: we'll be looking up and making background notes on some of the content we'll see in sight reading today.
