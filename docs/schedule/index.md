@@ -5,7 +5,7 @@ nav_order: 1
 has_children: true
 ---
 
-Last updated:  *October 26, 2022*
+Last updated:  *October 31, 2022*
 
 # Class schedule
 
@@ -35,14 +35,14 @@ Deadlines to note:
 | ---: | :--- | :--- | :--- | :--- |
 | *Oct 17*, *Oct 19*, *Oct 21* | Review [module 1](../assignments/unit2/review1/) portfolio | ✏️The [reflexive](../assignments/unit2/reflexive/) pronoun | Practice with [pronouns](../assignments/unit2/pronouns-practice/) | **Mon**: *Classes resume.* |
 | *Oct 24*, *Oct 26*, *Oct 28* | [✏️Prepositions](../assignments/unit2/prepositions/) and time expressions | Irregular verbs: ferō, ferre, tulī, lātus; eō, īre, iī/īvī, itūrus | ✏️ Review/quiz: [substantive](../assignments/unit2/substantive-review/) forms | **Fri**: *📜 Mastering unit 2 forms due.* **Mon**: *⚠️ **Last day to submit revisions of unit 1 assignments**.* |
-| *Oct 31*, *Nov 2*, *Nov 4* | Workshop: reading 2 | Workshop: composition 2 | Asking questions, and review of indicative | **Wed**: *📜 Reading assignment 2 due.* **Fri**: *📜 Composition 2 due.* |
+| *Oct 31*, *Nov 2*, *Nov 4* | Review the reflexive pronoun | Introduce reading 2 | Introduce composition 2 | **Wed**: *📜 Reading assignment 2 due.* **Fri**: *📜 Composition 2 due.* |
 
 # Unit 3: subordination
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
 | *Nov 7*, *Nov 9*, *Nov 11* | Temporal clauses with the subjunctive | ✏️The imperfect and pluperfect subjunctive | ✏️Sequence of tenses: practice and review |  |
-| *Nov 14*, *Nov 16*, *Nov 18* | ✏️Indirect | Possum | ✏️Complementary infinitive with volo and nolo | **Fri**: *📜 Mastering unit 3 forms due.* |
+| *Nov 14*, *Nov 16*, *Nov 18* | ✏️Indirect | Asking questions, and review of indicative | ✏️ TBA | **Fri**: *📜 Mastering unit 3 forms due.* |
 | *Nov 21*, *Nov 23*, *Nov 25* | In-class workshop: reading assignment 3 | *Thanksgiving break:  no class* | *Thanksgiving break:  no class* | **Tue**: *Last class before Thanksgiving break.* **Mon**: *📜 Reading assignment 3 due.* |
 | *Nov 28*, *Nov 30*, *Dec 2* | In-class workshop: composition 3 | Review of requested topics or sight-reading practice | Review of CBL experience | **Mon**: *Classes resume.* **Fri**: *📜 Composition 3 due.* |
 | *Dec 5*, *Dec 7*, *Dec 9* | In-class workshop: trouble-shooting final assignments | Semester 1 review | Preparing for Latin 102 | **Fri**: *Last day of classes.* **Sat**: *Study period begins.* **Mon**: *⚠️ **Last day to submit revisions of unit 2 assignments**.* |
