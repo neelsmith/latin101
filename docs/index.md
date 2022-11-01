@@ -11,7 +11,7 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
 
 ## Announcements
 
-
+- [Module 2 review material](./resources/module2/)
 - Unit 2 portfolio assignments:
     - [Mastery of forms](./assignments/unit2/mastery/)
     - [Analysis and translation](./assignments/unit2/reading/)
@@ -26,17 +26,4 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
 
 We will review the reflexive pronouns and begin workshopping module 2 portfolio assignments.
 
-
-### Overview: infinitives
-
-The present infinitive:
-
-
-| Conjugation | Active | Passive | 
-| --- | --- | --- |
-| 1 | amāre | amārī |
-| 2 | timēre | timērī |
-| 3 | regere| regī |
-| 3-io | capere | capī |
-| 4 | audīre | audīrī |
 
