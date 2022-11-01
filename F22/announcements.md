@@ -1,7 +1,7 @@
 # Announcements - archive
 
 
-
+- Wednesday, **Nov. 2**: we will go over revised schedule, introduce Module 2 portfolio assignments. Until then, *ignore* due dates for module 2 portfolio assignments!
 - Links to Unit 1 portfolio assignments:
     - [mastery of forms](./assignments/unit1/mastery/)
     - [analysis and translation](./assignments/unit1/reading/)

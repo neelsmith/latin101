@@ -16,7 +16,6 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
     - [Mastery of forms](./assignments/unit2/mastery/)
     - [Analysis and translation](./assignments/unit2/reading/)
     - [Composition](./assignments/unit2/composition/index.md)
-- Wednesday, **Nov. 2**: we will go over revised schedule, introduce Module 2 portfolio assignments. Until then, *ignore* due dates for module 2 portfolio assignments!
 - Material to review for forthcoming Module 2 Mastery assignment:
     - substantive forms and agreement (nouns, adjectives, pronouns)
     - prepositional phrases
