@@ -1,7 +1,8 @@
 ---
 title: "Week at a glance: Sept. 26 - Sept. 30"
 
-parent: "Other resources and review"
+parent: "Weekly summaries"
+grand_parent: "Other resources and review"
 layout: page
 nav_order: 6
 has_children: true
