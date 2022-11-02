@@ -10,8 +10,40 @@ has_children: true
 # Review material: module 2
 
 
+## Reflexive pronoun
 
-## Irregular verbs to learn
+Refers to ("reflects") the same person or thing that is the *subject* of the clause.
+
+| Case | 	Sing./Pl. |
+| --- | --- |
+| Nominative | 	— |
+| Genitive | 	suī |
+| Dative | 	sibi |
+| Accusative | 	sē |
+| Ablative | 	sē |
+
+
+## Infinitives
+
+Use the second principal part to form the present infinitive in the active and passive voices.
+
+
+| Conjugation | Active | Passive | 
+| --- | --- | --- |
+| 1 | amāre | amārī |
+| 2 | timēre | timērī |
+| 3 | regere| regī |
+| 3-io | capere | capī |
+| 4 | audīre | audīrī |
+
+## Verbs with complementary infinitive
+
+Verbs you have seen that routinely take a complementary infinitive:
+
+- *possum* "to be able"
+- *uolo* "to want"
+
+## Verbs with irregular principal parts and some irregular forms
 
 
 
@@ -46,16 +78,3 @@ has_children: true
 - principal parts: *fero, ferre, tuli, latus*
 - imperfect: singular *ferebat*, plural *ferebant*
 
-
-## Infinitives
-
-Use the second principal part to form the present infinitive in the active and passive voices.
-
-
-| Conjugation | Active | Passive | 
-| --- | --- | --- |
-| 1 | amāre | amārī |
-| 2 | timēre | timērī |
-| 3 | regere| regī |
-| 3-io | capere | capī |
-| 4 | audīre | audīrī |

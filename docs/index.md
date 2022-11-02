@@ -13,14 +13,10 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
 
 - [Module 2 review material](./resources/module2/)
 - Unit 2 portfolio assignments:
-    - [Mastery of forms](./assignments/unit2/mastery/)
-    - [Analysis and translation](./assignments/unit2/reading/)
-    - [Composition](./assignments/unit2/composition/)
-- Material to review for Module 2 Mastery assignment
-    - substantive forms and agreement (nouns, adjectives, pronouns)
-    - prepositional phrases
-    - the reflexive pronoun
-    - the irregular verbs *sum*, *possum*, *volo*, *eo*, *fero*
+    - [Mastery of forms](./assignments/unit2/mastery/) (due Nov. 4)
+    - [Analysis and translation](./assignments/unit2/reading/) (due Nov. 7)
+    - [Composition](./assignments/unit2/composition/) (due Nov. 9)
+
 
 ## Week at a glance: Oct. 31 - Nov. 4
 
