@@ -20,29 +20,33 @@ Complete a full declension of the phrase "this foolish son" (*hic imprudens fili
 
 ### Singular 
 
-| Case |	Masculine |	Feminine |	Neuter |
-| --- | --- | --- | --- |
-| Nominative |	 |	|	 |
-| Genitive |	 |	|	 |
-| Dative 	|	 |	|	 |
-| Accusative |	 |	|	 |
-| Ablative |	 |	|	 |
+| Case |	Form |
+| --- | --- |
+| Nominative |	 |
+| Genitive |	 |	
+| Dative 	|	 |
+| Accusative |	 |	
+| Ablative |	 |	
 
 
 ### Plural 
 
-| Case |	Masculine |	Feminine |	Neuter |
-| --- | --- | --- | --- |
-| Nominative |	 |	|	 |
-| Genitive |	 |	|	 |
-| Dative 	|	 |	|	 |
-| Accusative |	 |	|	 |
-| Ablative |	 |	|	 |
+| Case |	Form |
+| --- | --- |
+| Nominative |	 |
+| Genitive |	 |	
+| Dative 	|	 |	
+| Accusative |	 |	
+| Ablative |	 |	
 
 
 ## Case usage
 
-Compose a Latin expression for the **highlighted phrases**.  In addition to your familiar vocabulary, use *ager, agri* m., "field," and *ago, agere, egi, actus* "to bring (a person)."
+Compose a Latin expression for the **highlighted phrases**.  In addition to your familiar vocabulary, use:
+
+-  *ager, agri* m., "field," 
+- *ago, agere, egi, actus* "to bring (a person)"
+- *nox, noctis* f., "night"
 
 1. Cydippe sent the oxen **into the fields**.
 2. They did not return **with her sons**.
