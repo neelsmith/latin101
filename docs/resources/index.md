@@ -7,6 +7,14 @@ has_children: true
 
 # Other resources and review
 
+
+## Review
+
+
+- [Module 2 review](./module2/)
+- [Weekly summaries](./weekly/)
+
+
 ## A scholarly dictionary
 
 - Lewis-Short *[Latin Dictionary](http://folio2.furman.edu/lewis-short/index.html)*
@@ -17,6 +25,4 @@ has_children: true
 - learn [markdown in 60 seconds](https://commonmark.org/help/)
 
 
-
-## Weekly summaries
 

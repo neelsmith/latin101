@@ -1,7 +1,7 @@
 ---
 title: "Week at a glance: Oct. 17 - Oct. 21"
-
-parent: "Other resources and review"
+parent: "Weekly summaries"
+grand_parent: "Other resources and review"
 layout: page
 nav_order: 8
 has_children: true
