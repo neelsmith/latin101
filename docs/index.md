@@ -11,8 +11,8 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
 
 ## Announcements
 
-- [Module 2 review material](./resources/module2/)
-- Unit 2 portfolio assignments:
+- **Review material**: [summary of module 2](./resources/module2/)
+- Module 2: **portfolio assignments**:
     - [Mastery of forms](./assignments/unit2/mastery/) (due Nov. 4)
     - [Analysis and translation](./assignments/unit2/reading/) (due Nov. 7)
     - [Composition](./assignments/unit2/composition/) (due Nov. 9)
