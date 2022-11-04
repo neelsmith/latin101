@@ -8,7 +8,7 @@ parent: "Unit 1: an inflected language"
 ---
 
 
-# Module 1, portfolio assignment: composition"
+# Module 1, portfolio assignment: composition
 
 ## Background
 

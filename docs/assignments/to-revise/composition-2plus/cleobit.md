@@ -1,6 +1,36 @@
-Cleops et Bitias Cydippae filii. 
+- *bos, bouis*, m., "ox"
+ **debeo, debere, debui, debitus* "owe, ought"; use with infinitive o *mean "should, ought (do something)"
+- *incipio, incipere, incepi, inceptus*: "begin"
+ **sacerdos, sacerdotis* m. or f., "priest, priestess"
+- *sacer, sacra, sacrum*, "sacred"; use the neuter plural "sacred things" with *duco* to mean "perform the sacred ceremonies"
+- *fanum, fani* n.
+- **templum, templi* n
+
+# Cleops et Bitias, Cydippae filii. 
+
+
+
+
+Cydippe sent the oxen into the fields, but they did not return with her sons.
+
+At that time, the festival was beginning.
+Cydippe, the priestess of Juno, was supposed to be present, but she was not able to go to the festival.
+Cleops and Bitias wanted to bring their mother to the festival, so 
+they yoked themselves to a wagon. sub iugo se iunxerunt
+
+
+
+They pulled the wagon for many hours.
+Cydippe prayed to the gods, and they granted to her sons the best gift possible for mortals.
+
+
+That night, they fell asleep and never woke up.fessi somno acquieuerunt.  They were dead.
+
+
+
 
 Cydippe sacerdos Iunonis Argiuae cum boues in pastionem misisset neque ad horam qua sacra in monte ad templum Iunonis duci et fieri deberent apparerent et essent mortui, quae nisi ad horam sacra facta essent, sacerdos interficiebatur;
+
 
 
 
