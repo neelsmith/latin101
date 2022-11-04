@@ -53,7 +53,7 @@ Use the detailed guideliness below to organize your composition in seven sentenc
 Be sure to proofread the entire essay when you are done.  It should *not* be a series of seven disconnected sentences, but a single paragraph, so that transitional words like conjunctions will make logical connections and pronouns have clear antecedents.
 
 
-# Cleops et Bitias, Cydippae filii. 
+# *Cleops et Bitias, Cydippae filii* 
 
 Your first sentence should express that Cydippe sent the oxen into the fields, but they (the oxen) did not return in time.  Use the preposition *ad* with *tempus, temporis* n. to express "in time."
 
