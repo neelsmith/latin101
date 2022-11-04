@@ -29,7 +29,7 @@ Supplement your required vocabulary with the following list, and compose a parag
 - *acquiesco, acquiescere, acquieui, acquietus* "to rest"
 - *adsum, adesse, adfui, -* "to be present"
 - *bos, bouis*, m., "ox"
--  **debeo, debere, debui, debitus* "owe, ought"; use with infinitive to *mean "should, ought (do something)"
+-  *debeo, debere, debui, debitus* "owe, ought"; use with infinitive to *mean "should, ought (do something)"
 - *fanum, fani* n. "sanctuary, temple*
 - *fessus, fessa, fessum* "exhausted"
 - *iugum, iugi* n., "yoke"
@@ -41,13 +41,16 @@ Supplement your required vocabulary with the following list, and compose a parag
 - *plaustrum, plaustri* n. "wagon"
 - *precor, precari, -, precatus* "to pray"
 - *quam* "than"
-- **sacerdos, sacerdotis* m. or f., "priest, priestess"
+- *sacerdos, sacerdotis* m. or f., "priest, priestess"
 - *sacer, sacra, sacrum*, "sacred"; use the neuter plural "sacred things" with *duco* to mean "perform the sacred ceremonies"
 - *surgo, surgere, surrexi, surrectus* "rise (from sleep)"
-- **templum, templi* n. "temple"
+- *templum, templi* n. "temple"
 
 You should use each vocabulary item in the list at least once.
 
+Use the detailed guideliness below to organize your composition in seven sentences.  
+
+Be sure to proofread the entire essay when you are done.  It should *not* be a series of seven disconnected sentences, but a single paragraph, so that transitional words like conjunctions will make logical connections and pronouns have clear antecedents.
 
 
 # Cleops et Bitias, Cydippae filii. 
