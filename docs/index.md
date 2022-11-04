@@ -11,6 +11,7 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
 
 ## Announcements
 
+- **Nov. 4**: [composition 2](./assignments/unit2/composition/) now posted.
 - **Review material**: [summary of module 2](./resources/module2/)
 - Module 2: **portfolio assignments**:
     - [Mastery of forms](./assignments/unit2/mastery/) (due Nov. 4)
