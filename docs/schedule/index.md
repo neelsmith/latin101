@@ -5,7 +5,7 @@ nav_order: 1
 has_children: true
 ---
 
-Last updated:  *November 7, 2022*
+Last updated:  *November 9, 2022*
 
 # Class schedule
 
@@ -41,7 +41,7 @@ Deadlines to note:
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Nov 7*, *Nov 9*, *Nov 11* | Workshop composition 2 | Temporal [clauses](../assignments/unit3/clauses/) with the subjunctive | ✏️The imperfect and pluperfect subjunctive | **Mon**: *📜 [Reading](../assignments/unit2/reading/) assignment 2 due.* **Wed**: *📜 [Composition](../assignments/unit2/composition/) 2 due.* |
+| *Nov 7*, *Nov 9*, *Nov 11* | Workshop composition 2 | Temporal [clauses](../assignments/unit3/clauses/) with the subjunctive | The imperfect and pluperfect [subjunctive](../assignments/unit3/subjunctive1/) | **Mon**: *📜 [Reading](../assignments/unit2/reading/) assignment 2 due.* **Wed**: *📜 [Composition](../assignments/unit2/composition/) 2 due.* |
 | *Nov 14*, *Nov 16*, *Nov 18* | ✏️Sequence of tenses: practice and review | ✏️Indirect statement | Asking questions, and review of indicative | **Fri**: *📜 Mastering unit 3 forms due.* |
 | *Nov 21*, *Nov 23*, *Nov 25* | In-class workshop: reading assignment 3 | *Thanksgiving break:  no class* | *Thanksgiving break:  no class* | **Tue**: *Last class before Thanksgiving break.* **Mon**: *📜 Reading assignment 3 due.* |
 | *Nov 28*, *Nov 30*, *Dec 2* | In-class workshop: composition 3 | Review of requested topics or sight-reading practice | Review of CBL experience | **Mon**: *Classes resume.* **Fri**: *📜 Composition 3 due.* |
