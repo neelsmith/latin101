@@ -1,6 +1,3 @@
-
-Get your sequence of tenses here!
-
 ```mermaid
 flowchart TD
 
