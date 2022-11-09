@@ -18,9 +18,10 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
     - [Analysis and translation](./assignments/unit2/reading/) (due Nov. 7)
     - [Composition](./assignments/unit2/composition/) (due Nov. 9)
 
+## Week at a glance: Nov. 7 - Nov. 11
 
-## Week at a glance: Oct. 31 - Nov. 4
+We introduce *subordinate clauses*, and introduce the *subjunctive* mood.  We learn about the *sequence of tenses* in temporal clauses introduced by the conjunction *cum*.
 
-We will review the reflexive pronouns and begin workshopping module 2 portfolio assignments.
+### Sequence of tenses: a flow chart
 
-
+![Sequence of tenses](./imgs/sot.png)
