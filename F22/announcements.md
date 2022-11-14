@@ -1,6 +1,11 @@
 # Announcements - archive
 
-
+- **Nov. 4**: [composition 2](./assignments/unit2/composition/) now posted.
+- **Review material**: [summary of module 2](./resources/module2/)
+- Module 2: **portfolio assignments**:
+    - [Mastery of forms](./assignments/unit2/mastery/) (due Nov. 4)
+    - [Analysis and translation](./assignments/unit2/reading/) (due Nov. 7)
+    - [Composition](./assignments/unit2/composition/) (due Nov. 9)
 - Wednesday, **Nov. 2**: we will go over revised schedule, introduce Module 2 portfolio assignments. Until then, *ignore* due dates for module 2 portfolio assignments!
 - Links to Unit 1 portfolio assignments:
     - [mastery of forms](./assignments/unit1/mastery/)
