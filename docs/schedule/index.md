@@ -5,7 +5,7 @@ nav_order: 1
 has_children: true
 ---
 
-Last updated:  *November 9, 2022*
+Last updated:  *November 14, 2022*
 
 # Class schedule
 
@@ -42,8 +42,8 @@ Deadlines to note:
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
 | *Nov 7*, *Nov 9*, *Nov 11* | Workshop composition 2 | Temporal [clauses](../assignments/unit3/clauses/) with the subjunctive | The imperfect and pluperfect [subjunctive](../assignments/unit3/subjunctive1/) | **Mon**: *📜 [Reading](../assignments/unit2/reading/) assignment 2 due.* **Wed**: *📜 [Composition](../assignments/unit2/composition/) 2 due.* |
-| *Nov 14*, *Nov 16*, *Nov 18* | ✏️Sequence of tenses: practice and review | ✏️Indirect statement | Asking questions, and review of indicative | **Fri**: *📜 Mastering unit 3 forms due.* |
-| *Nov 21*, *Nov 23*, *Nov 25* | In-class workshop: reading assignment 3 | *Thanksgiving break:  no class* | *Thanksgiving break:  no class* | **Tue**: *Last class before Thanksgiving break.* **Mon**: *📜 Reading assignment 3 due.* |
-| *Nov 28*, *Nov 30*, *Dec 2* | In-class workshop: composition 3 | Review of requested topics or sight-reading practice | Review of CBL experience | **Mon**: *Classes resume.* **Fri**: *📜 Composition 3 due.* |
+| *Nov 14*, *Nov 16*, *Nov 18* | Practice reading with subordinate clauses | ✏️[Sequence](../assignments/unit3/sot/) of tenses: practice and review | Introducing indirect [statement](../assignments/unit3/indirectstatement/) | **Fri**: *📜 Mastering unit 3 forms due.* |
+| *Nov 21*, *Nov 23*, *Nov 25* | ✏️Practice with [indirect](../assignments/unit3/indirectpractice/) statement | *Thanksgiving break:  no class* | *Thanksgiving break:  no class* | **Tue**: *Last class before Thanksgiving break.* **Mon**: *📜 Reading assignment 3 due.* |
+| *Nov 28*, *Nov 30*, *Dec 2* | In-class workshop: reading assignment 3 | In-class workshop: composition 3 | Review of requested topics or sight-reading practice | **Mon**: *Classes resume.* **Fri**: *📜 Composition 3 due.* |
 | *Dec 5*, *Dec 7*, *Dec 9* | In-class workshop: trouble-shooting final assignments | Semester 1 review | Preparing for Latin 102 | **Fri**: *Last day of classes.* **Sat**: *Study period begins.* **Mon**: *⚠️ **Last day to submit revisions of unit 2 assignments**.* |
 | *Dec 12*, *Dec 14*, *Dec 16* | *study period* | *exam period* | *exam period* | **Tue**: *Final examinations begin.* **Mon**: *⚠️ **Last day to submit revisions of unit 3 assignments*** |
