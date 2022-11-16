@@ -12,8 +12,6 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
 ## Announcements
 
 
-- Graded assignments will be synced with Canvas on **Tuesday, Nov. 15**
-
 
 
 ## Week at a glance: Nov. 14 - Nov. 18
