@@ -13,7 +13,7 @@ parent: "Unit 3: subordination"
  
 All vocabulary and bolded constructions can be found either below or in the required vocabulary lists.
  
-Cum Achīvī decem annōs in Troia fuissent, Epeus mirae magnitūdinis equum ligneum fēcit. In eō collēctī sunt Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus. et in equō scripsērunt “DANAI MINERVAE DONUM DANT”, castraque transtulērunt Tenedo. Cum id Troianī vidērunt, Priamus equum in templum Minervae duxit. Cum Cassandra diceret equum habere hostes, fidēs eī non data est et equum pro templō posuērunt. Achīvī exiērunt et custodēs occidērunt et Troiam sunt potitī. 
+Cum Achīvī decem annōs in Troia fuissent, Epeus mirae magnitūdinis equum ligneum fēcit. In eō collēctī sunt Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus. et in equō scripsērunt “DANAI MINERVAE DONUM DEDERUNT, castraque transtulērunt Tenedo. Cum id Troianī vidērunt, Priamus equum in templum Minervae duxit. Cum Cassandra diceret equum habere hostes, fidēs eī non data est et equum pro templō posuērunt. Achīvī exiērunt et custodēs occidērunt et Troiam sunt potitī. 
 
 **Vocabulary and notes**
 
@@ -40,7 +40,7 @@ Cum Achīvī decem annōs in Troia fuissent, Epeus mirae magnitūdinis equum lig
 21. potior, potīrī, potītus sum - to acquire, conquer; sunt potiti = “they acquired”
  
 ### A. Grammatical Questions 
-1.  Highlight all the verbs blue, the subjects in yellow and direct objects in green.
+1.  Highlight all the finite verbs with two asterisks **like this**, and the subjects with one asterisk *like this*.
  
 
 2. What is the case of decem annōs (line 1) and what use of that case?
