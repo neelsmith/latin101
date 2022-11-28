@@ -11,18 +11,9 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
 
 ## Announcements
 
+- no new material after Thanksgiving: review and practice with portfolio assignments
 
 
+## Week at a glance: Nov. 28 - Dec. 2
 
-## Week at a glance: Nov. 14 - Nov. 18
-
-
-We continue to practice reading Latin with subordinate clauses.
-
-We learn a second pair of infinitives (the *perfect active and passive infinitives*), and introduce *indirect statement*.
-
-### Sequence of tenses: a flow chart
-
-Reference:  sequence of tenses.
-
-![Sequence of tenses](./imgs/sot.png)
+We introduce the final portfolio assignments of the semester.
