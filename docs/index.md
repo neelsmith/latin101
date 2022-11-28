@@ -11,6 +11,7 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
 
 ## Announcements
 
+- unit 3 portfolio assignment: [analysis and translation](./assignments/unit3/reading/)
 - no new material after Thanksgiving: review and practice with portfolio assignments
 
 
