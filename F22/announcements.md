@@ -1,5 +1,17 @@
 # Announcements - archive
 
+## Week at a glance: Nov. 14 - Nov. 18
+
+
+We continue to practice reading Latin with subordinate clauses.
+
+We learn a second pair of infinitives (the *perfect active and passive infinitives*), and introduce *indirect statement*.
+
+### Sequence of tenses: a flow chart
+
+Reference:  sequence of tenses.
+
+![Sequence of tenses](./imgs/sot.png)
 - **Nov. 4**: [composition 2](./assignments/unit2/composition/) now posted.
 - **Review material**: [summary of module 2](./resources/module2/)
 - Module 2: **portfolio assignments**:
