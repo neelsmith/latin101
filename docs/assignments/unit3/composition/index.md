@@ -14,19 +14,19 @@ parent: "Unit 3: subordination"
 
 Supplement your vocabulary with the following list, and compose a paragraph of Latin about the story of the Trojan horse.
 
-ab + eo. The compound narrows the idea of “to go” to mean “go away.”
-abscondo, abscondĕre, abscondidi, absconditus “conceal, hide”
-Achiuus, Achiuva, Achiuum “Achaean” (a Homeric name for the Greeks)
-cognosco, cognoscĕre, cognoui, cognitus “to perceive, learn, understand”
-credo, credĕre, credidi, creditus “to believe”. Use the dative case for "trust in, believe (a person)".
-dico, dicĕre, dixi, dictus “to say”
-equus, equi, m. “horse”
-ex + eo. The compound narrows the idea of “to go” to mean “to go out” or “exit” (which dervies directly from Latin exeo).
-in + sum. The compound narrows the idea of “to be” to mean “to be inside”. The principal parts are identical to those of sum
-ligneus, lignea, ligneum “wooden”
-nemo nominative singular, “no one”
-potior, potiri, -, potitus "take possession of"
-scribo, scribere, scripsi, scriptus "to write"
+- *ab + eo*. The compound narrows the idea of “to go” to mean “go away.”
+- *abscondo, abscondĕre, abscondidi, absconditus* “conceal, hide”
+- *Achiuus, Achiuva, Achiuum* “Achaean” (a Homeric name for the Greeks)
+- *cognosco, cognoscĕre, cognoui, cognitus* “to perceive, learn, understand”
+- *credo, credĕre, credidi, creditus* “to believe”. Use the dative case for "trust in, believe (a person)".
+- equus, equi, m. “horse”
+- *dico, dicĕre, dixi, dictus* “to say”
+- *ex + eo*. The compound narrows the idea of “to go” to mean “to go out” or “exit” (which dervies directly from Latin exeo).
+- *in + sum*. The compound narrows the idea of “to be” to mean “to be inside”. The principal parts are identical to those of sum
+- *ligneus, lignea, ligneum* “wooden”
+- *nemo* nominative singular, “no one”
+- *potior, potiri, -, potitus* "take possession of"
+- *scribo, scribere, scripsi, scriptus* "to write"
 
 
 ## The Trojan horse
