@@ -12,6 +12,8 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
 ## Announcements
 
 - **Monday, Dec. 5**: mental health day. Instead of class, extra drop-in hours in my office from 10:00-12:00.
+- **Tuesday, Dec. 6**: any assignments submitted by noon on Tuesday will be marked before Wednesday class.
+- **Monday, Dec. 12**:  final deadline for all unit three submissions
 - unit 3 portfolio assignments: 
     - [mastery of forms](./assignments/unit3/mastery/)
     - [analysis and translation](./assignments/unit3/reading/)
