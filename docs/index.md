@@ -11,7 +11,11 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
 
 ## Announcements
 
-- unit 3 portfolio assignment: [analysis and translation](./assignments/unit3/reading/)
+- **Monday, Dec. 5**: mental health day. Instead of class, extra drop-in hours in my office from 10:00-12:00.
+- unit 3 portfolio assignments: 
+    - [mastery of forms](./assignments/unit3/mastery/)
+    - [analysis and translation](./assignments/unit3/reading/)
+    - [composition](./assignments/unit3/composition/)
 - no new material after Thanksgiving: review and practice with portfolio assignments
 
 
