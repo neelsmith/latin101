@@ -5,7 +5,7 @@ nav_order: 1
 has_children: true
 ---
 
-Last updated:  *November 30, 2022*
+Last updated:  *December 2, 2022*
 
 # Class schedule
 
@@ -45,5 +45,5 @@ Deadlines to note:
 | *Nov 14*, *Nov 16*, *Nov 18* | Practice reading with subordinate clauses | ✏️[Sequence](../assignments/unit3/sot/) of tenses: practice and review | Introducing indirect [statement](../assignments/unit3/indirectstatement/) |  |
 | *Nov 21*, *Nov 23*, *Nov 25* | ✏️Practice with [indirect](../assignments/unit3/indirectpractice/) statement | *Thanksgiving break:  no class* | *Thanksgiving break:  no class* | **Tue**: *Last class before Thanksgiving break.* **Mon**: *📜 Mastering unit 3 forms due.* |
 | *Nov 28*, *Nov 30*, *Dec 2* | In-class workshop: reading assignment 3 | In-class workshop: composition 3 | CBL reflection; semester review | **Mon**: *Classes resume.* **Mon**: *📜 Reading assignment 3 due.* **Fri**: *📜 Composition 3 due.* |
-| *Dec 5*, *Dec 7*, *Dec 9* | Mental health day/extra office hours | Last-chance trouble shooting | Preparing for Latin 102 | **Fri**: *Last day of classes.* **Sat**: *Study period begins.* **Mon**: *⚠️ **Last day to submit revisions of unit 2 assignments**.* |
+| *Dec 5*, *Dec 7*, *Dec 9* | *optional class*: review module 2 portfolio work | *optional class*: review module 3 portfolio work | Preparing for Latin 102 | **Fri**: *Last day of classes.* **Sat**: *Study period begins.* **Mon**: *⚠️ **Last day to submit revisions of unit 2 assignments**.* |
 | *Dec 12*, *Dec 14*, *Dec 16* | *study period* | *exam period* | *exam period* | **Tue**: *Final examinations begin.* **Mon**: *⚠️ **Last day to submit revisions of unit 3 assignments*** |
