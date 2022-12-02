@@ -11,14 +11,19 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
 
 ## Announcements
 
-- **Monday, Dec. 5**: mental health day. Instead of class, extra drop-in hours in my office from 10:00-12:00.
+- **Module 3 homeworks submitted on time receive full credit** (with or without revision)
+- **Optional classes on Dec. 5 and Dec. 7**:
+    - Mon., 10:00: review Module 2 reading and analysis
+    - Mon., 10:25: review Module 2 composition
+    - Wed., 10:00: review Module 3 reading and analysis
+    - Wed, 10:25: review Module 3 composition
 - **Tuesday, Dec. 6**: any assignments submitted by noon on Tuesday will be marked before Wednesday class.
 - **Monday, Dec. 12**:  final deadline for all unit three submissions
 - unit 3 portfolio assignments: 
     - [mastery of forms](./assignments/unit3/mastery/)
     - [analysis and translation](./assignments/unit3/reading/)
     - [composition](./assignments/unit3/composition/)
-- no new material after Thanksgiving: review and practice with portfolio assignments
+
 
 
 ## Week at a glance: Nov. 28 - Dec. 2
