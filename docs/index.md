@@ -11,12 +11,13 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
 
 ## Announcements
 
+- **Extra drop-in time**: Monday, Dec. 5, 10:00-10:45.
 - **Module 3 homeworks submitted on time receive full credit** (with or without revision)
 - **Optional classes on Dec. 5 and Dec. 7**:
-    - Mon., 10:00: review Module 2 reading and analysis
-    - Mon., 10:25: review Module 2 composition
-    - Wed., 10:00: review Module 3 reading and analysis
-    - Wed, 10:25: review Module 3 composition
+    - Mon., 11:00: review Module 2 reading and analysis
+    - Mon., 11:25: review Module 2 composition
+    - Wed., 11:00: review Module 3 reading and analysis
+    - Wed, 11:25: review Module 3 composition
 - **Tuesday, Dec. 6**: any assignments submitted by noon on Tuesday will be marked before Wednesday class.
 - **Monday, Dec. 12**:  final deadline for all unit three submissions
 - unit 3 portfolio assignments: 
