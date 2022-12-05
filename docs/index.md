@@ -11,6 +11,7 @@ Welcome to the web site for Latin 101, section 2, at Holy Cross.
 
 ## Announcements
 
+- **Dec. 5**: summary of some key [irregular forms](./resources/irregulars/) at a glance
 - **Extra drop-in time**: Monday, Dec. 5, 10:00-10:45.
 - **Module 3 homeworks submitted on time receive full credit** (with or without revision)
 - **Optional classes on Dec. 5 and Dec. 7**:
